@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<products>
+	<product>
+		<name>Cinema Mocap 2</name>
+		<keyImage>MocapKeyImage</keyImage>
+		<headerText>Cinema Mocap 2</headerText>
+		<version>v2.0.4.0</version>
+		<header2Text>v2.0.4.0 detected.</header2Text>
+		<bodyText>Thank you for purchasing Cinema Mocap 2! We hope that you enjoy using the product and that it helps make your game dev project a success!
+		
+If you have a chance, please leave us a review on the Asset Store.</bodyText>
+		
+		<resourceImage1>Cinema_Suite_Docs</resourceImage1>
+		<resourceImage2>Cinema_Suite_Forums</resourceImage2>
+		<resourceImage3>Cinema_Suite_Tips</resourceImage3>
+		<resourceImage4>Cinema_Suite_Video</resourceImage4>
+		
+		<resourceImage1Link>http://www.cinema-suite.com/Documentation/CinemaMoCap/Current/CinemaMoCapDocumentation.pdf</resourceImage1Link>
+		<resourceImage2Link>http://cinema-suite.com/forum/viewforum.php?f=9</resourceImage2Link>
+		<resourceImage3Link>https://www.youtube.com/playlist?list=PLkTFhf2jQXOnuPITh5hit_WP8BOktxm2j</resourceImage3Link>
+		<resourceImage4Link>https://youtu.be/X_aEFKNDTYw</resourceImage4Link>
+		
+		<resourceImage1Label>Docs</resourceImage1Label>
+		<resourceImage2Label>Forum</resourceImage2Label>
+		<resourceImage3Label>Tips</resourceImage3Label>
+		<resourceImage4Label>Tutorial</resourceImage4Label>
+		
+		<assetStorePage>http://u3d.as/ozR</assetStorePage>
+		
+		<installed>true</installed>
+	</product>
+</products>

@@ -1,0 +1,71 @@
+v2.0.4.0
+=============
+- Fixed issue where some editor files were preventing successful builds.
+- Fixed menu item text.
+
+v2.0.3.1
+=============
+- Hotfix for animation combiner.
+
+v2.0.3.0
+=============
+- Added a tool to help combine a face animation and a body animation in a single animation controller.
+
+v2.0.2.0
+=============
+- Fixed issue with saved animations have wrists/ankles spin/jitter randomly.
+
+v2.0.1.0
+=============
+- Fixed: Fixed an issue with saved animations having wrists spinning/jittering in circles.
+
+v2.0.0.10
+=============
+- Fixed: Updated SkeletonRenderer to use new properties introduced to the Line Renderer in Unity 5.5
+
+v2.0.0.9
+=============
+- Fixed: Updated links in the about section.
+
+v2.0.0.8
+=============
+- Added: Editor GUI icon images moved to special Unity folder, "Editor Default Resources". Our icons in this folder will automatically no longer be included in your builds.
+
+v2.0.0.7
+=============
+- Fixed bug where Matrix output type with Kinect 2 was not being imported into Blender properly.
+
+v2.0.0.6
+=============
+- Redesigned UI.
+- Added: Layouts, which let users select pre-defined layouts of viewers.
+- Added: Ability to record and save the session raw data.
+- Added: Ability to load raw session data for review. From here, users can manipulate settings and create a new output animation.
+- Added: Skeleton masking, to disable certain joints.
+- Added: Ability to select folder where animations are saved to.
+- Added: New welcome/help window.
+- Added: Settings panel to select app defaults.
+- Added: New filter for tilt correction.
+- Added: New filter for general smoothing.
+- Added: New filter for mirroring left-right.
+- Added: Ability for users to extend the Input, Mapping and Output profiles to create their own custom use cases. (C# coding req.)
+- Added: Ability for users to extend the code base to create their own layouts and viewers. (C# coding req.)
+- Added: Ability for users to create their own custom filters. (C# coding req.)
+
+v1.3.0.1
+=============
+- Added support for Kinect 2 sensor.
+
+v1.1.1.0
+=============
+- Fixed some issues with scaling and head rotation.
+
+v1.1.0.0
+=============
+- Exports now compatible with Maya and Blender.
+
+v1.0.1.0
+=============
+- Reduced jitter in captured animations.
+- Fixed bug where you couldn't build when plugin present.
+- Fixed various minor bugs.

@@ -87,7 +87,7 @@ namespace CinemaSuite
 
         public void Awake()
         {
-#if UNITY_5 && !UNITY_5_0 || UNITY_2017_1_OR_NEWER
+#if UNITY_5 && !UNITY_5_0
             base.titleContent = new GUIContent(TITLE);
 #else
             base.title = TITLE;
@@ -134,7 +134,7 @@ namespace CinemaSuite
         {
             GUI.skin.label.richText = true;
             
-#if UNITY_5 || UNITY_2017_1_OR_NEWER
+#if UNITY_5
             using (var verticalScope = new EditorGUILayout.VerticalScope())
             {
                 using (var scrollView = new EditorGUILayout.ScrollViewScope(scrollPosition, GUILayout.Width(base.position.width), GUILayout.Height(base.position.height - 16)))
@@ -192,7 +192,7 @@ namespace CinemaSuite
                         this.DrawAboutCinemaSuiteSection();
                     }
                 }
-#if !UNITY_5 && !UNITY_2017_1_OR_NEWER
+#if !UNITY_5
                 EditorGUILayout.EndScrollView();
 #endif
             }
@@ -216,14 +216,14 @@ namespace CinemaSuite
             product.ShowProductInfo.target = EditorGUI.Foldout(foldoutRect, product.ShowProductInfo.target, product.name, true);
             EditorGUILayout.EndVertical();
 
-#if UNITY_5 || UNITY_2017_1_OR_NEWER
+#if UNITY_5
             using (var productGroup = new EditorGUILayout.FadeGroupScope(product.ShowProductInfo.faded))
             {
                 if (productGroup.visible)
                 {
 #else
             {
-                if (product.ShowProductInfo.target)
+                if(product.ShowProductInfo.target)
                 {
 #endif
             
@@ -263,8 +263,8 @@ namespace CinemaSuite
             Rect aboutRect = EditorGUILayout.GetControlRect(GUILayout.Width(base.position.width - 22));
             GUI.Box(new Rect(aboutRect.x - 4, aboutRect.y, aboutRect.width + 8, aboutRect.height), string.Empty, EditorStyles.toolbar);
             showCinemaSuiteAbout.target = EditorGUI.Foldout(aboutRect, showCinemaSuiteAbout.target, "About Cinema Suite");
-
-#if UNITY_5 || UNITY_2017_1_OR_NEWER
+            
+#if UNITY_5
             using (var group = new EditorGUILayout.FadeGroupScope(showCinemaSuiteAbout.faded))
             {
                 if (group.visible)

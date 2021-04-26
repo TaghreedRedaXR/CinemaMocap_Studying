@@ -55,9 +55,9 @@
 	</product>
 	
 	<product>
-		<name>Cinema Mocap 2</name>
+		<name>Cinema Mo Cap</name>
 		<keyImage>MocapKeyImage</keyImage>
-		<headerText>Cinema Mocap 2</headerText>
+		<headerText>Cinema Mo Cap</headerText>
 		<header2Text>Markerless Motion Capture.</header2Text>
 		<bodyText>Capture animations right inside of Unity using your Kinect or Kinect 2! Animations are Mecanim compatible and can be applied to any humanoid character.</bodyText>
 		

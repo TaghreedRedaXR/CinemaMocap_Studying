@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: f04af36e69cc20d499bbde5d0e58e615
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base
+    100002: Base 1
+    100004: body
+    100006: CentralCranium
+    100008: Chest
+    100010: //RootNode
+    100012: face
+    100014: FaceCapRobot
+    100016: head
+    100018: head 1
+    100020: Heel
+    100022: Heel 1
+    100024: HeelBase
+    100026: HeelBase 1
+    100028: hips
+    100030: L_Ankle
+    100032: L_Ball
+    100034: L_Clav
+    100036: L_connect_Pelvis
+    100038: L_Elbow
+    100040: L_Elbow_Top
+    100042: L_Hand
+    100044: L_Hip
+    100046: L_Hip_Top
+    100048: L_Index_01
+    100050: L_Index_02
+    100052: L_Index_03
+    100054: L_Index_04
+    100056: L_Knee
+    100058: L_Knee_Top
+    100060: L_Middle_01
+    100062: L_Middle_02
+    100064: L_Middle_03
+    100066: L_Middle_04
+    100068: L_Pinky_00
+    100070: L_Pinky_01
+    100072: L_Pinky_02
+    100074: L_Pinky_03
+    100076: L_Pinky_04
+    100078: L_Ring_01
+    100080: L_Ring_02
+    100082: L_Ring_03
+    100084: L_Ring_04
+    100086: L_Shoul_Top
+    100088: L_Shoulder
+    100090: L_Thumb_02
+    100092: L_Thumb_03
+    100094: L_Thumb_04
+    100096: L_Thumn_01
+    100098: L_Toe
+    100100: L_Wrist
+    100102: L_Wrist_top
+    100104: LeftArm
+    100106: LeftArm 1
+    100108: LeftCalf
+    100110: LeftEar
+    100112: LeftEye
+    100114: LeftFoot
+    100116: LeftForeArm
+    100118: LeftFrontHydro
+    100120: LeftHand
+    100122: LeftHand 1
+    100124: LeftHeadWire
+    100126: LeftHydro
+    100128: LeftLeg
+    100130: LeftShoulder
+    100132: LeftShoulder 1
+    100134: LeftUpperLeg
+    100136: LogoBase
+    100138: LogoIcon
+    100140: MocapBot
+    100142: Neck
+    100144: Neck 1
+    100146: Pelvis
+    100148: R_Ankle
+    100150: R_Ball
+    100152: R_Clav
+    100154: R_Connect_Pelvis
+    100156: R_Elbow
+    100158: R_Elbow_Top
+    100160: R_Hand
+    100162: R_hip
+    100164: R_Hip_Top
+    100166: R_Index_01
+    100168: R_Index_02
+    100170: R_Index_03
+    100172: R_Index_04
+    100174: R_Knee
+    100176: R_Knee_Top
+    100178: R_Middle_01
+    100180: R_Middle_02
+    100182: R_Middle_03
+    100184: R_Middle_04
+    100186: R_Pinky_00
+    100188: R_Pinky_01
+    100190: R_Pinky_02
+    100192: R_Pinky_03
+    100194: R_Pinky_04
+    100196: R_Ring_01
+    100198: R_Ring_02
+    100200: R_Ring_03
+    100202: R_Ring_04
+    100204: R_Shoulder
+    100206: R_Shoulder_Top
+    100208: R_Thumb_02
+    100210: R_Thumb_03
+    100212: R_Thumb_04
+    100214: R_Thumn_01
+    100216: R_Toe
+    100218: R_Wrist
+    100220: R_Wrist_top
+    100222: RightArm
+    100224: RightArm 1
+    100226: RightClav
+    100228: RightEar
+    100230: RightEye
+    100232: RightFoot
+    100234: RightForeArm
+    100236: RightFrontHydro
+    100238: RightHeadWire
+    100240: RightHip
+    100242: RightHip 1
+    100244: RightHydro
+    100246: RightLeg
+    100248: RightUpperLeg
+    100250: Root
+    100252: Spine
+    100254: Spine_02
+    100256: spine_02
+    100258: Spine_03
+    100260: Spine_04
+    100262: Toes
+    100264: Toes 1
+    100266: Top_Head
+    100268: TopFoot
+    100270: TopFoot 1
+    100272: waist
+    400000: Base
+    400002: Base 1
+    400004: body
+    400006: CentralCranium
+    400008: Chest
+    400010: //RootNode
+    400012: face
+    400014: FaceCapRobot
+    400016: head
+    400018: head 1
+    400020: Heel
+    400022: Heel 1
+    400024: HeelBase
+    400026: HeelBase 1
+    400028: hips
+    400030: L_Ankle
+    400032: L_Ball
+    400034: L_Clav
+    400036: L_connect_Pelvis
+    400038: L_Elbow
+    400040: L_Elbow_Top
+    400042: L_Hand
+    400044: L_Hip
+    400046: L_Hip_Top
+    400048: L_Index_01
+    400050: L_Index_02
+    400052: L_Index_03
+    400054: L_Index_04
+    400056: L_Knee
+    400058: L_Knee_Top
+    400060: L_Middle_01
+    400062: L_Middle_02
+    400064: L_Middle_03
+    400066: L_Middle_04
+    400068: L_Pinky_00
+    400070: L_Pinky_01
+    400072: L_Pinky_02
+    400074: L_Pinky_03
+    400076: L_Pinky_04
+    400078: L_Ring_01
+    400080: L_Ring_02
+    400082: L_Ring_03
+    400084: L_Ring_04
+    400086: L_Shoul_Top
+    400088: L_Shoulder
+    400090: L_Thumb_02
+    400092: L_Thumb_03
+    400094: L_Thumb_04
+    400096: L_Thumn_01
+    400098: L_Toe
+    400100: L_Wrist
+    400102: L_Wrist_top
+    400104: LeftArm
+    400106: LeftArm 1
+    400108: LeftCalf
+    400110: LeftEar
+    400112: LeftEye
+    400114: LeftFoot
+    400116: LeftForeArm
+    400118: LeftFrontHydro
+    400120: LeftHand
+    400122: LeftHand 1
+    400124: LeftHeadWire
+    400126: LeftHydro
+    400128: LeftLeg
+    400130: LeftShoulder
+    400132: LeftShoulder 1
+    400134: LeftUpperLeg
+    400136: LogoBase
+    400138: LogoIcon
+    400140: MocapBot
+    400142: Neck
+    400144: Neck 1
+    400146: Pelvis
+    400148: R_Ankle
+    400150: R_Ball
+    400152: R_Clav
+    400154: R_Connect_Pelvis
+    400156: R_Elbow
+    400158: R_Elbow_Top
+    400160: R_Hand
+    400162: R_hip
+    400164: R_Hip_Top
+    400166: R_Index_01
+    400168: R_Index_02
+    400170: R_Index_03
+    400172: R_Index_04
+    400174: R_Knee
+    400176: R_Knee_Top
+    400178: R_Middle_01
+    400180: R_Middle_02
+    400182: R_Middle_03
+    400184: R_Middle_04
+    400186: R_Pinky_00
+    400188: R_Pinky_01
+    400190: R_Pinky_02
+    400192: R_Pinky_03
+    400194: R_Pinky_04
+    400196: R_Ring_01
+    400198: R_Ring_02
+    400200: R_Ring_03
+    400202: R_Ring_04
+    400204: R_Shoulder
+    400206: R_Shoulder_Top
+    400208: R_Thumb_02
+    400210: R_Thumb_03
+    400212: R_Thumb_04
+    400214: R_Thumn_01
+    400216: R_Toe
+    400218: R_Wrist
+    400220: R_Wrist_top
+    400222: RightArm
+    400224: RightArm 1
+    400226: RightClav
+    400228: RightEar
+    400230: RightEye
+    400232: RightFoot
+    400234: RightForeArm
+    400236: RightFrontHydro
+    400238: RightHeadWire
+    400240: RightHip
+    400242: RightHip 1
+    400244: RightHydro
+    400246: RightLeg
+    400248: RightUpperLeg
+    400250: Root
+    400252: Spine
+    400254: Spine_02
+    400256: spine_02
+    400258: Spine_03
+    400260: Spine_04
+    400262: Toes
+    400264: Toes 1
+    400266: Top_Head
+    400268: TopFoot
+    400270: TopFoot 1
+    400272: waist
+    4300000: face
+    4300002: LeftEar
+    4300004: CentralCranium
+    4300006: RightHeadWire
+    4300008: Neck
+    4300010: LeftHeadWire
+    4300012: LeftHydro
+    4300014: RightHydro
+    4300016: LeftFrontHydro
+    4300018: RightFrontHydro
+    4300020: RightEar
+    4300022: LeftEye
+    4300024: RightEye
+    4300026: Spine
+    4300028: LogoBase
+    4300030: LogoIcon
+    4300032: Chest
+    4300034: waist
+    4300036: hips
+    4300038: LeftShoulder
+    4300040: LeftHand
+    4300042: LeftArm
+    4300044: LeftForeArm
+    4300046: RightArm
+    4300048: RightForeArm
+    4300050: LeftShoulder
+    4300052: LeftHand
+    4300054: RightHip
+    4300056: LeftUpperLeg
+    4300058: LeftCalf
+    4300060: RightUpperLeg
+    4300062: RightClav
+    4300064: RightHip
+    4300066: Heel
+    4300068: Base
+    4300070: TopFoot
+    4300072: Toes
+    4300074: HeelBase
+    4300076: Toes
+    4300078: TopFoot
+    4300080: HeelBase
+    4300082: Base
+    4300084: Heel
+    9500000: //RootNode
+    13700000: Base
+    13700002: Base 1
+    13700004: CentralCranium
+    13700006: Chest
+    13700008: face
+    13700010: Heel
+    13700012: Heel 1
+    13700014: HeelBase
+    13700016: HeelBase 1
+    13700018: hips
+    13700020: LeftArm 1
+    13700022: LeftCalf
+    13700024: LeftEar
+    13700026: LeftEye
+    13700028: LeftForeArm
+    13700030: LeftFrontHydro
+    13700032: LeftHand
+    13700034: LeftHand 1
+    13700036: LeftHeadWire
+    13700038: LeftHydro
+    13700040: LeftShoulder
+    13700042: LeftShoulder 1
+    13700044: LeftUpperLeg
+    13700046: LogoBase
+    13700048: LogoIcon
+    13700050: Neck
+    13700052: RightArm 1
+    13700054: RightClav
+    13700056: RightEar
+    13700058: RightEye
+    13700060: RightForeArm
+    13700062: RightFrontHydro
+    13700064: RightHeadWire
+    13700066: RightHip
+    13700068: RightHip 1
+    13700070: RightHydro
+    13700072: RightUpperLeg
+    13700074: Spine
+    13700076: Toes
+    13700078: Toes 1
+    13700080: TopFoot
+    13700082: TopFoot 1
+    13700084: waist
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arms
+    second: {fileID: 2100000, guid: d67b1ca09fee00d409b20c769ba124ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: 496847f4e51287f48be351caecc37a0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ears
+    second: {fileID: 2100000, guid: f351f5f8ced1c414f9cc7bb8141c837f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face
+    second: {fileID: 2100000, guid: 133d2fd2cc648ce44a529eec19a640d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head
+    second: {fileID: 2100000, guid: fa587ec17c7cdd54da98b0d81529b8cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Legs
+    second: {fileID: 2100000, guid: 1825e989669d77f41b5d5df46ce03320, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

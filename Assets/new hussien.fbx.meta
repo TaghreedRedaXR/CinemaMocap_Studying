@@ -1,0 +1,4209 @@
+fileFormatVersion: 2
+guid: d74bd58164a200643b97bb1840c42315
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: huissein:Ankle_L
+    100002: huissein:Ankle_L_middleSlider0
+    100004: huissein:Ankle_L_middleSlider1
+    100006: huissein:Ankle_L_middleSlider2
+    100008: huissein:Ankle_L_middleSlider3
+    100010: huissein:Ankle_L_Slide00
+    100012: huissein:Ankle_L_Slide00Offset
+    100014: huissein:Ankle_L_Slide50
+    100016: huissein:Ankle_R
+    100018: huissein:Ankle_R_middleSlider0
+    100020: huissein:Ankle_R_middleSlider1
+    100022: huissein:Ankle_R_middleSlider2
+    100024: huissein:Ankle_R_middleSlider3
+    100026: huissein:Ankle_R_Slide00
+    100028: huissein:Ankle_R_Slide00Offset
+    100030: huissein:Ankle_R_Slide50
+    100032: huissein:button_surf_01_jj
+    100034: huissein:button_surf_01_loc
+    100036: huissein:button_surf_02_jj
+    100038: huissein:button_surf_02_loc
+    100040: huissein:button_surf_03_jj
+    100042: huissein:button_surf_03_loc
+    100044: huissein:button_surf_04_jj
+    100046: huissein:button_surf_04_loc
+    100048: huissein:button_surf_05_jj
+    100050: huissein:button_surf_05_loc
+    100052: huissein:button_surf_06_jj
+    100054: huissein:button_surf_06_loc
+    100056: huissein:button_surf_07_jj
+    100058: huissein:button_surf_07_loc
+    100060: huissein:button_surf_08_jj
+    100062: huissein:button_surf_08_loc
+    100064: huissein:button_surf_09_jj
+    100066: huissein:button_surf_09_loc
+    100068: huissein:button_surf_10_jj
+    100070: huissein:button_surf_10_loc
+    100072: huissein:CheekJoint_L
+    100074: huissein:CheekJoint_R
+    100076: huissein:CheekRaiserJoint_L
+    100078: huissein:CheekRaiserJoint_R
+    100080: huissein:Chest_M
+    100082: huissein:ControlsSetup
+    100084: huissein:Cup_L
+    100086: huissein:Cup_R
+    100088: huissein:DeformationSystem
+    100090: huissein:Elbow_L
+    100092: huissein:Elbow_L_middleSlider0
+    100094: huissein:Elbow_L_middleSlider2
+    100096: huissein:Elbow_L_Slide00
+    100098: huissein:Elbow_L_Slide00Offset
+    100100: huissein:Elbow_L_Slide50
+    100102: huissein:Elbow_R
+    100104: huissein:Elbow_R_middleSlider0
+    100106: huissein:Elbow_R_middleSlider2
+    100108: huissein:Elbow_R_Slide00
+    100110: huissein:Elbow_R_Slide00Offset
+    100112: huissein:Elbow_R_Slide50
+    100114: huissein:ElbowPart1_L
+    100116: huissein:ElbowPart1_R
+    100118: huissein:ElbowPart2_L
+    100120: huissein:ElbowPart2_R
+    100122: huissein:ElbowPart3_L
+    100124: huissein:ElbowPart3_R
+    100126: huissein:ElbowPart4_L
+    100128: huissein:ElbowPart4_R
+    100130: huissein:EyeBrowCenterJoint_M
+    100132: huissein:EyeBrowInnerJoint_L
+    100134: huissein:EyeBrowInnerJoint_R
+    100136: huissein:EyeBrowMid1Joint_L
+    100138: huissein:EyeBrowMid1Joint_R
+    100140: huissein:EyeBrowOuterJoint_L
+    100142: huissein:EyeBrowOuterJoint_R
+    100144: huissein:EyeJoint_L
+    100146: huissein:EyeJoint_R
+    100148: huissein:FaceDeformationSystem
+    100150: huissein:FaceGroup
+    100152: huissein:FaceJoint_M
+    100154: huissein:FaceMotionSystem
+    100156: huissein:FrownBulgeJoint_L
+    100158: huissein:FrownBulgeJoint_R
+    100160: huissein:Group
+    100162: huissein:Head_M
+    100164: huissein:HeadEnd_M
+    100166: huissein:Hip_L
+    100168: huissein:Hip_R
+    100170: huissein:HipPart1_L
+    100172: huissein:HipPart1_R
+    100174: huissein:HipPart2_L
+    100176: huissein:HipPart2_R
+    100178: huissein:HipPart3_L
+    100180: huissein:HipPart3_R
+    100182: huissein:HipPart4_L
+    100184: huissein:HipPart4_R
+    100186: huissein:IndexFinger1_L
+    100188: huissein:IndexFinger1_R
+    100190: huissein:IndexFinger2_L
+    100192: huissein:IndexFinger2_L_middleSlider0
+    100194: huissein:IndexFinger2_L_middleSlider1
+    100196: huissein:IndexFinger2_L_middleSlider2
+    100198: huissein:IndexFinger2_L_middleSlider3
+    100200: huissein:IndexFinger2_L_Slide00
+    100202: huissein:IndexFinger2_L_Slide00Offset
+    100204: huissein:IndexFinger2_L_Slide50
+    100206: huissein:IndexFinger2_R
+    100208: huissein:IndexFinger2_R_middleSlider0
+    100210: huissein:IndexFinger2_R_middleSlider1
+    100212: huissein:IndexFinger2_R_middleSlider2
+    100214: huissein:IndexFinger2_R_middleSlider3
+    100216: huissein:IndexFinger2_R_Slide00
+    100218: huissein:IndexFinger2_R_Slide00Offset
+    100220: huissein:IndexFinger2_R_Slide50
+    100222: huissein:IndexFinger3_L
+    100224: huissein:IndexFinger3_L_middleSlider0
+    100226: huissein:IndexFinger3_L_middleSlider1
+    100228: huissein:IndexFinger3_L_middleSlider2
+    100230: huissein:IndexFinger3_L_middleSlider3
+    100232: huissein:IndexFinger3_L_Slide00
+    100234: huissein:IndexFinger3_L_Slide00Offset
+    100236: huissein:IndexFinger3_L_Slide50
+    100238: huissein:IndexFinger3_R
+    100240: huissein:IndexFinger3_R_middleSlider0
+    100242: huissein:IndexFinger3_R_middleSlider1
+    100244: huissein:IndexFinger3_R_middleSlider2
+    100246: huissein:IndexFinger3_R_middleSlider3
+    100248: huissein:IndexFinger3_R_Slide00
+    100250: huissein:IndexFinger3_R_Slide00Offset
+    100252: huissein:IndexFinger3_R_Slide50
+    100254: huissein:IndexFinger4_L
+    100256: huissein:IndexFinger4_R
+    100258: huissein:IrisJoint_L
+    100260: huissein:IrisJoint_R
+    100262: huissein:JawJoint_M
+    100264: huissein:Knee_L
+    100266: huissein:Knee_L_middleSlider0
+    100268: huissein:Knee_L_middleSlider2
+    100270: huissein:Knee_L_Slide00
+    100272: huissein:Knee_L_Slide00Offset
+    100274: huissein:Knee_L_Slide50
+    100276: huissein:Knee_R
+    100278: huissein:Knee_R_middleSlider0
+    100280: huissein:Knee_R_middleSlider2
+    100282: huissein:Knee_R_Slide00
+    100284: huissein:Knee_R_Slide00Offset
+    100286: huissein:Knee_R_Slide50
+    100288: huissein:KneePart1_L
+    100290: huissein:KneePart1_R
+    100292: huissein:KneePart2_L
+    100294: huissein:KneePart2_R
+    100296: huissein:KneePart3_L
+    100298: huissein:KneePart3_R
+    100300: huissein:KneePart4_L
+    100302: huissein:KneePart4_R
+    100304: huissein:Lip_L
+    100306: huissein:Lip_R
+    100308: huissein:LipFollicles
+    100310: huissein:LipFollow_L
+    100312: huissein:LipFollow_R
+    100314: huissein:LipJoint_L
+    100316: huissein:LipJoint_R
+    100318: huissein:LipNarrowJoint_L
+    100320: huissein:LipNarrowJoint_M
+    100322: huissein:LipNarrowJoint_R
+    100324: huissein:LipNonNarrow2_L
+    100326: huissein:LipNonNarrow2_R
+    100328: huissein:LipNonNarrow_L
+    100330: huissein:LipNonNarrow_R
+    100332: huissein:LipNonNarrowAim_L
+    100334: huissein:LipNonNarrowAim_R
+    100336: huissein:LipNonNarrowParent_L
+    100338: huissein:LipNonNarrowParent_R
+    100340: huissein:LipOffset_L
+    100342: huissein:LipOffset_R
+    100344: huissein:LipRegion_M
+    100346: huissein:LipRegionOffset_M
+    100348: huissein:LipRibbon
+    100350: huissein:LipRibbonJoint_L
+    100352: huissein:LipRibbonJoint_R
+    100354: huissein:LipRibbonJoints
+    100356: huissein:LipSetup
+    100358: huissein:lowerFaceJoint_M
+    100360: huissein:lowerfollicle0_M
+    100362: huissein:lowerfollicle1_L
+    100364: huissein:lowerfollicle1_R
+    100366: huissein:lowerfollicle2_L
+    100368: huissein:lowerfollicle2_R
+    100370: huissein:lowerfollicle3_L
+    100372: huissein:lowerfollicle3_R
+    100374: huissein:lowerfollicle4_L
+    100376: huissein:lowerfollicle4_R
+    100378: huissein:lowerfollicle5_L
+    100380: huissein:lowerfollicle5_R
+    100382: huissein:lowerfollicle6_L
+    100384: huissein:lowerfollicle6_R
+    100386: huissein:lowerLidMain1_L
+    100388: huissein:lowerLidMain1_R
+    100390: huissein:lowerLidMain2_L
+    100392: huissein:lowerLidMain2_R
+    100394: huissein:lowerLidMain3_L
+    100396: huissein:lowerLidMain3_R
+    100398: huissein:lowerLidMain4_L
+    100400: huissein:lowerLidMain4_R
+    100402: huissein:lowerLidMain5_L
+    100404: huissein:lowerLidMain5_R
+    100406: huissein:lowerLidMain6_L
+    100408: huissein:lowerLidMain6_R
+    100410: huissein:lowerLidMain7_L
+    100412: huissein:lowerLidMain7_R
+    100414: huissein:lowerLidMain8_L
+    100416: huissein:lowerLidMain8_R
+    100418: huissein:lowerLipARibbonJoint_L
+    100420: huissein:lowerLipARibbonJoint_R
+    100422: huissein:lowerLipBRibbonJoint_L
+    100424: huissein:lowerLipBRibbonJoint_R
+    100426: huissein:lowerLipCenterPlane
+    100428: huissein:lowerLipJoint0_M
+    100430: huissein:lowerLipJoint1_L
+    100432: huissein:lowerLipJoint1_R
+    100434: huissein:lowerLipJoint2_L
+    100436: huissein:lowerLipJoint2_R
+    100438: huissein:lowerLipJoint3_L
+    100440: huissein:lowerLipJoint3_R
+    100442: huissein:lowerLipJoint4_L
+    100444: huissein:lowerLipJoint4_R
+    100446: huissein:lowerLipJoint5_L
+    100448: huissein:lowerLipJoint5_R
+    100450: huissein:lowerLipJoint6_L
+    100452: huissein:lowerLipJoint6_R
+    100454: huissein:lowerLipRibbonJoint_M
+    100456: huissein:lowerTeethJoint_M
+    100458: huissein:Main
+    100460: huissein:middleFaceJoint_M
+    100462: huissein:MiddleFinger1_L
+    100464: huissein:MiddleFinger1_R
+    100466: huissein:MiddleFinger2_L
+    100468: huissein:MiddleFinger2_L_middleSlider0
+    100470: huissein:MiddleFinger2_L_middleSlider1
+    100472: huissein:MiddleFinger2_L_middleSlider2
+    100474: huissein:MiddleFinger2_L_middleSlider3
+    100476: huissein:MiddleFinger2_L_Slide00
+    100478: huissein:MiddleFinger2_L_Slide00Offset
+    100480: huissein:MiddleFinger2_L_Slide50
+    100482: huissein:MiddleFinger2_R
+    100484: huissein:MiddleFinger2_R_middleSlider0
+    100486: huissein:MiddleFinger2_R_middleSlider1
+    100488: huissein:MiddleFinger2_R_middleSlider2
+    100490: huissein:MiddleFinger2_R_middleSlider3
+    100492: huissein:MiddleFinger2_R_Slide00
+    100494: huissein:MiddleFinger2_R_Slide00Offset
+    100496: huissein:MiddleFinger2_R_Slide50
+    100498: huissein:MiddleFinger3_L
+    100500: huissein:MiddleFinger3_L_middleSlider0
+    100502: huissein:MiddleFinger3_L_middleSlider1
+    100504: huissein:MiddleFinger3_L_middleSlider2
+    100506: huissein:MiddleFinger3_L_middleSlider3
+    100508: huissein:MiddleFinger3_L_Slide00
+    100510: huissein:MiddleFinger3_L_Slide00Offset
+    100512: huissein:MiddleFinger3_L_Slide50
+    100514: huissein:MiddleFinger3_R
+    100516: huissein:MiddleFinger3_R_middleSlider0
+    100518: huissein:MiddleFinger3_R_middleSlider1
+    100520: huissein:MiddleFinger3_R_middleSlider2
+    100522: huissein:MiddleFinger3_R_middleSlider3
+    100524: huissein:MiddleFinger3_R_Slide00
+    100526: huissein:MiddleFinger3_R_Slide00Offset
+    100528: huissein:MiddleFinger3_R_Slide50
+    100530: huissein:MiddleFinger4_L
+    100532: huissein:MiddleFinger4_R
+    100534: huissein:model:Huissein:body
+    100536: huissein:model:Huissein:Object001
+    100538: huissein:model:Huissein:pants1
+    100540: huissein:model:Huissein_body
+    100542: huissein:model:Huissein_button
+    100544: huissein:model:Huissein_eyebrow
+    100546: huissein:model:Huissein_hair
+    100548: huissein:model:Huissein_lower_teeth
+    100550: huissein:model:Huissein_r_eye
+    100552: huissein:model:Huissein_shirt01
+    100554: huissein:model:Huissein_shirt02
+    100556: huissein:model:Huissein_shoes
+    100558: huissein:model:Huissein_tunge
+    100560: huissein:model:Huissein_upper_teeth
+    100562: huissein:model:Huisseinl_eye
+    100564: huissein:MotionSystem
+    100566: huissein:Neck_M
+    100568: huissein:NoseCenterJoint_M
+    100570: huissein:NoseCornerJoint_L
+    100572: huissein:NoseCornerJoint_R
+    100574: huissein:NoseJoint_M
+    100576: huissein:NoseSideJoint_L
+    100578: huissein:NoseSideJoint_R
+    100580: huissein:NostrilJoint_L
+    100582: huissein:NostrilJoint_R
+    100584: huissein:OnFacecontrols
+    100586: huissein:PinkyFinger1_L
+    100588: huissein:PinkyFinger1_R
+    100590: huissein:PinkyFinger2_L
+    100592: huissein:PinkyFinger2_L_middleSlider0
+    100594: huissein:PinkyFinger2_L_middleSlider1
+    100596: huissein:PinkyFinger2_L_middleSlider2
+    100598: huissein:PinkyFinger2_L_middleSlider3
+    100600: huissein:PinkyFinger2_L_Slide00
+    100602: huissein:PinkyFinger2_L_Slide00Offset
+    100604: huissein:PinkyFinger2_L_Slide50
+    100606: huissein:PinkyFinger2_R
+    100608: huissein:PinkyFinger2_R_middleSlider0
+    100610: huissein:PinkyFinger2_R_middleSlider1
+    100612: huissein:PinkyFinger2_R_middleSlider2
+    100614: huissein:PinkyFinger2_R_middleSlider3
+    100616: huissein:PinkyFinger2_R_Slide00
+    100618: huissein:PinkyFinger2_R_Slide00Offset
+    100620: huissein:PinkyFinger2_R_Slide50
+    100622: huissein:PinkyFinger3_L
+    100624: huissein:PinkyFinger3_L_middleSlider0
+    100626: huissein:PinkyFinger3_L_middleSlider1
+    100628: huissein:PinkyFinger3_L_middleSlider2
+    100630: huissein:PinkyFinger3_L_middleSlider3
+    100632: huissein:PinkyFinger3_L_Slide00
+    100634: huissein:PinkyFinger3_L_Slide00Offset
+    100636: huissein:PinkyFinger3_L_Slide50
+    100638: huissein:PinkyFinger3_R
+    100640: huissein:PinkyFinger3_R_middleSlider0
+    100642: huissein:PinkyFinger3_R_middleSlider1
+    100644: huissein:PinkyFinger3_R_middleSlider2
+    100646: huissein:PinkyFinger3_R_middleSlider3
+    100648: huissein:PinkyFinger3_R_Slide00
+    100650: huissein:PinkyFinger3_R_Slide00Offset
+    100652: huissein:PinkyFinger3_R_Slide50
+    100654: huissein:PinkyFinger4_L
+    100656: huissein:PinkyFinger4_R
+    100658: huissein:PupilJoint_L
+    100660: huissein:PupilJoint_R
+    100662: huissein:RingFinger1_L
+    100664: huissein:RingFinger1_R
+    100666: huissein:RingFinger2_L
+    100668: huissein:RingFinger2_L_middleSlider0
+    100670: huissein:RingFinger2_L_middleSlider1
+    100672: huissein:RingFinger2_L_middleSlider2
+    100674: huissein:RingFinger2_L_middleSlider3
+    100676: huissein:RingFinger2_L_Slide00
+    100678: huissein:RingFinger2_L_Slide00Offset
+    100680: huissein:RingFinger2_L_Slide50
+    100682: huissein:RingFinger2_R
+    100684: huissein:RingFinger2_R_middleSlider0
+    100686: huissein:RingFinger2_R_middleSlider1
+    100688: huissein:RingFinger2_R_middleSlider2
+    100690: huissein:RingFinger2_R_middleSlider3
+    100692: huissein:RingFinger2_R_Slide00
+    100694: huissein:RingFinger2_R_Slide00Offset
+    100696: huissein:RingFinger2_R_Slide50
+    100698: huissein:RingFinger3_L
+    100700: huissein:RingFinger3_L_middleSlider0
+    100702: huissein:RingFinger3_L_middleSlider1
+    100704: huissein:RingFinger3_L_middleSlider2
+    100706: huissein:RingFinger3_L_middleSlider3
+    100708: huissein:RingFinger3_L_Slide00
+    100710: huissein:RingFinger3_L_Slide00Offset
+    100712: huissein:RingFinger3_L_Slide50
+    100714: huissein:RingFinger3_R
+    100716: huissein:RingFinger3_R_middleSlider0
+    100718: huissein:RingFinger3_R_middleSlider1
+    100720: huissein:RingFinger3_R_middleSlider2
+    100722: huissein:RingFinger3_R_middleSlider3
+    100724: huissein:RingFinger3_R_Slide00
+    100726: huissein:RingFinger3_R_Slide00Offset
+    100728: huissein:RingFinger3_R_Slide50
+    100730: huissein:RingFinger4_L
+    100732: huissein:RingFinger4_R
+    100734: huissein:Root_M
+    100736: huissein:RootPart1_M
+    100738: huissein:RootPart2_M
+    100740: huissein:Scapula_L
+    100742: huissein:Scapula_R
+    100744: huissein:SDKLip_L
+    100746: huissein:SDKLip_R
+    100748: huissein:SDKLipRegion_M
+    100750: huissein:Shoulder_L
+    100752: huissein:Shoulder_R
+    100754: huissein:ShoulderPart1_L
+    100756: huissein:ShoulderPart1_R
+    100758: huissein:ShoulderPart2_L
+    100760: huissein:ShoulderPart2_R
+    100762: huissein:ShoulderPart3_L
+    100764: huissein:ShoulderPart3_R
+    100766: huissein:ShoulderPart4_L
+    100768: huissein:ShoulderPart4_R
+    100770: huissein:SideReverse_M
+    100772: huissein:SmileBulgeJoint_L
+    100774: huissein:SmileBulgeJoint_R
+    100776: huissein:Spine1_M
+    100778: huissein:Spine1Part1_M
+    100780: huissein:Spine1Part2_M
+    100782: huissein:squashBase_M
+    100784: huissein:SquashControls
+    100786: huissein:squashFfdBase
+    100788: huissein:squashFfdLattice
+    100790: huissein:squashIKX0
+    100792: huissein:squashIKX1
+    100794: huissein:squashIKX2
+    100796: huissein:squashIKX3
+    100798: huissein:squashIKX4
+    100800: huissein:squashIKX5
+    100802: huissein:squashIKX6
+    100804: huissein:squashIKX7
+    100806: huissein:squashIKX8
+    100808: huissein:squashIKX9
+    100810: huissein:SquashSetup
+    100812: huissein:ThumbFinger1_L
+    100814: huissein:ThumbFinger1_R
+    100816: huissein:ThumbFinger2_L
+    100818: huissein:ThumbFinger2_L_middleSlider0
+    100820: huissein:ThumbFinger2_L_middleSlider1
+    100822: huissein:ThumbFinger2_L_middleSlider2
+    100824: huissein:ThumbFinger2_L_middleSlider3
+    100826: huissein:ThumbFinger2_L_Slide00
+    100828: huissein:ThumbFinger2_L_Slide00Offset
+    100830: huissein:ThumbFinger2_L_Slide50
+    100832: huissein:ThumbFinger2_R
+    100834: huissein:ThumbFinger2_R_middleSlider0
+    100836: huissein:ThumbFinger2_R_middleSlider1
+    100838: huissein:ThumbFinger2_R_middleSlider2
+    100840: huissein:ThumbFinger2_R_middleSlider3
+    100842: huissein:ThumbFinger2_R_Slide00
+    100844: huissein:ThumbFinger2_R_Slide00Offset
+    100846: huissein:ThumbFinger2_R_Slide50
+    100848: huissein:ThumbFinger3_L
+    100850: huissein:ThumbFinger3_L_middleSlider0
+    100852: huissein:ThumbFinger3_L_middleSlider1
+    100854: huissein:ThumbFinger3_L_middleSlider2
+    100856: huissein:ThumbFinger3_L_middleSlider3
+    100858: huissein:ThumbFinger3_L_Slide00
+    100860: huissein:ThumbFinger3_L_Slide00Offset
+    100862: huissein:ThumbFinger3_L_Slide50
+    100864: huissein:ThumbFinger3_R
+    100866: huissein:ThumbFinger3_R_middleSlider0
+    100868: huissein:ThumbFinger3_R_middleSlider1
+    100870: huissein:ThumbFinger3_R_middleSlider2
+    100872: huissein:ThumbFinger3_R_middleSlider3
+    100874: huissein:ThumbFinger3_R_Slide00
+    100876: huissein:ThumbFinger3_R_Slide00Offset
+    100878: huissein:ThumbFinger3_R_Slide50
+    100880: huissein:ThumbFinger4_L
+    100882: huissein:ThumbFinger4_R
+    100884: huissein:Toes_L
+    100886: huissein:Toes_R
+    100888: huissein:ToesEnd_L
+    100890: huissein:ToesEnd_R
+    100892: huissein:Tongue0Joint_M
+    100894: huissein:Tongue1Joint_M
+    100896: huissein:Tongue2Joint_M
+    100898: huissein:Tongue3Joint_M
+    100900: huissein:upperFaceJoint_M
+    100902: huissein:upperfollicle0_M
+    100904: huissein:upperfollicle1_L
+    100906: huissein:upperfollicle1_R
+    100908: huissein:upperfollicle2_L
+    100910: huissein:upperfollicle2_R
+    100912: huissein:upperfollicle3_L
+    100914: huissein:upperfollicle3_R
+    100916: huissein:upperfollicle4_L
+    100918: huissein:upperfollicle4_R
+    100920: huissein:upperfollicle5_L
+    100922: huissein:upperfollicle5_R
+    100924: huissein:upperfollicle6_L
+    100926: huissein:upperfollicle6_R
+    100928: huissein:upperfollicle7_L
+    100930: huissein:upperfollicle7_R
+    100932: huissein:upperfollicle8_L
+    100934: huissein:upperfollicle8_R
+    100936: huissein:upperfollicle9_L
+    100938: huissein:upperfollicle9_R
+    100940: huissein:upperLidBaseJoint_L
+    100942: huissein:upperLidBaseJoint_R
+    100944: huissein:upperLidMain0_L
+    100946: huissein:upperLidMain0_R
+    100948: huissein:upperLidMain1_L
+    100950: huissein:upperLidMain1_R
+    100952: huissein:upperLidMain2_L
+    100954: huissein:upperLidMain2_R
+    100956: huissein:upperLidMain3_L
+    100958: huissein:upperLidMain3_R
+    100960: huissein:upperLidMain4_L
+    100962: huissein:upperLidMain4_R
+    100964: huissein:upperLidMain5_L
+    100966: huissein:upperLidMain5_R
+    100968: huissein:upperLidMain6_L
+    100970: huissein:upperLidMain6_R
+    100972: huissein:upperLidMain7_L
+    100974: huissein:upperLidMain7_R
+    100976: huissein:upperLidMain8_L
+    100978: huissein:upperLidMain8_R
+    100980: huissein:upperLidMain9_L
+    100982: huissein:upperLidMain9_R
+    100984: huissein:upperLipARibbonJoint_L
+    100986: huissein:upperLipARibbonJoint_R
+    100988: huissein:upperLipBRibbonJoint_L
+    100990: huissein:upperLipBRibbonJoint_R
+    100992: huissein:upperLipCenterPlane
+    100994: huissein:upperLipJoint0_M
+    100996: huissein:upperLipJoint1_L
+    100998: huissein:upperLipJoint1_R
+    101000: huissein:upperLipJoint2_L
+    101002: huissein:upperLipJoint2_R
+    101004: huissein:upperLipJoint3_L
+    101006: huissein:upperLipJoint3_R
+    101008: huissein:upperLipJoint4_L
+    101010: huissein:upperLipJoint4_R
+    101012: huissein:upperLipJoint5_L
+    101014: huissein:upperLipJoint5_R
+    101016: huissein:upperLipJoint6_L
+    101018: huissein:upperLipJoint6_R
+    101020: huissein:upperLipJoint7_L
+    101022: huissein:upperLipJoint7_R
+    101024: huissein:upperLipJoint8_L
+    101026: huissein:upperLipJoint8_R
+    101028: huissein:upperLipRibbonJoint_M
+    101030: huissein:upperTeethJoint_M
+    101032: huissein:Wrist_L
+    101034: huissein:Wrist_L_middleSlider0
+    101036: huissein:Wrist_L_middleSlider1
+    101038: huissein:Wrist_L_middleSlider2
+    101040: huissein:Wrist_L_middleSlider3
+    101042: huissein:Wrist_L_Slide00
+    101044: huissein:Wrist_L_Slide00Offset
+    101046: huissein:Wrist_L_Slide50
+    101048: huissein:Wrist_R
+    101050: huissein:Wrist_R_middleSlider0
+    101052: huissein:Wrist_R_middleSlider1
+    101054: huissein:Wrist_R_middleSlider2
+    101056: huissein:Wrist_R_middleSlider3
+    101058: huissein:Wrist_R_Slide00
+    101060: huissein:Wrist_R_Slide00Offset
+    101062: huissein:Wrist_R_Slide50
+    101064: //RootNode
+    400000: huissein:Ankle_L
+    400002: huissein:Ankle_L_middleSlider0
+    400004: huissein:Ankle_L_middleSlider1
+    400006: huissein:Ankle_L_middleSlider2
+    400008: huissein:Ankle_L_middleSlider3
+    400010: huissein:Ankle_L_Slide00
+    400012: huissein:Ankle_L_Slide00Offset
+    400014: huissein:Ankle_L_Slide50
+    400016: huissein:Ankle_R
+    400018: huissein:Ankle_R_middleSlider0
+    400020: huissein:Ankle_R_middleSlider1
+    400022: huissein:Ankle_R_middleSlider2
+    400024: huissein:Ankle_R_middleSlider3
+    400026: huissein:Ankle_R_Slide00
+    400028: huissein:Ankle_R_Slide00Offset
+    400030: huissein:Ankle_R_Slide50
+    400032: huissein:button_surf_01_jj
+    400034: huissein:button_surf_01_loc
+    400036: huissein:button_surf_02_jj
+    400038: huissein:button_surf_02_loc
+    400040: huissein:button_surf_03_jj
+    400042: huissein:button_surf_03_loc
+    400044: huissein:button_surf_04_jj
+    400046: huissein:button_surf_04_loc
+    400048: huissein:button_surf_05_jj
+    400050: huissein:button_surf_05_loc
+    400052: huissein:button_surf_06_jj
+    400054: huissein:button_surf_06_loc
+    400056: huissein:button_surf_07_jj
+    400058: huissein:button_surf_07_loc
+    400060: huissein:button_surf_08_jj
+    400062: huissein:button_surf_08_loc
+    400064: huissein:button_surf_09_jj
+    400066: huissein:button_surf_09_loc
+    400068: huissein:button_surf_10_jj
+    400070: huissein:button_surf_10_loc
+    400072: huissein:CheekJoint_L
+    400074: huissein:CheekJoint_R
+    400076: huissein:CheekRaiserJoint_L
+    400078: huissein:CheekRaiserJoint_R
+    400080: huissein:Chest_M
+    400082: huissein:ControlsSetup
+    400084: huissein:Cup_L
+    400086: huissein:Cup_R
+    400088: huissein:DeformationSystem
+    400090: huissein:Elbow_L
+    400092: huissein:Elbow_L_middleSlider0
+    400094: huissein:Elbow_L_middleSlider2
+    400096: huissein:Elbow_L_Slide00
+    400098: huissein:Elbow_L_Slide00Offset
+    400100: huissein:Elbow_L_Slide50
+    400102: huissein:Elbow_R
+    400104: huissein:Elbow_R_middleSlider0
+    400106: huissein:Elbow_R_middleSlider2
+    400108: huissein:Elbow_R_Slide00
+    400110: huissein:Elbow_R_Slide00Offset
+    400112: huissein:Elbow_R_Slide50
+    400114: huissein:ElbowPart1_L
+    400116: huissein:ElbowPart1_R
+    400118: huissein:ElbowPart2_L
+    400120: huissein:ElbowPart2_R
+    400122: huissein:ElbowPart3_L
+    400124: huissein:ElbowPart3_R
+    400126: huissein:ElbowPart4_L
+    400128: huissein:ElbowPart4_R
+    400130: huissein:EyeBrowCenterJoint_M
+    400132: huissein:EyeBrowInnerJoint_L
+    400134: huissein:EyeBrowInnerJoint_R
+    400136: huissein:EyeBrowMid1Joint_L
+    400138: huissein:EyeBrowMid1Joint_R
+    400140: huissein:EyeBrowOuterJoint_L
+    400142: huissein:EyeBrowOuterJoint_R
+    400144: huissein:EyeJoint_L
+    400146: huissein:EyeJoint_R
+    400148: huissein:FaceDeformationSystem
+    400150: huissein:FaceGroup
+    400152: huissein:FaceJoint_M
+    400154: huissein:FaceMotionSystem
+    400156: huissein:FrownBulgeJoint_L
+    400158: huissein:FrownBulgeJoint_R
+    400160: huissein:Group
+    400162: huissein:Head_M
+    400164: huissein:HeadEnd_M
+    400166: huissein:Hip_L
+    400168: huissein:Hip_R
+    400170: huissein:HipPart1_L
+    400172: huissein:HipPart1_R
+    400174: huissein:HipPart2_L
+    400176: huissein:HipPart2_R
+    400178: huissein:HipPart3_L
+    400180: huissein:HipPart3_R
+    400182: huissein:HipPart4_L
+    400184: huissein:HipPart4_R
+    400186: huissein:IndexFinger1_L
+    400188: huissein:IndexFinger1_R
+    400190: huissein:IndexFinger2_L
+    400192: huissein:IndexFinger2_L_middleSlider0
+    400194: huissein:IndexFinger2_L_middleSlider1
+    400196: huissein:IndexFinger2_L_middleSlider2
+    400198: huissein:IndexFinger2_L_middleSlider3
+    400200: huissein:IndexFinger2_L_Slide00
+    400202: huissein:IndexFinger2_L_Slide00Offset
+    400204: huissein:IndexFinger2_L_Slide50
+    400206: huissein:IndexFinger2_R
+    400208: huissein:IndexFinger2_R_middleSlider0
+    400210: huissein:IndexFinger2_R_middleSlider1
+    400212: huissein:IndexFinger2_R_middleSlider2
+    400214: huissein:IndexFinger2_R_middleSlider3
+    400216: huissein:IndexFinger2_R_Slide00
+    400218: huissein:IndexFinger2_R_Slide00Offset
+    400220: huissein:IndexFinger2_R_Slide50
+    400222: huissein:IndexFinger3_L
+    400224: huissein:IndexFinger3_L_middleSlider0
+    400226: huissein:IndexFinger3_L_middleSlider1
+    400228: huissein:IndexFinger3_L_middleSlider2
+    400230: huissein:IndexFinger3_L_middleSlider3
+    400232: huissein:IndexFinger3_L_Slide00
+    400234: huissein:IndexFinger3_L_Slide00Offset
+    400236: huissein:IndexFinger3_L_Slide50
+    400238: huissein:IndexFinger3_R
+    400240: huissein:IndexFinger3_R_middleSlider0
+    400242: huissein:IndexFinger3_R_middleSlider1
+    400244: huissein:IndexFinger3_R_middleSlider2
+    400246: huissein:IndexFinger3_R_middleSlider3
+    400248: huissein:IndexFinger3_R_Slide00
+    400250: huissein:IndexFinger3_R_Slide00Offset
+    400252: huissein:IndexFinger3_R_Slide50
+    400254: huissein:IndexFinger4_L
+    400256: huissein:IndexFinger4_R
+    400258: huissein:IrisJoint_L
+    400260: huissein:IrisJoint_R
+    400262: huissein:JawJoint_M
+    400264: huissein:Knee_L
+    400266: huissein:Knee_L_middleSlider0
+    400268: huissein:Knee_L_middleSlider2
+    400270: huissein:Knee_L_Slide00
+    400272: huissein:Knee_L_Slide00Offset
+    400274: huissein:Knee_L_Slide50
+    400276: huissein:Knee_R
+    400278: huissein:Knee_R_middleSlider0
+    400280: huissein:Knee_R_middleSlider2
+    400282: huissein:Knee_R_Slide00
+    400284: huissein:Knee_R_Slide00Offset
+    400286: huissein:Knee_R_Slide50
+    400288: huissein:KneePart1_L
+    400290: huissein:KneePart1_R
+    400292: huissein:KneePart2_L
+    400294: huissein:KneePart2_R
+    400296: huissein:KneePart3_L
+    400298: huissein:KneePart3_R
+    400300: huissein:KneePart4_L
+    400302: huissein:KneePart4_R
+    400304: huissein:Lip_L
+    400306: huissein:Lip_R
+    400308: huissein:LipFollicles
+    400310: huissein:LipFollow_L
+    400312: huissein:LipFollow_R
+    400314: huissein:LipJoint_L
+    400316: huissein:LipJoint_R
+    400318: huissein:LipNarrowJoint_L
+    400320: huissein:LipNarrowJoint_M
+    400322: huissein:LipNarrowJoint_R
+    400324: huissein:LipNonNarrow2_L
+    400326: huissein:LipNonNarrow2_R
+    400328: huissein:LipNonNarrow_L
+    400330: huissein:LipNonNarrow_R
+    400332: huissein:LipNonNarrowAim_L
+    400334: huissein:LipNonNarrowAim_R
+    400336: huissein:LipNonNarrowParent_L
+    400338: huissein:LipNonNarrowParent_R
+    400340: huissein:LipOffset_L
+    400342: huissein:LipOffset_R
+    400344: huissein:LipRegion_M
+    400346: huissein:LipRegionOffset_M
+    400348: huissein:LipRibbon
+    400350: huissein:LipRibbonJoint_L
+    400352: huissein:LipRibbonJoint_R
+    400354: huissein:LipRibbonJoints
+    400356: huissein:LipSetup
+    400358: huissein:lowerFaceJoint_M
+    400360: huissein:lowerfollicle0_M
+    400362: huissein:lowerfollicle1_L
+    400364: huissein:lowerfollicle1_R
+    400366: huissein:lowerfollicle2_L
+    400368: huissein:lowerfollicle2_R
+    400370: huissein:lowerfollicle3_L
+    400372: huissein:lowerfollicle3_R
+    400374: huissein:lowerfollicle4_L
+    400376: huissein:lowerfollicle4_R
+    400378: huissein:lowerfollicle5_L
+    400380: huissein:lowerfollicle5_R
+    400382: huissein:lowerfollicle6_L
+    400384: huissein:lowerfollicle6_R
+    400386: huissein:lowerLidMain1_L
+    400388: huissein:lowerLidMain1_R
+    400390: huissein:lowerLidMain2_L
+    400392: huissein:lowerLidMain2_R
+    400394: huissein:lowerLidMain3_L
+    400396: huissein:lowerLidMain3_R
+    400398: huissein:lowerLidMain4_L
+    400400: huissein:lowerLidMain4_R
+    400402: huissein:lowerLidMain5_L
+    400404: huissein:lowerLidMain5_R
+    400406: huissein:lowerLidMain6_L
+    400408: huissein:lowerLidMain6_R
+    400410: huissein:lowerLidMain7_L
+    400412: huissein:lowerLidMain7_R
+    400414: huissein:lowerLidMain8_L
+    400416: huissein:lowerLidMain8_R
+    400418: huissein:lowerLipARibbonJoint_L
+    400420: huissein:lowerLipARibbonJoint_R
+    400422: huissein:lowerLipBRibbonJoint_L
+    400424: huissein:lowerLipBRibbonJoint_R
+    400426: huissein:lowerLipCenterPlane
+    400428: huissein:lowerLipJoint0_M
+    400430: huissein:lowerLipJoint1_L
+    400432: huissein:lowerLipJoint1_R
+    400434: huissein:lowerLipJoint2_L
+    400436: huissein:lowerLipJoint2_R
+    400438: huissein:lowerLipJoint3_L
+    400440: huissein:lowerLipJoint3_R
+    400442: huissein:lowerLipJoint4_L
+    400444: huissein:lowerLipJoint4_R
+    400446: huissein:lowerLipJoint5_L
+    400448: huissein:lowerLipJoint5_R
+    400450: huissein:lowerLipJoint6_L
+    400452: huissein:lowerLipJoint6_R
+    400454: huissein:lowerLipRibbonJoint_M
+    400456: huissein:lowerTeethJoint_M
+    400458: huissein:Main
+    400460: huissein:middleFaceJoint_M
+    400462: huissein:MiddleFinger1_L
+    400464: huissein:MiddleFinger1_R
+    400466: huissein:MiddleFinger2_L
+    400468: huissein:MiddleFinger2_L_middleSlider0
+    400470: huissein:MiddleFinger2_L_middleSlider1
+    400472: huissein:MiddleFinger2_L_middleSlider2
+    400474: huissein:MiddleFinger2_L_middleSlider3
+    400476: huissein:MiddleFinger2_L_Slide00
+    400478: huissein:MiddleFinger2_L_Slide00Offset
+    400480: huissein:MiddleFinger2_L_Slide50
+    400482: huissein:MiddleFinger2_R
+    400484: huissein:MiddleFinger2_R_middleSlider0
+    400486: huissein:MiddleFinger2_R_middleSlider1
+    400488: huissein:MiddleFinger2_R_middleSlider2
+    400490: huissein:MiddleFinger2_R_middleSlider3
+    400492: huissein:MiddleFinger2_R_Slide00
+    400494: huissein:MiddleFinger2_R_Slide00Offset
+    400496: huissein:MiddleFinger2_R_Slide50
+    400498: huissein:MiddleFinger3_L
+    400500: huissein:MiddleFinger3_L_middleSlider0
+    400502: huissein:MiddleFinger3_L_middleSlider1
+    400504: huissein:MiddleFinger3_L_middleSlider2
+    400506: huissein:MiddleFinger3_L_middleSlider3
+    400508: huissein:MiddleFinger3_L_Slide00
+    400510: huissein:MiddleFinger3_L_Slide00Offset
+    400512: huissein:MiddleFinger3_L_Slide50
+    400514: huissein:MiddleFinger3_R
+    400516: huissein:MiddleFinger3_R_middleSlider0
+    400518: huissein:MiddleFinger3_R_middleSlider1
+    400520: huissein:MiddleFinger3_R_middleSlider2
+    400522: huissein:MiddleFinger3_R_middleSlider3
+    400524: huissein:MiddleFinger3_R_Slide00
+    400526: huissein:MiddleFinger3_R_Slide00Offset
+    400528: huissein:MiddleFinger3_R_Slide50
+    400530: huissein:MiddleFinger4_L
+    400532: huissein:MiddleFinger4_R
+    400534: huissein:model:Huissein:body
+    400536: huissein:model:Huissein:Object001
+    400538: huissein:model:Huissein:pants1
+    400540: huissein:model:Huissein_body
+    400542: huissein:model:Huissein_button
+    400544: huissein:model:Huissein_eyebrow
+    400546: huissein:model:Huissein_hair
+    400548: huissein:model:Huissein_lower_teeth
+    400550: huissein:model:Huissein_r_eye
+    400552: huissein:model:Huissein_shirt01
+    400554: huissein:model:Huissein_shirt02
+    400556: huissein:model:Huissein_shoes
+    400558: huissein:model:Huissein_tunge
+    400560: huissein:model:Huissein_upper_teeth
+    400562: huissein:model:Huisseinl_eye
+    400564: huissein:MotionSystem
+    400566: huissein:Neck_M
+    400568: huissein:NoseCenterJoint_M
+    400570: huissein:NoseCornerJoint_L
+    400572: huissein:NoseCornerJoint_R
+    400574: huissein:NoseJoint_M
+    400576: huissein:NoseSideJoint_L
+    400578: huissein:NoseSideJoint_R
+    400580: huissein:NostrilJoint_L
+    400582: huissein:NostrilJoint_R
+    400584: huissein:OnFacecontrols
+    400586: huissein:PinkyFinger1_L
+    400588: huissein:PinkyFinger1_R
+    400590: huissein:PinkyFinger2_L
+    400592: huissein:PinkyFinger2_L_middleSlider0
+    400594: huissein:PinkyFinger2_L_middleSlider1
+    400596: huissein:PinkyFinger2_L_middleSlider2
+    400598: huissein:PinkyFinger2_L_middleSlider3
+    400600: huissein:PinkyFinger2_L_Slide00
+    400602: huissein:PinkyFinger2_L_Slide00Offset
+    400604: huissein:PinkyFinger2_L_Slide50
+    400606: huissein:PinkyFinger2_R
+    400608: huissein:PinkyFinger2_R_middleSlider0
+    400610: huissein:PinkyFinger2_R_middleSlider1
+    400612: huissein:PinkyFinger2_R_middleSlider2
+    400614: huissein:PinkyFinger2_R_middleSlider3
+    400616: huissein:PinkyFinger2_R_Slide00
+    400618: huissein:PinkyFinger2_R_Slide00Offset
+    400620: huissein:PinkyFinger2_R_Slide50
+    400622: huissein:PinkyFinger3_L
+    400624: huissein:PinkyFinger3_L_middleSlider0
+    400626: huissein:PinkyFinger3_L_middleSlider1
+    400628: huissein:PinkyFinger3_L_middleSlider2
+    400630: huissein:PinkyFinger3_L_middleSlider3
+    400632: huissein:PinkyFinger3_L_Slide00
+    400634: huissein:PinkyFinger3_L_Slide00Offset
+    400636: huissein:PinkyFinger3_L_Slide50
+    400638: huissein:PinkyFinger3_R
+    400640: huissein:PinkyFinger3_R_middleSlider0
+    400642: huissein:PinkyFinger3_R_middleSlider1
+    400644: huissein:PinkyFinger3_R_middleSlider2
+    400646: huissein:PinkyFinger3_R_middleSlider3
+    400648: huissein:PinkyFinger3_R_Slide00
+    400650: huissein:PinkyFinger3_R_Slide00Offset
+    400652: huissein:PinkyFinger3_R_Slide50
+    400654: huissein:PinkyFinger4_L
+    400656: huissein:PinkyFinger4_R
+    400658: huissein:PupilJoint_L
+    400660: huissein:PupilJoint_R
+    400662: huissein:RingFinger1_L
+    400664: huissein:RingFinger1_R
+    400666: huissein:RingFinger2_L
+    400668: huissein:RingFinger2_L_middleSlider0
+    400670: huissein:RingFinger2_L_middleSlider1
+    400672: huissein:RingFinger2_L_middleSlider2
+    400674: huissein:RingFinger2_L_middleSlider3
+    400676: huissein:RingFinger2_L_Slide00
+    400678: huissein:RingFinger2_L_Slide00Offset
+    400680: huissein:RingFinger2_L_Slide50
+    400682: huissein:RingFinger2_R
+    400684: huissein:RingFinger2_R_middleSlider0
+    400686: huissein:RingFinger2_R_middleSlider1
+    400688: huissein:RingFinger2_R_middleSlider2
+    400690: huissein:RingFinger2_R_middleSlider3
+    400692: huissein:RingFinger2_R_Slide00
+    400694: huissein:RingFinger2_R_Slide00Offset
+    400696: huissein:RingFinger2_R_Slide50
+    400698: huissein:RingFinger3_L
+    400700: huissein:RingFinger3_L_middleSlider0
+    400702: huissein:RingFinger3_L_middleSlider1
+    400704: huissein:RingFinger3_L_middleSlider2
+    400706: huissein:RingFinger3_L_middleSlider3
+    400708: huissein:RingFinger3_L_Slide00
+    400710: huissein:RingFinger3_L_Slide00Offset
+    400712: huissein:RingFinger3_L_Slide50
+    400714: huissein:RingFinger3_R
+    400716: huissein:RingFinger3_R_middleSlider0
+    400718: huissein:RingFinger3_R_middleSlider1
+    400720: huissein:RingFinger3_R_middleSlider2
+    400722: huissein:RingFinger3_R_middleSlider3
+    400724: huissein:RingFinger3_R_Slide00
+    400726: huissein:RingFinger3_R_Slide00Offset
+    400728: huissein:RingFinger3_R_Slide50
+    400730: huissein:RingFinger4_L
+    400732: huissein:RingFinger4_R
+    400734: huissein:Root_M
+    400736: huissein:RootPart1_M
+    400738: huissein:RootPart2_M
+    400740: huissein:Scapula_L
+    400742: huissein:Scapula_R
+    400744: huissein:SDKLip_L
+    400746: huissein:SDKLip_R
+    400748: huissein:SDKLipRegion_M
+    400750: huissein:Shoulder_L
+    400752: huissein:Shoulder_R
+    400754: huissein:ShoulderPart1_L
+    400756: huissein:ShoulderPart1_R
+    400758: huissein:ShoulderPart2_L
+    400760: huissein:ShoulderPart2_R
+    400762: huissein:ShoulderPart3_L
+    400764: huissein:ShoulderPart3_R
+    400766: huissein:ShoulderPart4_L
+    400768: huissein:ShoulderPart4_R
+    400770: huissein:SideReverse_M
+    400772: huissein:SmileBulgeJoint_L
+    400774: huissein:SmileBulgeJoint_R
+    400776: huissein:Spine1_M
+    400778: huissein:Spine1Part1_M
+    400780: huissein:Spine1Part2_M
+    400782: huissein:squashBase_M
+    400784: huissein:SquashControls
+    400786: huissein:squashFfdBase
+    400788: huissein:squashFfdLattice
+    400790: huissein:squashIKX0
+    400792: huissein:squashIKX1
+    400794: huissein:squashIKX2
+    400796: huissein:squashIKX3
+    400798: huissein:squashIKX4
+    400800: huissein:squashIKX5
+    400802: huissein:squashIKX6
+    400804: huissein:squashIKX7
+    400806: huissein:squashIKX8
+    400808: huissein:squashIKX9
+    400810: huissein:SquashSetup
+    400812: huissein:ThumbFinger1_L
+    400814: huissein:ThumbFinger1_R
+    400816: huissein:ThumbFinger2_L
+    400818: huissein:ThumbFinger2_L_middleSlider0
+    400820: huissein:ThumbFinger2_L_middleSlider1
+    400822: huissein:ThumbFinger2_L_middleSlider2
+    400824: huissein:ThumbFinger2_L_middleSlider3
+    400826: huissein:ThumbFinger2_L_Slide00
+    400828: huissein:ThumbFinger2_L_Slide00Offset
+    400830: huissein:ThumbFinger2_L_Slide50
+    400832: huissein:ThumbFinger2_R
+    400834: huissein:ThumbFinger2_R_middleSlider0
+    400836: huissein:ThumbFinger2_R_middleSlider1
+    400838: huissein:ThumbFinger2_R_middleSlider2
+    400840: huissein:ThumbFinger2_R_middleSlider3
+    400842: huissein:ThumbFinger2_R_Slide00
+    400844: huissein:ThumbFinger2_R_Slide00Offset
+    400846: huissein:ThumbFinger2_R_Slide50
+    400848: huissein:ThumbFinger3_L
+    400850: huissein:ThumbFinger3_L_middleSlider0
+    400852: huissein:ThumbFinger3_L_middleSlider1
+    400854: huissein:ThumbFinger3_L_middleSlider2
+    400856: huissein:ThumbFinger3_L_middleSlider3
+    400858: huissein:ThumbFinger3_L_Slide00
+    400860: huissein:ThumbFinger3_L_Slide00Offset
+    400862: huissein:ThumbFinger3_L_Slide50
+    400864: huissein:ThumbFinger3_R
+    400866: huissein:ThumbFinger3_R_middleSlider0
+    400868: huissein:ThumbFinger3_R_middleSlider1
+    400870: huissein:ThumbFinger3_R_middleSlider2
+    400872: huissein:ThumbFinger3_R_middleSlider3
+    400874: huissein:ThumbFinger3_R_Slide00
+    400876: huissein:ThumbFinger3_R_Slide00Offset
+    400878: huissein:ThumbFinger3_R_Slide50
+    400880: huissein:ThumbFinger4_L
+    400882: huissein:ThumbFinger4_R
+    400884: huissein:Toes_L
+    400886: huissein:Toes_R
+    400888: huissein:ToesEnd_L
+    400890: huissein:ToesEnd_R
+    400892: huissein:Tongue0Joint_M
+    400894: huissein:Tongue1Joint_M
+    400896: huissein:Tongue2Joint_M
+    400898: huissein:Tongue3Joint_M
+    400900: huissein:upperFaceJoint_M
+    400902: huissein:upperfollicle0_M
+    400904: huissein:upperfollicle1_L
+    400906: huissein:upperfollicle1_R
+    400908: huissein:upperfollicle2_L
+    400910: huissein:upperfollicle2_R
+    400912: huissein:upperfollicle3_L
+    400914: huissein:upperfollicle3_R
+    400916: huissein:upperfollicle4_L
+    400918: huissein:upperfollicle4_R
+    400920: huissein:upperfollicle5_L
+    400922: huissein:upperfollicle5_R
+    400924: huissein:upperfollicle6_L
+    400926: huissein:upperfollicle6_R
+    400928: huissein:upperfollicle7_L
+    400930: huissein:upperfollicle7_R
+    400932: huissein:upperfollicle8_L
+    400934: huissein:upperfollicle8_R
+    400936: huissein:upperfollicle9_L
+    400938: huissein:upperfollicle9_R
+    400940: huissein:upperLidBaseJoint_L
+    400942: huissein:upperLidBaseJoint_R
+    400944: huissein:upperLidMain0_L
+    400946: huissein:upperLidMain0_R
+    400948: huissein:upperLidMain1_L
+    400950: huissein:upperLidMain1_R
+    400952: huissein:upperLidMain2_L
+    400954: huissein:upperLidMain2_R
+    400956: huissein:upperLidMain3_L
+    400958: huissein:upperLidMain3_R
+    400960: huissein:upperLidMain4_L
+    400962: huissein:upperLidMain4_R
+    400964: huissein:upperLidMain5_L
+    400966: huissein:upperLidMain5_R
+    400968: huissein:upperLidMain6_L
+    400970: huissein:upperLidMain6_R
+    400972: huissein:upperLidMain7_L
+    400974: huissein:upperLidMain7_R
+    400976: huissein:upperLidMain8_L
+    400978: huissein:upperLidMain8_R
+    400980: huissein:upperLidMain9_L
+    400982: huissein:upperLidMain9_R
+    400984: huissein:upperLipARibbonJoint_L
+    400986: huissein:upperLipARibbonJoint_R
+    400988: huissein:upperLipBRibbonJoint_L
+    400990: huissein:upperLipBRibbonJoint_R
+    400992: huissein:upperLipCenterPlane
+    400994: huissein:upperLipJoint0_M
+    400996: huissein:upperLipJoint1_L
+    400998: huissein:upperLipJoint1_R
+    401000: huissein:upperLipJoint2_L
+    401002: huissein:upperLipJoint2_R
+    401004: huissein:upperLipJoint3_L
+    401006: huissein:upperLipJoint3_R
+    401008: huissein:upperLipJoint4_L
+    401010: huissein:upperLipJoint4_R
+    401012: huissein:upperLipJoint5_L
+    401014: huissein:upperLipJoint5_R
+    401016: huissein:upperLipJoint6_L
+    401018: huissein:upperLipJoint6_R
+    401020: huissein:upperLipJoint7_L
+    401022: huissein:upperLipJoint7_R
+    401024: huissein:upperLipJoint8_L
+    401026: huissein:upperLipJoint8_R
+    401028: huissein:upperLipRibbonJoint_M
+    401030: huissein:upperTeethJoint_M
+    401032: huissein:Wrist_L
+    401034: huissein:Wrist_L_middleSlider0
+    401036: huissein:Wrist_L_middleSlider1
+    401038: huissein:Wrist_L_middleSlider2
+    401040: huissein:Wrist_L_middleSlider3
+    401042: huissein:Wrist_L_Slide00
+    401044: huissein:Wrist_L_Slide00Offset
+    401046: huissein:Wrist_L_Slide50
+    401048: huissein:Wrist_R
+    401050: huissein:Wrist_R_middleSlider0
+    401052: huissein:Wrist_R_middleSlider1
+    401054: huissein:Wrist_R_middleSlider2
+    401056: huissein:Wrist_R_middleSlider3
+    401058: huissein:Wrist_R_Slide00
+    401060: huissein:Wrist_R_Slide00Offset
+    401062: huissein:Wrist_R_Slide50
+    401064: //RootNode
+    2100000: lambert1
+    4300000: huissein:model:Huissein_body
+    4300002: huissein:model:Huissein_hair
+    4300004: huissein:model:Huisseinl_eye
+    4300006: huissein:model:Huissein_lower_teeth
+    4300008: huissein:model:Huissein_r_eye
+    4300010: huissein:model:Huissein_tunge
+    4300012: huissein:model:Huissein_upper_teeth
+    4300014: huissein:model:Huissein:Object001
+    4300016: huissein:model:Huissein_eyebrow
+    4300018: huissein:model:Huissein_shoes
+    4300020: huissein:model:Huissein_shirt01
+    4300022: huissein:model:Huissein_shirt02
+    4300024: huissein:model:Huissein_button
+    4300026: huissein:model:Huissein:pants1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: huissein:model:Huissein:Object001
+    13700002: huissein:model:Huissein:pants1
+    13700004: huissein:model:Huissein_body
+    13700006: huissein:model:Huissein_button
+    13700008: huissein:model:Huissein_eyebrow
+    13700010: huissein:model:Huissein_hair
+    13700012: huissein:model:Huissein_lower_teeth
+    13700014: huissein:model:Huissein_r_eye
+    13700016: huissein:model:Huissein_shirt01
+    13700018: huissein:model:Huissein_shirt02
+    13700020: huissein:model:Huissein_shoes
+    13700022: huissein:model:Huissein_tunge
+    13700024: huissein:model:Huissein_upper_teeth
+    13700026: huissein:model:Huisseinl_eye
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Avatar creation failed:\n\tTransform 'huissein:Elbow_L_Slide50'
+      is not an ancestor of 'huissein:ElbowPart2_L'\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: huissein:Root_M
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:Hip_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:Hip_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:HipPart2_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:HipPart2_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:HipPart4_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:HipPart4_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:RootPart1_M
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:Spine1_M
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:Neck_M
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:Head_M
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:Shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:Shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:ShoulderPart1_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:ShoulderPart1_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:ShoulderPart3_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:ShoulderPart2_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:Elbow_L_Slide50
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:ShoulderPart3_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:Knee_L_Slide50
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:Knee_R_Slide50
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:EyeJoint_L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:EyeJoint_R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:JawJoint_M
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:ElbowPart2_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:ElbowPart3_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:ElbowPart4_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:Elbow_L_middleSlider0
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:Elbow_L_middleSlider2
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:ElbowPart1_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:ElbowPart2_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:ElbowPart3_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:Elbow_R_middleSlider2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:Elbow_R_middleSlider0
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: huissein:Chest_M
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: new hussien(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Group
+      parentName: new hussien(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Main
+      parentName: huissein:Group
+      position: {x: -0.89524, y: 0, z: -0.15488}
+      rotation: {x: 0, y: 0.28367227, z: -0, w: 0.9589213}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:MotionSystem
+      parentName: huissein:Main
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:button_surf_09_loc
+      parentName: huissein:MotionSystem
+      position: {x: 0.042472556, y: 0.5120103, z: -0.110608794}
+      rotation: {x: -0.11007064, y: -0.6690773, z: 0.7205449, w: -0.14503509}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:button_surf_08_loc
+      parentName: huissein:MotionSystem
+      position: {x: 0.04963812, y: 0.49470243, z: 0.030904165}
+      rotation: {x: 0.06906274, y: 0.70033383, z: 0.6936704, w: -0.15357187}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:button_surf_07_loc
+      parentName: huissein:MotionSystem
+      position: {x: -0.07146047, y: 0.49667537, z: 0.030967886}
+      rotation: {x: -0.05486201, y: 0.7028487, z: 0.68987584, w: 0.1645153}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:button_surf_06_loc
+      parentName: huissein:MotionSystem
+      position: {x: -0.006521393, y: 0.48754787, z: 0.036323603}
+      rotation: {x: 0.70455843, y: -0.022139642, z: 0.007725955, w: 0.7092585}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:button_surf_05_loc
+      parentName: huissein:MotionSystem
+      position: {x: -0.013545135, y: 0.5481844, z: 0.035917226}
+      rotation: {x: 0.68317974, y: -0.006033145, z: -0.00902421, w: 0.7301696}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:button_surf_04_loc
+      parentName: huissein:MotionSystem
+      position: {x: -0.010507457, y: 0.6034832, z: 0.027356006}
+      rotation: {x: 0.62657744, y: 0.014937401, z: -0.014449006, w: 0.77908206}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:button_surf_03_loc
+      parentName: huissein:MotionSystem
+      position: {x: -0.00929835, y: 0.6594988, z: 0.013399356}
+      rotation: {x: 0.62945956, y: 0.04225284, z: -0.03984214, w: 0.77485996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:button_surf_02_loc
+      parentName: huissein:MotionSystem
+      position: {x: -0.009445156, y: 0.71226543, z: -0.0041410364}
+      rotation: {x: 0.49204892, y: 0.069796324, z: -0.05740521, w: 0.8658643}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:button_surf_01_loc
+      parentName: huissein:MotionSystem
+      position: {x: -0.011521963, y: 0.75111854, z: -0.03171973}
+      rotation: {x: 0.38555783, y: 0.037384357, z: -0.0196482, w: 0.92171663}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:DeformationSystem
+      parentName: huissein:Main
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Root_M
+      parentName: huissein:DeformationSystem
+      position: {x: 0.6637882, y: 0.2548008, z: 0.62179726}
+      rotation: {x: -0.62327635, y: 0.61931086, z: 0.33870026, w: -0.33654535}
+      scale: {x: 1.000001, y: 1.0000012, z: 1.0000004}
+    - name: huissein:button_surf_10_loc
+      parentName: huissein:Root_M
+      position: {x: -0.04216597, y: -0.072840124, z: 0.05475035}
+      rotation: {x: 0.6801416, y: 0.125477, z: 0.7076647, w: 0.14447686}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:button_surf_09_jj
+      parentName: huissein:button_surf_10_loc
+      position: {x: -0, y: -1.4210854e-16, z: 7.105427e-17}
+      rotation: {x: 0.0014459118, y: 0.002297148, z: 0.0003400296, w: 0.9999963}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000002}
+    - name: huissein:button_surf_01_jj
+      parentName: huissein:Root_M
+      position: {x: -0.20414068, y: 0.092356145, z: 0.004182934}
+      rotation: {x: 0.16068101, y: -0.6845006, z: -0.121295795, w: -0.70066255}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
+    - name: huissein:button_surf_02_jj
+      parentName: huissein:Root_M
+      position: {x: -0.14956312, y: 0.08512157, z: 0.005955664}
+      rotation: {x: 0.027142406, y: -0.7006664, z: -0.027847946, w: -0.71242845}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000004}
+    - name: huissein:button_surf_03_jj
+      parentName: huissein:Root_M
+      position: {x: -0.099206895, y: 0.07784103, z: 0.0061481}
+      rotation: {x: 0.022078902, y: -0.7020477, z: -0.049217403, w: -0.7100839}
+      scale: {x: 1, y: 1.0000004, z: 1.0000001}
+    - name: huissein:button_surf_04_jj
+      parentName: huissein:Root_M
+      position: {x: -0.055674694, y: 0.075122334, z: 0.006713884}
+      rotation: {x: -0.025882095, y: -0.70036185, z: 0.0023812354, w: -0.7133146}
+      scale: {x: 1, y: 1.0000002, z: 0.99999994}
+    - name: huissein:button_surf_05_jj
+      parentName: huissein:Root_M
+      position: {x: -0.0019132769, y: 0.070167996, z: -0.0046514953}
+      rotation: {x: -0.043477505, y: -0.7115405, z: 0.027358092, w: -0.70076483}
+      scale: {x: 1.0000001, y: 1.0000008, z: 1.0000008}
+    - name: huissein:button_surf_06_jj
+      parentName: huissein:Root_M
+      position: {x: -0.0109556895, y: 0.06531949, z: 0.060674224}
+      rotation: {x: 0.077067755, y: -0.7513473, z: -0.1378481, w: 0.64073056}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000002}
+    - name: huissein:button_surf_07_jj
+      parentName: huissein:Root_M
+      position: {x: -0.010874489, y: 0.06538258, z: -0.060570598}
+      rotation: {x: -0.13802075, y: -0.6390421, z: 0.07675812, w: 0.752784}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: huissein:button_surf_08_jj
+      parentName: huissein:Root_M
+      position: {x: -0.04230525, y: -0.07272178, z: -0.054541472}
+      rotation: {x: 0.7101555, y: -0.14276549, z: 0.6776525, w: -0.12682435}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000005}
+    - name: huissein:button_surf_10_jj
+      parentName: huissein:Root_M
+      position: {x: -0.25116557, y: 0.084657095, z: 0.0022225166}
+      rotation: {x: 0.21095818, y: -0.6575682, z: -0.23697829, w: -0.6833316}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000007}
+    - name: huissein:Hip_R
+      parentName: huissein:Root_M
+      position: {x: 0.02931992, y: -0.005531753, z: -0.052333992}
+      rotation: {x: 0.014136285, y: -0.9988648, z: 0.024015382, w: 0.038633436}
+      scale: {x: 1.0000052, y: 1.0000036, z: 1.0000058}
+    - name: huissein:HipPart1_R
+      parentName: huissein:Hip_R
+      position: {x: -0.043890048, y: -7.105427e-17, z: 0}
+      rotation: {x: -0.000000029802319, y: -0, z: -9.3132246e-10, w: 1}
+      scale: {x: 1.000001, y: 0.99999905, z: 1.0000006}
+    - name: huissein:HipPart2_R
+      parentName: huissein:HipPart1_R
+      position: {x: -0.043890048, y: -2.842171e-16, z: -2.1316282e-16}
+      rotation: {x: -0.00000004470348, y: -0.00000008940696, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1.000001, z: 0.9999995}
+    - name: huissein:HipPart3_R
+      parentName: huissein:HipPart2_R
+      position: {x: -0.04389004, y: 1.4210854e-16, z: 3.5527135e-16}
+      rotation: {x: 0.00000010215443, y: 0.000000029802319, z: 0.00000003259628, w: 1}
+      scale: {x: 1.0000026, y: 1.0000023, z: 1.0000027}
+    - name: huissein:HipPart4_R
+      parentName: huissein:HipPart3_R
+      position: {x: -0.043890048, y: -1.4210854e-16, z: 0}
+      rotation: {x: -0.470643, y: -0.011201119, z: -0.03626818, w: 0.88150686}
+      scale: {x: 1.0000006, y: 1.0000013, z: 1.0000013}
+    - name: huissein:Knee_R_Slide00Offset
+      parentName: huissein:HipPart4_R
+      position: {x: -0.04389004, y: -0.000000011327831, z: 1.7763568e-17}
+      rotation: {x: 0, y: 0, z: 0.07464803, w: 0.99720997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Knee_R_Slide00
+      parentName: huissein:Knee_R_Slide00Offset
+      position: {x: -0, y: 8.881784e-18, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Knee_R
+      parentName: huissein:HipPart4_R
+      position: {x: -0.043890048, y: 1.4210854e-16, z: -2.1316282e-16}
+      rotation: {x: 0.0000000745058, y: -0.000000014901159, z: 0.07464788, w: 0.99720997}
+      scale: {x: 1.0000013, y: 1.0000019, z: 1.0000024}
+    - name: huissein:KneePart1_R
+      parentName: huissein:Knee_R
+      position: {x: -0.03593839, y: 0, z: 2.842171e-16}
+      rotation: {x: -0.00000004470348, y: 0.000000059604638, z: 0.00000008940696,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999845}
+    - name: huissein:KneePart2_R
+      parentName: huissein:KneePart1_R
+      position: {x: -0.03593839, y: -1.4210854e-16, z: -2.842171e-16}
+      rotation: {x: -0.000000027962354, y: -0.000000020543682, z: -0.000000029802326,
+        w: 1}
+      scale: {x: 0.9999991, y: 0.99999976, z: 1}
+    - name: huissein:KneePart3_R
+      parentName: huissein:KneePart2_R
+      position: {x: -0.035938386, y: 1.4210854e-16, z: 2.1316282e-16}
+      rotation: {x: -0.000000029802322, y: -0.000000029802322, z: -0, w: 1}
+      scale: {x: 1.0000018, y: 1.0000021, z: 1.0000019}
+    - name: huissein:KneePart4_R
+      parentName: huissein:KneePart3_R
+      position: {x: -0.03593839, y: 0, z: -2.842171e-16}
+      rotation: {x: -0.0000000056310823, y: -0.000000031052373, z: -0.000000007450583,
+        w: 1}
+      scale: {x: 1.0000021, y: 1.0000006, z: 1.0000024}
+    - name: huissein:Ankle_R_Slide00Offset
+      parentName: huissein:KneePart4_R
+      position: {x: -0.035938382, y: -0.0000000010831992, z: 3.5527136e-17}
+      rotation: {x: 0.00789319, y: -0.03900471, z: -0.06233237, w: 0.99726176}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Ankle_R_Slide00
+      parentName: huissein:Ankle_R_Slide00Offset
+      position: {x: -8.881784e-18, y: 4.440892e-18, z: 1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Ankle_R_Slide50
+      parentName: huissein:KneePart4_R
+      position: {x: -0.036145743, y: -1.4210854e-16, z: 4.2632563e-16}
+      rotation: {x: 0.0078932345, y: -0.03900467, z: -0.062332362, w: 0.99726176}
+      scale: {x: 1.0000004, y: 1.0000007, z: 1.0000006}
+    - name: huissein:Ankle_R_middleSlider0
+      parentName: huissein:Ankle_R_Slide50
+      position: {x: 0.00020511057, y: -0.04035252, z: 0.00053413527}
+      rotation: {x: -0, y: -0, z: 1.1641532e-10, w: 1}
+      scale: {x: 0.9999999, y: 1.0000017, z: 1.0000019}
+    - name: huissein:Ankle_R_middleSlider1
+      parentName: huissein:Ankle_R_Slide50
+      position: {x: 0.00020511105, y: 0.0005761217, z: -0.03249634}
+      rotation: {x: -0.000000032596283, y: 0.000000052154054, z: 0.00000003699096,
+        w: 1}
+      scale: {x: 0.99999934, y: 1.0000018, z: 1.0000014}
+    - name: huissein:Ankle_R_middleSlider2
+      parentName: huissein:Ankle_R_Slide50
+      position: {x: 0.00020511149, y: 0.040410016, z: -0.0005668057}
+      rotation: {x: -0.000000032596283, y: 0.000000052154054, z: 0.00000003699096,
+        w: 1}
+      scale: {x: 0.99999934, y: 1.0000018, z: 1.0000014}
+    - name: huissein:Ankle_R_middleSlider3
+      parentName: huissein:Ankle_R_Slide50
+      position: {x: 0.00020511099, y: -0.0005248193, z: 0.0324629}
+      rotation: {x: -0.000000032596283, y: 0.000000052154054, z: 0.00000003699096,
+        w: 1}
+      scale: {x: 0.99999934, y: 1.0000018, z: 1.0000014}
+    - name: huissein:Ankle_R
+      parentName: huissein:KneePart4_R
+      position: {x: -0.03593839, y: -1.4210854e-16, z: 3.5527135e-16}
+      rotation: {x: 0.007893294, y: -0.039004654, z: -0.06233239, w: 0.99726176}
+      scale: {x: 1.0000007, y: 1.0000024, z: 1.0000021}
+    - name: huissein:Toes_R
+      parentName: huissein:Ankle_R
+      position: {x: -0.042283043, y: 0.08546916, z: 1.4210854e-15}
+      rotation: {x: -0.013513314, y: 0.0012864097, z: -0.67201656, w: 0.7404118}
+      scale: {x: 1.0000044, y: 1.0000013, z: 1.0000025}
+    - name: huissein:ToesEnd_R
+      parentName: huissein:Toes_R
+      position: {x: -0.054872263, y: 1.0658141e-16, z: -7.105427e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Knee_R_Slide50
+      parentName: huissein:HipPart4_R
+      position: {x: -0.044097397, y: 0, z: -3.5527135e-16}
+      rotation: {x: 0.000000029090149, y: 0.00000010248044, z: 0.07464802, w: 0.9972099}
+      scale: {x: 0.9999989, y: 0.9999989, z: 1.0000005}
+    - name: huissein:Knee_R_middleSlider0
+      parentName: huissein:Knee_R_Slide50
+      position: {x: 0.00020504234, y: -0.0567859, z: 0}
+      rotation: {x: -0, y: -0, z: -2.9811712e-15, w: 1}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000023}
+    - name: huissein:Knee_R_middleSlider2
+      parentName: huissein:Knee_R_Slide50
+      position: {x: 0.00020504234, y: 0.05672429, z: 0}
+      rotation: {x: -0, y: -0, z: -2.9811712e-15, w: 1}
+      scale: {x: 1.0000007, y: 1.0000012, z: 1.0000019}
+    - name: huissein:RootPart1_M
+      parentName: huissein:Root_M
+      position: {x: -0.03132543, y: -0.000002026534, z: 0}
+      rotation: {x: -0.000000029802322, y: 0.000000044703484, z: -0.000000029802322,
+        w: -1}
+      scale: {x: 0.99844915, y: 0.99844915, z: 0.99844664}
+    - name: huissein:RootPart2_M
+      parentName: huissein:RootPart1_M
+      position: {x: -0.031507444, y: 0.0000000020327753, z: 1.4210854e-16}
+      rotation: {x: 0.000000074505806, y: -0.000000074505806, z: -2.6645353e-15, w: -1}
+      scale: {x: 0.9976709, y: 0.9976707, z: 0.99767035}
+    - name: huissein:Spine1_M
+      parentName: huissein:RootPart2_M
+      position: {x: -0.031198476, y: -0.00000004229552, z: -1.4210854e-16}
+      rotation: {x: -0.00000008938829, y: 0.0000000447315, z: -0.00062671304, w: -0.9999999}
+      scale: {x: 0.9968989, y: 0.9968986, z: 0.9968972}
+    - name: huissein:Spine1Part1_M
+      parentName: huissein:Spine1_M
+      position: {x: -0.029748844, y: 0.000000040699224, z: -1.4210854e-16}
+      rotation: {x: -0.000000014901159, y: 0.000000014901159, z: -0.000000029802319,
+        w: 1}
+      scale: {x: 0.9976699, y: 0.9976703, z: 0.99767244}
+    - name: huissein:Spine1Part2_M
+      parentName: huissein:Spine1Part1_M
+      position: {x: -0.029675025, y: -0.0000000042945, z: -7.105427e-16}
+      rotation: {x: -0, y: -0, z: -0, w: -1}
+      scale: {x: 0.99844885, y: 0.9984488, z: 0.99844855}
+    - name: huissein:Chest_M
+      parentName: huissein:Spine1Part2_M
+      position: {x: -0.029701669, y: 0.000000001049356, z: 8.5265126e-16}
+      rotation: {x: -0.000000059604645, y: -0, z: -0.14284125, w: -0.9897456}
+      scale: {x: 0.99999994, y: 0.99999934, z: 0.99999887}
+    - name: huissein:Scapula_L
+      parentName: huissein:Chest_M
+      position: {x: -0.081175804, y: -0.012818633, z: 0.027767193}
+      rotation: {x: 0.6699455, y: -0.09024876, z: 0.7303386, w: 0.09815204}
+      scale: {x: 1.0000055, y: 1.0000006, z: 0.99999934}
+    - name: huissein:Shoulder_L
+      parentName: huissein:Scapula_L
+      position: {x: 0.06984652, y: -2.131628e-15, z: -1.4210854e-16}
+      rotation: {x: 0.00024357438, y: -0.058764685, z: -0.004805915, w: 0.9982603}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1.0000002}
+    - name: huissein:ShoulderPart1_L
+      parentName: huissein:Shoulder_L
+      position: {x: 0.035590213, y: -3.5527135e-16, z: -8.5265126e-16}
+      rotation: {x: 0.000000009968061, y: -0.00000007078051, z: 0.000000036414345,
+        w: 1}
+      scale: {x: 1.0000011, y: 1.0000014, z: 1.0000005}
+    - name: huissein:ShoulderPart2_L
+      parentName: huissein:ShoulderPart1_L
+      position: {x: 0.035590213, y: 0, z: -2.842171e-16}
+      rotation: {x: -6.8394e-10, y: -0.000000049360096, z: -0.000000057742, w: 1}
+      scale: {x: 1.0000005, y: 1.0000015, z: 1.0000006}
+    - name: huissein:ShoulderPart3_L
+      parentName: huissein:ShoulderPart2_L
+      position: {x: 0.035590213, y: 7.105427e-17, z: -8.5265126e-16}
+      rotation: {x: -5.966285e-10, y: 0.00000008754432, z: -0.0000000121071935, w: 1}
+      scale: {x: 1.0000004, y: 1.0000013, z: 1.0000007}
+    - name: huissein:ShoulderPart4_L
+      parentName: huissein:ShoulderPart3_L
+      position: {x: 0.035590213, y: -7.105427e-17, z: -4.2632563e-16}
+      rotation: {x: -9.1678026e-10, y: 0.0000000065192496, z: 0.000000037242906, w: 1}
+      scale: {x: 1, y: 0.99999857, z: 0.9999994}
+    - name: huissein:Elbow_L_Slide00Offset
+      parentName: huissein:ShoulderPart4_L
+      position: {x: 0.035590213, y: -1.110223e-16, z: 3.5527137e-15}
+      rotation: {x: 0, y: -0, z: -0.031843487, w: 0.9994929}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Elbow_L_Slide00
+      parentName: huissein:Elbow_L_Slide00Offset
+      position: {x: -0, y: 8.881784e-18, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Elbow_L
+      parentName: huissein:ShoulderPart4_L
+      position: {x: 0.035590213, y: -2.842171e-16, z: -2.842171e-16}
+      rotation: {x: 0.00000008063216, y: -0.000000029802322, z: -0.031843483, w: 0.9994929}
+      scale: {x: 1.0000011, y: 1.0000013, z: 1.0000006}
+    - name: huissein:ElbowPart1_L
+      parentName: huissein:Elbow_L
+      position: {x: 0.021977052, y: 1.4210854e-16, z: -8.384404e-15}
+      rotation: {x: -0.000000089930836, y: 0.0000000037252903, z: -0.000000018626451,
+        w: 1}
+      scale: {x: 1.0000042, y: 1.0000035, z: 1.0000031}
+    - name: huissein:ElbowPart2_L
+      parentName: huissein:ElbowPart1_L
+      position: {x: 0.021977052, y: -1.4210854e-16, z: -7.531753e-15}
+      rotation: {x: -0.0000007717389, y: -0.0075946306, z: -0.61855227, w: 0.78570694}
+      scale: {x: 1.0000013, y: 1.0000012, z: 1.000001}
+    - name: huissein:ElbowPart3_L
+      parentName: huissein:ElbowPart2_L
+      position: {x: 0.021977052, y: -1.4210854e-16, z: -7.531753e-15}
+      rotation: {x: -0.000000077592624, y: -0.000000033472396, z: -0.000000048428763,
+        w: 1}
+      scale: {x: 0.99999976, y: 0.99999833, z: 0.99999875}
+    - name: huissein:ElbowPart4_L
+      parentName: huissein:ElbowPart3_L
+      position: {x: 0.021977052, y: 0, z: -7.531753e-15}
+      rotation: {x: -0.000000089698005, y: 0.0000000037252903, z: 0.0000000037252903,
+        w: 1}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000006}
+    - name: huissein:Wrist_L_Slide00Offset
+      parentName: huissein:ElbowPart4_L
+      position: {x: 0.021977052, y: -7.9936054e-17, z: -7.958079e-15}
+      rotation: {x: -0.00022372261, y: 0.004273422, z: -0.033703063, w: 0.9994227}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Wrist_L_Slide00
+      parentName: huissein:Wrist_L_Slide00Offset
+      position: {x: -7.105427e-17, y: -1.7763568e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Wrist_L
+      parentName: huissein:ElbowPart4_L
+      position: {x: 0.021977052, y: -2.842171e-16, z: -7.673861e-15}
+      rotation: {x: -0.00022363142, y: 0.0042734, z: -0.033703066, w: 0.9994228}
+      scale: {x: 1.0000048, y: 1.0000005, z: 1.0000014}
+    - name: huissein:Cup_L
+      parentName: huissein:Wrist_L
+      position: {x: 0.012358261, y: 0.0075016245, z: 0.00018342947}
+      rotation: {x: -0.000014540274, y: 0.008558245, z: -0.0017004795, w: 0.999962}
+      scale: {x: 0.99999136, y: 0.99999416, z: 0.9999976}
+    - name: huissein:PinkyFinger1_L
+      parentName: huissein:Cup_L
+      position: {x: 0.032250788, y: 0.018044248, z: 0.00039581402}
+      rotation: {x: 0.07895585, y: -0.104308106, z: 0.21270607, w: 0.9683192}
+      scale: {x: 1.000001, y: 1.0000004, z: 1.0000002}
+    - name: huissein:PinkyFinger2_L_Slide00Offset
+      parentName: huissein:PinkyFinger1_L
+      position: {x: 0.013517646, y: -4.6185276e-16, z: 1.847411e-15}
+      rotation: {x: 0.0022996243, y: -0.10350637, z: 0.0005092046, w: 0.994626}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:PinkyFinger2_L_Slide00
+      parentName: huissein:PinkyFinger2_L_Slide00Offset
+      position: {x: 1.7763568e-17, y: 0, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:PinkyFinger2_L
+      parentName: huissein:PinkyFinger1_L
+      position: {x: 0.013517646, y: -2.842171e-16, z: 5.684342e-16}
+      rotation: {x: 0.002299629, y: -0.10350634, z: 0.0005092229, w: 0.994626}
+      scale: {x: 1.0000039, y: 1.0000031, z: 1.0000004}
+    - name: huissein:PinkyFinger3_L_Slide00Offset
+      parentName: huissein:PinkyFinger2_L
+      position: {x: 0.011462997, y: 1.4210854e-16, z: 4.1211477e-15}
+      rotation: {x: 0.018709624, y: 0.039657593, z: 0.00097019563, w: 0.9990377}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:PinkyFinger3_L_Slide00
+      parentName: huissein:PinkyFinger3_L_Slide00Offset
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:PinkyFinger3_L
+      parentName: huissein:PinkyFinger2_L
+      position: {x: 0.011462997, y: -4.2632563e-16, z: -4.2632563e-16}
+      rotation: {x: 0.018709555, y: 0.039657567, z: 0.000970231, w: 0.99903774}
+      scale: {x: 1.0000043, y: 1.0000018, z: 1.0000026}
+    - name: huissein:PinkyFinger4_L
+      parentName: huissein:PinkyFinger3_L
+      position: {x: 0.0113213295, y: 5.684342e-16, z: -2.4158453e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:PinkyFinger3_L_Slide50
+      parentName: huissein:PinkyFinger2_L
+      position: {x: 0.011670351, y: -4.2632563e-16, z: -2.842171e-16}
+      rotation: {x: 0.018709555, y: 0.039657537, z: 0.00097023393, w: 0.99903774}
+      scale: {x: 1.0000023, y: 1.0000015, z: 1.0000017}
+    - name: huissein:PinkyFinger3_L_middleSlider1
+      parentName: huissein:PinkyFinger3_L_Slide50
+      position: {x: -0.0002067006, y: 0.00000009425586, z: -0.0076521137}
+      rotation: {x: -0, y: -0, z: -0.0000000018626451, w: 1}
+      scale: {x: 0.99999934, y: 0.9999988, z: 0.999997}
+    - name: huissein:PinkyFinger3_L_middleSlider3
+      parentName: huissein:PinkyFinger3_L_Slide50
+      position: {x: -0.0002067006, y: 0.00000009425586, z: 0.0076192245}
+      rotation: {x: -0.0000000018626447, y: -0.0000000037252894, z: -0, w: 1}
+      scale: {x: 0.9999988, y: 0.9999984, z: 0.9999984}
+    - name: huissein:PinkyFinger3_L_middleSlider0
+      parentName: huissein:PinkyFinger3_L_Slide50
+      position: {x: -0.0002067006, y: -0.007705377, z: -0.00001643796}
+      rotation: {x: -0.0000000018626447, y: -0.0000000037252894, z: -0, w: 1}
+      scale: {x: 0.9999988, y: 0.9999984, z: 0.9999984}
+    - name: huissein:PinkyFinger3_L_middleSlider2
+      parentName: huissein:PinkyFinger3_L_Slide50
+      position: {x: -0.0002067006, y: 0.007705629, z: -0.00001643796}
+      rotation: {x: -0.0000000018626447, y: -0.0000000037252894, z: -0, w: 1}
+      scale: {x: 0.9999988, y: 0.9999984, z: 0.9999984}
+    - name: huissein:PinkyFinger2_L_Slide50
+      parentName: huissein:PinkyFinger1_L
+      position: {x: 0.0137249995, y: -2.1316282e-16, z: 6.3948843e-16}
+      rotation: {x: 0.0022995693, y: -0.10350641, z: 0.00050926016, w: 0.994626}
+      scale: {x: 1.0000024, y: 1.0000014, z: 1.0000008}
+    - name: huissein:PinkyFinger2_L_middleSlider0
+      parentName: huissein:PinkyFinger2_L_Slide50
+      position: {x: -0.00020291012, y: -0.007688712, z: 0.00004269359}
+      rotation: {x: -0, y: -0, z: -1.45519135e-11, w: 1}
+      scale: {x: 0.9999995, y: 0.99999905, z: 0.9999988}
+    - name: huissein:PinkyFinger2_L_middleSlider1
+      parentName: huissein:PinkyFinger2_L_Slide50
+      position: {x: -0.00020291012, y: 0.00000030874637, z: -0.0075930357}
+      rotation: {x: -0, y: -0, z: -1.45519135e-11, w: 1}
+      scale: {x: 0.9999995, y: 0.99999905, z: 0.9999988}
+    - name: huissein:PinkyFinger2_L_middleSlider2
+      parentName: huissein:PinkyFinger2_L_Slide50
+      position: {x: -0.00020291012, y: 0.007689489, z: 0.00004269359}
+      rotation: {x: -0, y: -0, z: -1.45519135e-11, w: 1}
+      scale: {x: 0.9999995, y: 0.99999905, z: 0.9999988}
+    - name: huissein:PinkyFinger2_L_middleSlider3
+      parentName: huissein:PinkyFinger2_L_Slide50
+      position: {x: -0.00020291012, y: 0.00000030874637, z: 0.0076784287}
+      rotation: {x: -0, y: -0, z: -1.45519135e-11, w: 1}
+      scale: {x: 0.9999995, y: 0.99999905, z: 0.9999988}
+    - name: huissein:RingFinger1_L
+      parentName: huissein:Cup_L
+      position: {x: 0.039563783, y: 0.0073538283, z: -0.0005602139}
+      rotation: {x: 0.0064856447, y: -0.10250526, z: 0.10950455, w: 0.9886655}
+      scale: {x: 1.000002, y: 0.99999917, z: 0.99999917}
+    - name: huissein:RingFinger2_L_Slide00Offset
+      parentName: huissein:RingFinger1_L
+      position: {x: 0.016021928, y: -2.1094237e-16, z: 1.1368684e-15}
+      rotation: {x: -0.0024703585, y: -0.131773, z: 0.0002003228, w: 0.99127686}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:RingFinger2_L_Slide00
+      parentName: huissein:RingFinger2_L_Slide00Offset
+      position: {x: -2.6645352e-17, y: -8.881784e-18, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:RingFinger2_L
+      parentName: huissein:RingFinger1_L
+      position: {x: 0.016021928, y: -1.4210854e-16, z: -3.907985e-15}
+      rotation: {x: -0.0024704076, y: -0.13177292, z: 0.00020027607, w: 0.99127686}
+      scale: {x: 1.0000025, y: 1.0000018, z: 1.0000001}
+    - name: huissein:RingFinger3_L_Slide00Offset
+      parentName: huissein:RingFinger2_L
+      position: {x: 0.012311015, y: 8.881784e-18, z: 3.8369305e-15}
+      rotation: {x: 0.004942361, y: 0.03409804, z: 0.00006922878, w: 0.9994063}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:RingFinger3_L_Slide00
+      parentName: huissein:RingFinger3_L_Slide00Offset
+      position: {x: 5.3290704e-17, y: -1.5265567e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:RingFinger3_L_Slide50
+      parentName: huissein:RingFinger2_L
+      position: {x: 0.012518368, y: 1.4210854e-16, z: 1.9895197e-15}
+      rotation: {x: 0.004942421, y: 0.034097977, z: 0.0000693053, w: 0.99940634}
+      scale: {x: 1.000003, y: 1.0000017, z: 1.0000029}
+    - name: huissein:RingFinger3_L_middleSlider1
+      parentName: huissein:RingFinger3_L_Slide50
+      position: {x: -0.00020687105, y: -0.000000041195747, z: -0.008065875}
+      rotation: {x: -0, y: -0, z: 0.000000007450581, w: 1}
+      scale: {x: 0.9999933, y: 0.9999941, z: 0.9999932}
+    - name: huissein:RingFinger3_L_middleSlider0
+      parentName: huissein:RingFinger3_L_Slide50
+      position: {x: -0.00020687105, y: -0.008121137, z: -0.000014132422}
+      rotation: {x: -0, y: -0, z: 0.000000007450581, w: 1}
+      scale: {x: 0.99999905, y: 0.99999756, z: 0.999996}
+    - name: huissein:RingFinger3_L_middleSlider2
+      parentName: huissein:RingFinger3_L_Slide50
+      position: {x: -0.00020687105, y: 0.008121027, z: -0.000014132422}
+      rotation: {x: -0.0000000610016, y: 0.000000040978176, z: -0.000000004016327,
+        w: 1}
+      scale: {x: 0.99999917, y: 0.99999917, z: 0.9999979}
+    - name: huissein:RingFinger3_L_middleSlider3
+      parentName: huissein:RingFinger3_L_Slide50
+      position: {x: -0.00020687105, y: -0.000000041195747, z: 0.008037605}
+      rotation: {x: -0.0000000610016, y: 0.000000040978176, z: -0.000000004016327,
+        w: 1}
+      scale: {x: 0.99999917, y: 0.99999917, z: 0.9999979}
+    - name: huissein:RingFinger3_L
+      parentName: huissein:RingFinger2_L
+      position: {x: 0.012311015, y: 0, z: 2.131628e-15}
+      rotation: {x: 0.0049424246, y: 0.034097992, z: 0.0000693202, w: 0.99940634}
+      scale: {x: 1.0000055, y: 1.0000019, z: 1.0000018}
+    - name: huissein:RingFinger4_L
+      parentName: huissein:RingFinger3_L
+      position: {x: 0.01232479, y: 3.982925e-16, z: 1.4210854e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:RingFinger2_L_Slide50
+      parentName: huissein:RingFinger1_L
+      position: {x: 0.016229281, y: 0, z: -4.0500935e-15}
+      rotation: {x: -0.0024704076, y: -0.13177292, z: 0.00020027607, w: 0.99127686}
+      scale: {x: 1.0000015, y: 1.0000012, z: 1.000001}
+    - name: huissein:RingFinger2_L_middleSlider0
+      parentName: huissein:RingFinger2_L_Slide50
+      position: {x: -0.0002001522, y: -0.008302412, z: 0.000054170614}
+      rotation: {x: -0, y: -0, z: -0.0000000074505797, w: 1}
+      scale: {x: 1.0000011, y: 0.9999987, z: 0.9999976}
+    - name: huissein:RingFinger2_L_middleSlider3
+      parentName: huissein:RingFinger2_L_Slide50
+      position: {x: -0.0002001522, y: -0.000000052647465, z: 0.008306316}
+      rotation: {x: -2.3283053e-10, y: -0, z: 2.9103817e-11, w: 1}
+      scale: {x: 1, y: 0.99999887, z: 0.99999905}
+    - name: huissein:RingFinger2_L_middleSlider1
+      parentName: huissein:RingFinger2_L_Slide50
+      position: {x: -0.0002001522, y: -0.000000052647465, z: -0.0081979735}
+      rotation: {x: -2.3283053e-10, y: -0, z: 2.9103817e-11, w: 1}
+      scale: {x: 1, y: 0.99999887, z: 0.99999905}
+    - name: huissein:RingFinger2_L_middleSlider2
+      parentName: huissein:RingFinger2_L_Slide50
+      position: {x: -0.0002001522, y: 0.008302281, z: 0.000054170614}
+      rotation: {x: -2.3283053e-10, y: -0, z: 2.9103817e-11, w: 1}
+      scale: {x: 1, y: 0.99999887, z: 0.99999905}
+    - name: huissein:MiddleFinger1_L
+      parentName: huissein:Wrist_L
+      position: {x: 0.05580436, y: -2.1316282e-16, z: 5.2580163e-15}
+      rotation: {x: 0.05593914, y: 0.13748537, z: -0.051154584, w: -0.987599}
+      scale: {x: 0.99999756, y: 0.9999977, z: 0.9999991}
+    - name: huissein:MiddleFinger2_L_Slide00Offset
+      parentName: huissein:MiddleFinger1_L
+      position: {x: 0.016984371, y: 4.796163e-16, z: -4.973799e-15}
+      rotation: {x: 0.00031985476, y: -0.03658451, z: 0.00000118943, w: 0.9993305}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:MiddleFinger2_L_Slide00
+      parentName: huissein:MiddleFinger2_L_Slide00Offset
+      position: {x: -7.105427e-17, y: 0, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:MiddleFinger2_L
+      parentName: huissein:MiddleFinger1_L
+      position: {x: 0.016984371, y: 4.2632563e-16, z: -5.3890222e-15}
+      rotation: {x: 0.000319831, y: -0.03658443, z: 0.0000012898814, w: 0.9993305}
+      scale: {x: 1.0000048, y: 1.0000017, z: 1.0000005}
+    - name: huissein:MiddleFinger3_L_Slide00Offset
+      parentName: huissein:MiddleFinger2_L
+      position: {x: 0.014664434, y: -1.7763568e-17, z: 2.9842794e-15}
+      rotation: {x: 0.00046593137, y: 0.023799788, z: -0.0000020164446, w: 0.99971664}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:MiddleFinger3_L_Slide00
+      parentName: huissein:MiddleFinger3_L_Slide00Offset
+      position: {x: 3.5527136e-17, y: 0, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:MiddleFinger3_L
+      parentName: huissein:MiddleFinger2_L
+      position: {x: 0.014664434, y: 1.4210854e-16, z: 3.9790393e-15}
+      rotation: {x: 0.00046591548, y: 0.023799744, z: -0.0000020191071, w: 0.99971664}
+      scale: {x: 1.0000019, y: 1.0000002, z: 1.000002}
+    - name: huissein:MiddleFinger4_L
+      parentName: huissein:MiddleFinger3_L
+      position: {x: 0.013320763, y: -1.7763567e-16, z: -7.1054274e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:MiddleFinger3_L_Slide50
+      parentName: huissein:MiddleFinger2_L
+      position: {x: 0.014871786, y: 0, z: 4.1211477e-15}
+      rotation: {x: 0.0004659162, y: 0.023799766, z: -0.0000020223767, w: 0.9997167}
+      scale: {x: 0.99999976, y: 1.0000006, z: 1.000002}
+    - name: huissein:MiddleFinger3_L_middleSlider0
+      parentName: huissein:MiddleFinger3_L_Slide50
+      position: {x: -0.00020711831, y: -0.007703803, z: -0.000009867127}
+      rotation: {x: -0, y: -0, z: -0.0000000074505797, w: 1}
+      scale: {x: 1.000004, y: 1.0000012, z: 1}
+    - name: huissein:MiddleFinger3_L_middleSlider3
+      parentName: huissein:MiddleFinger3_L_Slide50
+      position: {x: -0.00020711831, y: -0.0000000054347025, z: 0.007625777}
+      rotation: {x: -0, y: -0, z: -0.0000000074505797, w: 1}
+      scale: {x: 1.000004, y: 1.0000012, z: 1}
+    - name: huissein:MiddleFinger3_L_middleSlider1
+      parentName: huissein:MiddleFinger3_L_Slide50
+      position: {x: -0.00020711831, y: -0.0000000054347025, z: -0.0076455115}
+      rotation: {x: -0, y: -0, z: -9.094945e-13, w: 1}
+      scale: {x: 1.000002, y: 1.0000017, z: 1.0000013}
+    - name: huissein:MiddleFinger3_L_middleSlider2
+      parentName: huissein:MiddleFinger3_L_Slide50
+      position: {x: -0.00020711831, y: 0.0077037895, z: -0.000009867127}
+      rotation: {x: -0, y: -0, z: -9.094945e-13, w: 1}
+      scale: {x: 1.000002, y: 1.0000017, z: 1.0000013}
+    - name: huissein:MiddleFinger2_L_Slide50
+      parentName: huissein:MiddleFinger1_L
+      position: {x: 0.017191725, y: 2.842171e-16, z: -5.362377e-15}
+      rotation: {x: 0.00031978256, y: -0.036584444, z: 0.00000135228, w: 0.9993305}
+      scale: {x: 1.0000029, y: 1.0000015, z: 1.0000013}
+    - name: huissein:MiddleFinger2_L_middleSlider0
+      parentName: huissein:MiddleFinger2_L_Slide50
+      position: {x: -0.00020679815, y: -0.008641458, z: 0.000015161674}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000048, y: 1.0000024, z: 1.0000019}
+    - name: huissein:MiddleFinger2_L_middleSlider2
+      parentName: huissein:MiddleFinger2_L_Slide50
+      position: {x: -0.00020679815, y: 0.008641472, z: 0.000015161674}
+      rotation: {x: -0, y: 0.0000000037252894, z: -9.094945e-13, w: 1}
+      scale: {x: 1.0000027, y: 1.0000029, z: 1.0000024}
+    - name: huissein:MiddleFinger2_L_middleSlider1
+      parentName: huissein:MiddleFinger2_L_Slide50
+      position: {x: -0.00020679815, y: 0.000000005345717, z: -0.008564841}
+      rotation: {x: -0, y: 0.0000000037252894, z: -9.094945e-13, w: 1}
+      scale: {x: 1.0000027, y: 1.0000029, z: 1.0000024}
+    - name: huissein:MiddleFinger2_L_middleSlider3
+      parentName: huissein:MiddleFinger2_L_Slide50
+      position: {x: -0.00020679815, y: 0.000000005345717, z: 0.008595164}
+      rotation: {x: -0, y: 0.0000000037252894, z: -9.094945e-13, w: 1}
+      scale: {x: 1.0000027, y: 1.0000029, z: 1.0000024}
+    - name: huissein:ThumbFinger1_L
+      parentName: huissein:Wrist_L
+      position: {x: 0.015756397, y: -0.0083425585, z: 0.007981551}
+      rotation: {x: 0.42915693, y: -0.045129847, z: 0.36420637, w: -0.825313}
+      scale: {x: 1.0000032, y: 0.9999994, z: 1.0000043}
+    - name: huissein:ThumbFinger2_L_Slide00Offset
+      parentName: huissein:ThumbFinger1_L
+      position: {x: 0.023247499, y: -9.810335e-11, z: -1.3145041e-15}
+      rotation: {x: 0, y: -0.18831426, z: -0, w: 0.98210883}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:ThumbFinger2_L_Slide00
+      parentName: huissein:ThumbFinger2_L_Slide00Offset
+      position: {x: -5.3290704e-17, y: 1.4210854e-16, z: 3.5527136e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:ThumbFinger2_L
+      parentName: huissein:ThumbFinger1_L
+      position: {x: 0.023247499, y: -9.81035e-11, z: -1.7763567e-16}
+      rotation: {x: 0.00000017881392, y: -0.18831436, z: -0.00000001117587, w: 0.9821089}
+      scale: {x: 0.9999994, y: 0.9999982, z: 1.0000019}
+    - name: huissein:ThumbFinger3_L_Slide00Offset
+      parentName: huissein:ThumbFinger2_L
+      position: {x: 0.013170657, y: 2.842171e-16, z: -8.171241e-16}
+      rotation: {x: 2.1704787e-15, y: -0.09320684, z: 0.0000006180052, w: 0.9956468}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:ThumbFinger3_L_Slide00
+      parentName: huissein:ThumbFinger3_L_Slide00Offset
+      position: {x: 1.0658141e-16, y: -1.4210854e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:ThumbFinger3_L
+      parentName: huissein:ThumbFinger2_L
+      position: {x: 0.013170657, y: 1.2789769e-15, z: -8.5265126e-16}
+      rotation: {x: 0.0000000018626451, y: -0.09320676, z: 0.00000062584877, w: 0.99564683}
+      scale: {x: 1.0000002, y: 0.9999992, z: 1.0000032}
+    - name: huissein:ThumbFinger4_L
+      parentName: huissein:ThumbFinger3_L
+      position: {x: 0.019090196, y: -1.1368684e-15, z: 1.7763567e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:ThumbFinger3_L_Slide50
+      parentName: huissein:ThumbFinger2_L
+      position: {x: 0.013378009, y: 1.4210854e-15, z: -8.5265126e-16}
+      rotation: {x: 0.000000075965936, y: -0.09320671, z: 0.0000005447756, w: 0.99564683}
+      scale: {x: 0.9999998, y: 0.99999976, z: 1.0000023}
+    - name: huissein:ThumbFinger3_L_middleSlider0
+      parentName: huissein:ThumbFinger3_L_Slide50
+      position: {x: -0.00020375045, y: -0.00830485, z: 0.000038485206}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000023, y: 1.0000005, z: 0.99999744}
+    - name: huissein:ThumbFinger3_L_middleSlider2
+      parentName: huissein:ThumbFinger3_L_Slide50
+      position: {x: -0.00020375045, y: 0.008304851, z: 0.000038485206}
+      rotation: {x: -0, y: -0, z: 6.6613356e-15, w: 1}
+      scale: {x: 1.0000013, y: 1.0000004, z: 1.0000029}
+    - name: huissein:ThumbFinger3_L_middleSlider1
+      parentName: huissein:ThumbFinger3_L_Slide50
+      position: {x: -0.00020375045, y: 2.5517352e-10, z: -0.008211625}
+      rotation: {x: -0, y: -0, z: 6.6613356e-15, w: 1}
+      scale: {x: 1.0000013, y: 1.0000004, z: 1.0000029}
+    - name: huissein:ThumbFinger3_L_middleSlider3
+      parentName: huissein:ThumbFinger3_L_Slide50
+      position: {x: -0.00020375045, y: 2.5517366e-10, z: 0.008288595}
+      rotation: {x: -0, y: -0, z: 6.6613356e-15, w: 1}
+      scale: {x: 1.0000013, y: 1.0000004, z: 1.0000029}
+    - name: huissein:ThumbFinger2_L_Slide50
+      parentName: huissein:ThumbFinger1_L
+      position: {x: 0.023454852, y: -9.81035e-11, z: -1.7763567e-16}
+      rotation: {x: 0.00000023841855, y: -0.1883143, z: -0.00000003352761, w: 0.9821089}
+      scale: {x: 0.99999714, y: 0.9999998, z: 1.000002}
+    - name: huissein:ThumbFinger2_L_middleSlider1
+      parentName: huissein:ThumbFinger2_L_Slide50
+      position: {x: -0.0001926468, y: -2.2737367e-15, z: -0.010682691}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999988, y: 0.99999815, z: 0.9999974}
+    - name: huissein:ThumbFinger2_L_middleSlider2
+      parentName: huissein:ThumbFinger2_L_Slide50
+      position: {x: -0.0001926468, y: 0.010803339, z: 0.00007669792}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999988, y: 0.99999815, z: 0.9999974}
+    - name: huissein:ThumbFinger2_L_middleSlider0
+      parentName: huissein:ThumbFinger2_L_Slide50
+      position: {x: -0.0001926468, y: -0.010803339, z: 0.00007669792}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999988, y: 0.99999815, z: 0.9999974}
+    - name: huissein:ThumbFinger2_L_middleSlider3
+      parentName: huissein:ThumbFinger2_L_Slide50
+      position: {x: -0.0001926468, y: -2.2737367e-15, z: 0.010836086}
+      rotation: {x: -0, y: -0, z: 3.5527128e-15, w: 1}
+      scale: {x: 0.9999975, y: 0.9999987, z: 0.99999654}
+    - name: huissein:IndexFinger1_L
+      parentName: huissein:Wrist_L
+      position: {x: 0.055101603, y: -0.0138360355, z: 0.0018726157}
+      rotation: {x: 0.10529839, y: 0.13574885, z: 0.019781256, w: -0.9849331}
+      scale: {x: 1.0000004, y: 1.0000007, z: 1.0000012}
+    - name: huissein:IndexFinger2_L_Slide00Offset
+      parentName: huissein:IndexFinger1_L
+      position: {x: 0.014688982, y: 2.4868996e-16, z: -3.2684964e-15}
+      rotation: {x: 0.000009448142, y: -0.062346216, z: -0.00015124836, w: 0.9980546}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:IndexFinger2_L_Slide00
+      parentName: huissein:IndexFinger2_L_Slide00Offset
+      position: {x: -1.7763568e-17, y: 3.5527136e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:IndexFinger2_L_Slide50
+      parentName: huissein:IndexFinger1_L
+      position: {x: 0.014896334, y: 0, z: -4.0856205e-16}
+      rotation: {x: 0.000009461307, y: -0.062346328, z: -0.00015128405, w: 0.9980546}
+      scale: {x: 0.99999064, y: 0.9999948, z: 0.9999979}
+    - name: huissein:IndexFinger2_L_middleSlider3
+      parentName: huissein:IndexFinger2_L_Slide50
+      position: {x: -0.00020574122, y: -0.000000062357344, z: 0.008252}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999833, y: 0.9999991, z: 0.9999993}
+    - name: huissein:IndexFinger2_L_middleSlider1
+      parentName: huissein:IndexFinger2_L_Slide50
+      position: {x: -0.00020574122, y: -0.000000062357344, z: -0.008200391}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999833, y: 0.9999991, z: 0.9999993}
+    - name: huissein:IndexFinger2_L_middleSlider2
+      parentName: huissein:IndexFinger2_L_Slide50
+      position: {x: -0.00020574122, y: 0.008284485, z: 0.000025805077}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999833, y: 0.9999991, z: 0.9999993}
+    - name: huissein:IndexFinger2_L_middleSlider0
+      parentName: huissein:IndexFinger2_L_Slide50
+      position: {x: -0.00020574122, y: -0.008284646, z: 0.000025805077}
+      rotation: {x: 9.094947e-13, y: -0, z: 1.2505552e-12, w: 1}
+      scale: {x: 0.9999992, y: 0.9999989, z: 0.9999987}
+    - name: huissein:IndexFinger2_L
+      parentName: huissein:IndexFinger1_L
+      position: {x: 0.014688982, y: 0, z: -6.217249e-16}
+      rotation: {x: 0.000009460375, y: -0.06234624, z: -0.00015124679, w: 0.9980546}
+      scale: {x: 1.0000045, y: 1.0000021, z: 1.0000042}
+    - name: huissein:IndexFinger3_L_Slide00Offset
+      parentName: huissein:IndexFinger2_L
+      position: {x: 0.015144958, y: 1.4210854e-16, z: -1.563194e-15}
+      rotation: {x: -0.014286336, y: 0.03703017, z: 0.00010522807, w: 0.999212}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:IndexFinger3_L_Slide00
+      parentName: huissein:IndexFinger3_L_Slide00Offset
+      position: {x: 3.5527136e-17, y: -3.5527136e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:IndexFinger3_L_Slide50
+      parentName: huissein:IndexFinger2_L
+      position: {x: 0.015352311, y: 0, z: -2.842171e-16}
+      rotation: {x: -0.0142864995, y: 0.037030086, z: 0.00010527856, w: 0.999212}
+      scale: {x: 0.9999981, y: 1.0000005, z: 1.0000001}
+    - name: huissein:IndexFinger3_L_middleSlider3
+      parentName: huissein:IndexFinger3_L_Slide50
+      position: {x: -0.00020678455, y: 0.00000026299463, z: 0.007823184}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999886, y: 0.99998975, z: 0.99999166}
+    - name: huissein:IndexFinger3_L_middleSlider2
+      parentName: huissein:IndexFinger3_L_Slide50
+      position: {x: -0.00020678455, y: 0.007908448, z: -0.000015343925}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999886, y: 0.99998975, z: 0.99999166}
+    - name: huissein:IndexFinger3_L_middleSlider0
+      parentName: huissein:IndexFinger3_L_Slide50
+      position: {x: -0.00020678455, y: -0.007907744, z: -0.000015343925}
+      rotation: {x: -0, y: -0.0000000037252894, z: -5.8207647e-11, w: 1}
+      scale: {x: 0.99999756, y: 0.9999975, z: 0.9999992}
+    - name: huissein:IndexFinger3_L_middleSlider1
+      parentName: huissein:IndexFinger3_L_Slide50
+      position: {x: -0.00020678455, y: 0.00000026299463, z: -0.00785391}
+      rotation: {x: -0, y: -0.0000000037252894, z: -5.8207647e-11, w: 1}
+      scale: {x: 0.99999756, y: 0.9999975, z: 0.9999992}
+    - name: huissein:IndexFinger3_L
+      parentName: huissein:IndexFinger2_L
+      position: {x: 0.015144958, y: 0, z: -4.2632563e-16}
+      rotation: {x: -0.014286371, y: 0.0370301, z: 0.00010530784, w: 0.999212}
+      scale: {x: 1.0000007, y: 1.0000013, z: 1.0000001}
+    - name: huissein:IndexFinger4_L
+      parentName: huissein:IndexFinger3_L
+      position: {x: 0.011802046, y: 3.1974422e-16, z: -1.1368684e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Wrist_L_Slide50
+      parentName: huissein:ElbowPart4_L
+      position: {x: 0.022184405, y: -4.2632563e-16, z: -7.81597e-15}
+      rotation: {x: -0.00022362205, y: 0.0042733247, z: -0.03370307, w: 0.9994227}
+      scale: {x: 0.99999934, y: 0.999997, z: 0.99999726}
+    - name: huissein:Wrist_L_middleSlider0
+      parentName: huissein:Wrist_L_Slide50
+      position: {x: -0.00020687457, y: -0.03330085, z: -0.0000017743193}
+      rotation: {x: -0, y: -4.6566118e-10, z: 0.000000001935518, w: 1}
+      scale: {x: 1.0000005, y: 0.99999845, z: 0.9999998}
+    - name: huissein:Wrist_L_middleSlider1
+      parentName: huissein:Wrist_L_Slide50
+      position: {x: -0.00020687457, y: -0.0000139684125, z: -0.01441168}
+      rotation: {x: -0, y: -4.6566118e-10, z: 0.000000001935518, w: 1}
+      scale: {x: 1.0000005, y: 0.99999845, z: 0.9999998}
+    - name: huissein:Wrist_L_middleSlider2
+      parentName: huissein:Wrist_L_Slide50
+      position: {x: -0.00020687457, y: 0.033272915, z: -0.0000017743193}
+      rotation: {x: -0, y: -4.6566118e-10, z: 0.000000001935518, w: 1}
+      scale: {x: 1.0000005, y: 0.99999845, z: 0.9999998}
+    - name: huissein:Wrist_L_middleSlider3
+      parentName: huissein:Wrist_L_Slide50
+      position: {x: -0.00020687457, y: -0.0000139684125, z: 0.014408131}
+      rotation: {x: -0, y: -4.6566118e-10, z: 0.000000001935518, w: 1}
+      scale: {x: 1.0000005, y: 0.99999845, z: 0.9999998}
+    - name: huissein:Elbow_L_Slide50
+      parentName: huissein:ShoulderPart4_L
+      position: {x: 0.035797562, y: -2.842171e-16, z: -2.842171e-16}
+      rotation: {x: 0.031632088, y: -0.9928432, z: 0.010400633, w: 0.11468928}
+      scale: {x: 0.99999976, y: 0.9999968, z: 0.9999969}
+    - name: huissein:Elbow_L_middleSlider0
+      parentName: huissein:Elbow_L_Slide50
+      position: {x: -0.0002069327, y: -0.038410407, z: 2.842171e-16}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000042, y: 1.0000008, z: 1.0000001}
+    - name: huissein:Elbow_L_middleSlider2
+      parentName: huissein:Elbow_L_Slide50
+      position: {x: -0.0002069327, y: 0.04053223, z: 4.2632563e-16}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000042, y: 1.0000008, z: 1.0000001}
+    - name: huissein:Neck_M
+      parentName: huissein:Chest_M
+      position: {x: -0.12700033, y: -3.5527135e-16, z: 7.105427e-16}
+      rotation: {x: -0.00000008918329, y: 0.0000000011749954, z: -0.17725898, w: 0.9841643}
+      scale: {x: 0.99999785, y: 0.99999875, z: 0.99999946}
+    - name: huissein:Head_M
+      parentName: huissein:Neck_M
+      position: {x: -0.07260311, y: 0, z: -2.842171e-16}
+      rotation: {x: -0.000000029802319, y: 0.000000029802319, z: 0.04111075, w: 0.99915457}
+      scale: {x: 1.0000051, y: 1.0000046, z: 1.0000035}
+    - name: huissein:HeadEnd_M
+      parentName: huissein:Head_M
+      position: {x: -0.18061246, y: -2.4868996e-16, z: -2.1570966e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:FaceJoint_M
+      parentName: huissein:Head_M
+      position: {x: 0.00017358003, y: 0.023528459, z: 3.8849563e-18}
+      rotation: {x: -0.49815226, y: 0.50184095, z: 0.49815226, w: 0.50184095}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperLidMain0_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.026587998, y: 0.041603614, z: 0.07215505}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: huissein:upperLidMain1_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.028376102, y: 0.04595929, z: 0.07354962}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: huissein:upperLidMain2_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.03249044, y: 0.050685223, z: 0.07511972}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: huissein:upperLidMain3_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.039604552, y: 0.05466289, z: 0.07737343}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1.0000001}
+    - name: huissein:upperLidMain4_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.048932116, y: 0.056009028, z: 0.0769469}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: huissein:upperLidMain5_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.058635525, y: 0.055002403, z: 0.075140476}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: huissein:upperLidMain6_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.06530619, y: 0.051712453, z: 0.07204079}
+      rotation: {x: -0.00000004470348, y: 0.000000059604638, z: 0.000000014901159,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: huissein:upperLidMain7_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.068944514, y: 0.048695855, z: 0.06893255}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: huissein:upperLidMain8_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.071976915, y: 0.04531639, z: 0.06612155}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: huissein:upperLidMain9_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.073745996, y: 0.04151557, z: 0.062774055}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: huissein:lowerLidMain1_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.027051603, y: 0.037716933, z: 0.071201034}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: huissein:lowerLidMain2_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.029495189, y: 0.035860367, z: 0.07216778}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: huissein:lowerLidMain3_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.034611728, y: 0.03328507, z: 0.07357542}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: huissein:lowerLidMain4_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.040470887, y: 0.03199732, z: 0.0747157}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: huissein:lowerLidMain5_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.04730754, y: 0.03179941, z: 0.074809425}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: huissein:lowerLidMain6_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.05584979, y: 0.0324144, z: 0.07344353}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: huissein:lowerLidMain7_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.06448786, y: 0.034953766, z: 0.069557324}
+      rotation: {x: -0.00000004470348, y: 0.000000059604638, z: 0.000000014901159,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: huissein:lowerLidMain8_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.07143785, y: 0.03922067, z: 0.06417835}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: huissein:upperLidMain0_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.026587998, y: 0.041603614, z: 0.07215505}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: huissein:upperLidMain1_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.028515765, y: 0.046206374, z: 0.073630705}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: huissein:upperLidMain2_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.03287603, y: 0.051262043, z: 0.07519904}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperLidMain3_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.040329345, y: 0.055583723, z: 0.07727935}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: huissein:upperLidMain4_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.049826678, y: 0.057093505, z: 0.0765598}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: huissein:upperLidMain5_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.059279434, y: 0.055939846, z: 0.074648045}
+      rotation: {x: -0.00000004470348, y: 0.000000059604638, z: 0.000000014901159,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: huissein:upperLidMain6_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.06572643, y: 0.05238981, z: 0.071654625}
+      rotation: {x: -0.00000004470348, y: 0.000000059604638, z: 0.000000014901159,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: huissein:upperLidMain7_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.06921884, y: 0.049150866, z: 0.06866633}
+      rotation: {x: -0.00000004470348, y: 0.000000059604638, z: 0.000000014901159,
+        w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+    - name: huissein:upperLidMain8_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.07212117, y: 0.045541167, z: 0.06598162}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: huissein:upperLidMain9_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.073745996, y: 0.04151557, z: 0.062774055}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: huissein:lowerLidMain1_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.02769691, y: 0.0373575, z: 0.07148255}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: huissein:lowerLidMain2_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.030746046, y: 0.035314925, z: 0.072596155}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: huissein:lowerLidMain3_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.037063394, y: 0.032504763, z: 0.0739835}
+      rotation: {x: -0.00000004470348, y: 0.000000059604638, z: 0.000000014901159,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: huissein:lowerLidMain4_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.04406922, y: 0.03117532, z: 0.07470875}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: huissein:lowerLidMain5_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.051641554, y: 0.031186286, z: 0.07403112}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: huissein:lowerLidMain6_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.05939568, y: 0.032218423, z: 0.072008334}
+      rotation: {x: -0.00000004470348, y: 0.000000059604638, z: 0.000000014901159,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: huissein:lowerLidMain7_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.06636555, y: 0.03501718, z: 0.0682435}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: huissein:lowerLidMain8_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.071827374, y: 0.039259218, z: 0.0637459}
+      rotation: {x: -0.00000004470348, y: 0.000000059604638, z: 0.000000014901159,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999994}
+    - name: huissein:upperLidBaseJoint_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.048653997, y: 0.06284262, z: 0.07997205}
+      rotation: {x: 0.99518406, y: 0.00000008940696, z: -0.09802419, w: 0.00000008940696}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000011}
+    - name: huissein:upperLidBaseJoint_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.048653997, y: 0.06284262, z: 0.07997205}
+      rotation: {x: -0.00000008940696, y: -0.09802419, z: -0.00000008940696, w: 0.99518406}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: huissein:CheekRaiserJoint_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.042579997, y: 0.021244312, z: 0.08183605}
+      rotation: {x: 0.99518406, y: 0.00000008940696, z: -0.09802419, w: 0.00000008940696}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000011}
+    - name: huissein:CheekRaiserJoint_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.042579997, y: 0.021244312, z: 0.08183605}
+      rotation: {x: -0.00000008940696, y: -0.09802419, z: -0.00000008940696, w: 0.99518406}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: huissein:LipNarrowJoint_M
+      parentName: huissein:FaceJoint_M
+      position: {x: 3.4847666e-16, y: -0.02806943, z: 0.09859105}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: huissein:upperLipJoint0_M
+      parentName: huissein:LipNarrowJoint_M
+      position: {x: -0, y: 0.0076790163, z: -0.0033041139}
+      rotation: {x: 0.000000021827875, y: -0.00000006984921, z: 3.6379935e-10, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1.0000002}
+    - name: huissein:lowerLipJoint0_M
+      parentName: huissein:LipNarrowJoint_M
+      position: {x: -4.2632563e-16, y: -0.0038997023, z: -0.00742311}
+      rotation: {x: 0.000000021827875, y: -0.00000006984921, z: 3.6379935e-10, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1.0000002}
+    - name: huissein:LipNarrowJoint_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 3.4847666e-16, y: -0.02806943, z: 0.09859105}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: huissein:upperLipJoint1_R
+      parentName: huissein:LipNarrowJoint_R
+      position: {x: 0.002957071, y: 0.00772836, z: -0.003724739}
+      rotation: {x: -0.0001769216, y: 0.059835438, z: 0.0143040465, w: 0.99810576}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: huissein:upperLipJoint2_R
+      parentName: huissein:LipNarrowJoint_R
+      position: {x: 0.006525656, y: 0.007898596, z: -0.0047421046}
+      rotation: {x: -0.00039477725, y: 0.121415615, z: 0.02589421, w: 0.9922639}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+    - name: huissein:upperLipJoint3_R
+      parentName: huissein:LipNarrowJoint_R
+      position: {x: 0.011198453, y: 0.008240091, z: -0.0063531254}
+      rotation: {x: 0.000028813074, y: 0.18652065, z: 0.030876255, w: 0.9819658}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: huissein:upperLipJoint4_R
+      parentName: huissein:LipNarrowJoint_R
+      position: {x: 0.016392002, y: 0.008658095, z: -0.008585372}
+      rotation: {x: 0.0010043356, y: 0.24437733, z: 0.01939607, w: 0.9694857}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000001}
+    - name: huissein:upperLipJoint5_R
+      parentName: huissein:LipNarrowJoint_R
+      position: {x: 0.021327155, y: 0.008897916, z: -0.011260464}
+      rotation: {x: -0.0015458643, y: 0.29300857, z: -0.025129614, w: 0.9557783}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000002}
+    - name: huissein:upperLipJoint6_R
+      parentName: huissein:LipNarrowJoint_R
+      position: {x: 0.02584094, y: 0.008617087, z: -0.014595421}
+      rotation: {x: -0.018427297, y: 0.3558403, z: -0.11910413, w: 0.92674285}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: huissein:upperLipJoint7_R
+      parentName: huissein:LipNarrowJoint_R
+      position: {x: 0.0290249, y: 0.007816642, z: -0.017451443}
+      rotation: {x: -0.0447224, y: 0.40993178, z: -0.19979982, w: 0.88883966}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000005}
+    - name: huissein:upperLipJoint8_R
+      parentName: huissein:LipNarrowJoint_R
+      position: {x: 0.03114556, y: 0.006893506, z: -0.019553408}
+      rotation: {x: -0.06605853, y: 0.43556684, z: -0.22957972, w: 0.8678773}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000005}
+    - name: huissein:LipJoint_R
+      parentName: huissein:LipNarrowJoint_R
+      position: {x: 0.031932734, y: 0.0064229076, z: -0.020550685}
+      rotation: {x: -0.07411452, y: 0.44187033, z: -0.23353438, w: 0.86297125}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000006}
+    - name: huissein:lowerLipJoint1_R
+      parentName: huissein:LipNarrowJoint_R
+      position: {x: 0.004732368, y: -0.0036987753, z: -0.008170784}
+      rotation: {x: -0.0008220752, y: 0.091151655, z: 0.03875625, w: 0.99508226}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1}
+    - name: huissein:lowerLipJoint2_R
+      parentName: huissein:LipNarrowJoint_R
+      position: {x: 0.011199342, y: -0.0028216385, z: -0.009998494}
+      rotation: {x: -0.0008234107, y: 0.17586328, z: 0.083319835, w: 0.98088187}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: huissein:lowerLipJoint3_R
+      parentName: huissein:LipNarrowJoint_R
+      position: {x: 0.017627215, y: -0.0012598179, z: -0.012873446}
+      rotation: {x: 0.005056339, y: 0.22483256, z: 0.12824474, w: 0.96590793}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000006}
+    - name: huissein:lowerLipJoint4_R
+      parentName: huissein:LipNarrowJoint_R
+      position: {x: 0.023084711, y: 0.0007330553, z: -0.015527682}
+      rotation: {x: 0.020868538, y: 0.2410476, z: 0.18913817, w: 0.9516761}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: huissein:lowerLipJoint5_R
+      parentName: huissein:LipNarrowJoint_R
+      position: {x: 0.027263865, y: 0.0029740669, z: -0.017883295}
+      rotation: {x: 0.044226002, y: 0.25574803, z: 0.2629937, w: 0.9292316}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000005}
+    - name: huissein:lowerLipJoint6_R
+      parentName: huissein:LipNarrowJoint_R
+      position: {x: 0.030138992, y: 0.005004162, z: -0.01958797}
+      rotation: {x: 0.06626209, y: 0.26614913, z: 0.3074217, w: 0.9111893}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000005}
+    - name: huissein:LipNarrowJoint_L
+      parentName: huissein:FaceJoint_M
+      position: {x: 3.4847666e-16, y: -0.02806943, z: 0.09859105}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: huissein:upperLipJoint1_L
+      parentName: huissein:LipNarrowJoint_L
+      position: {x: -0.002957071, y: 0.00772836, z: -0.003724739}
+      rotation: {x: -0.00017692093, y: -0.059835438, z: -0.014304044, w: 0.99810576}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: huissein:upperLipJoint2_L
+      parentName: huissein:LipNarrowJoint_L
+      position: {x: -0.006525656, y: 0.007898596, z: -0.0047421046}
+      rotation: {x: -0.000394783, y: -0.12141562, z: -0.025894212, w: 0.99226385}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
+    - name: huissein:upperLipJoint3_L
+      parentName: huissein:LipNarrowJoint_L
+      position: {x: -0.011198453, y: 0.008240091, z: -0.0063531254}
+      rotation: {x: 0.000028805745, y: -0.18652071, z: -0.030876258, w: 0.9819657}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: huissein:upperLipJoint4_L
+      parentName: huissein:LipNarrowJoint_L
+      position: {x: -0.016392002, y: 0.008658095, z: -0.008585372}
+      rotation: {x: 0.0010043352, y: -0.24437736, z: -0.019396076, w: 0.9694857}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: huissein:upperLipJoint5_L
+      parentName: huissein:LipNarrowJoint_L
+      position: {x: -0.021327155, y: 0.008897916, z: -0.011260464}
+      rotation: {x: -0.0015458604, y: -0.29300845, z: 0.025129603, w: 0.9557783}
+      scale: {x: 1, y: 0.9999998, z: 0.9999999}
+    - name: huissein:upperLipJoint6_L
+      parentName: huissein:LipNarrowJoint_L
+      position: {x: -0.02584094, y: 0.008617087, z: -0.014595421}
+      rotation: {x: -0.018427283, y: -0.3558403, z: 0.11910411, w: 0.92674285}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: huissein:upperLipJoint7_L
+      parentName: huissein:LipNarrowJoint_L
+      position: {x: -0.0290249, y: 0.007816642, z: -0.017451443}
+      rotation: {x: -0.04472236, y: -0.40993178, z: 0.1997998, w: 0.88883966}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: huissein:upperLipJoint8_L
+      parentName: huissein:LipNarrowJoint_L
+      position: {x: -0.03114556, y: 0.006893506, z: -0.019553408}
+      rotation: {x: -0.06605847, y: -0.4355669, z: 0.22957975, w: 0.86787724}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.99999994}
+    - name: huissein:LipJoint_L
+      parentName: huissein:LipNarrowJoint_L
+      position: {x: -0.031932734, y: 0.0064229076, z: -0.020550685}
+      rotation: {x: -0.07411452, y: -0.4418703, z: 0.23353443, w: 0.86297125}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000001}
+    - name: huissein:lowerLipJoint1_L
+      parentName: huissein:LipNarrowJoint_L
+      position: {x: -0.004732368, y: -0.0036987753, z: -0.008170784}
+      rotation: {x: -0.0008220836, y: -0.09115165, z: -0.038756233, w: 0.99508226}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: huissein:lowerLipJoint2_L
+      parentName: huissein:LipNarrowJoint_L
+      position: {x: -0.011199342, y: -0.0028216385, z: -0.009998494}
+      rotation: {x: -0.0008233972, y: -0.17586336, z: -0.08331981, w: 0.98088187}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000001}
+    - name: huissein:lowerLipJoint3_L
+      parentName: huissein:LipNarrowJoint_L
+      position: {x: -0.017627215, y: -0.0012598179, z: -0.012873446}
+      rotation: {x: 0.005056307, y: -0.22483253, z: -0.12824473, w: 0.96590793}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: huissein:lowerLipJoint4_L
+      parentName: huissein:LipNarrowJoint_L
+      position: {x: -0.023084711, y: 0.0007330553, z: -0.015527682}
+      rotation: {x: 0.020868499, y: -0.2410476, z: -0.18913817, w: 0.9516761}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: huissein:lowerLipJoint5_L
+      parentName: huissein:LipNarrowJoint_L
+      position: {x: -0.027263865, y: 0.0029740669, z: -0.017883295}
+      rotation: {x: 0.044225935, y: -0.2557481, z: -0.26299357, w: 0.9292316}
+      scale: {x: 1, y: 1.0000002, z: 0.99999994}
+    - name: huissein:lowerLipJoint6_L
+      parentName: huissein:LipNarrowJoint_L
+      position: {x: -0.030138992, y: 0.005004162, z: -0.01958797}
+      rotation: {x: 0.06626202, y: -0.26614904, z: -0.3074216, w: 0.9111894}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: huissein:SmileBulgeJoint_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.047653094, y: -0.01363167, z: 0.081653394}
+      rotation: {x: 0.9675499, y: -0.000000059604638, z: -0.2526802, w: 0.0000000745058}
+      scale: {x: 1.0082945, y: 1.0082964, z: 1.0082957}
+    - name: huissein:SmileBulgeJoint_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.047653094, y: -0.01363167, z: 0.081653394}
+      rotation: {x: -0.000000119209275, y: -0.25268024, z: 0.000000014901159, w: 0.9675499}
+      scale: {x: 1.0082946, y: 1.0082946, z: 1.0082945}
+    - name: huissein:FrownBulgeJoint_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.041157532, y: -0.041290287, z: 0.072889306}
+      rotation: {x: 0.9682332, y: -0.000000059604638, z: -0.25004888, w: 0.000000119209275}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000011}
+    - name: huissein:FrownBulgeJoint_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.041157532, y: -0.041290287, z: 0.072889306}
+      rotation: {x: -0.00000011920926, y: -0.2500489, z: 0.000000044703473, w: 0.9682332}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: huissein:CheekJoint_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.08465719, y: -0.017786417, z: 0.05528984}
+      rotation: {x: -0.0000001490116, y: -0.4588264, z: 0.00000004470348, w: 0.8885259}
+      scale: {x: 1.0347074, y: 1.0347073, z: 1.0347073}
+    - name: huissein:NoseJoint_M
+      parentName: huissein:FaceJoint_M
+      position: {x: -0, y: 0.01054656, z: 0.11401405}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: huissein:NoseCornerJoint_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.018499, y: 0.007525625, z: 0.08877505}
+      rotation: {x: 0.99448633, y: 0.000000059604638, z: -0.104866534, w: 0}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+    - name: huissein:NoseSideJoint_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.013129999, y: 0.02128356, z: 0.097552046}
+      rotation: {x: 0.99765, y: -0.000000089406946, z: -0.06851563, w: 0.000000089406946}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000005}
+    - name: huissein:NostrilJoint_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.013451, y: 0.007938604, z: 0.10451105}
+      rotation: {x: 0.9978545, y: 0.00000011920926, z: -0.065470695, w: -0.000000014901158}
+      scale: {x: 1.0000002, y: 1.0000018, z: 1.0000012}
+    - name: huissein:NoseCenterJoint_M
+      parentName: huissein:FaceJoint_M
+      position: {x: 2.6147971e-14, y: 0.029310597, z: 0.100225054}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: huissein:NoseCornerJoint_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.018499, y: 0.007525625, z: 0.08877505}
+      rotation: {x: 0.000000029802319, y: -0.104866475, z: -0.000000104308114, w: 0.99448633}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999994}
+    - name: huissein:NoseSideJoint_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.013129999, y: 0.02128356, z: 0.097552046}
+      rotation: {x: -0.00000014901158, y: -0.06851563, z: -0.000000029802315, w: 0.99765}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: huissein:NostrilJoint_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.013451, y: 0.007938604, z: 0.10451105}
+      rotation: {x: -0.00000011920925, y: -0.06547072, z: -0.00000004470347, w: 0.9978545}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: huissein:upperFaceJoint_M
+      parentName: huissein:FaceJoint_M
+      position: {x: 1.4210854e-16, y: 0.020488577, z: -0.005515948}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000001}
+    - name: huissein:middleFaceJoint_M
+      parentName: huissein:FaceJoint_M
+      position: {x: -0, y: 0.008411588, z: -0.005515948}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000001}
+    - name: huissein:lowerFaceJoint_M
+      parentName: huissein:FaceJoint_M
+      position: {x: 1.4210854e-16, y: -0.0036653995, z: -0.005515948}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000001}
+    - name: huissein:EyeBrowCenterJoint_M
+      parentName: huissein:FaceJoint_M
+      position: {x: -6.1675105e-14, y: 0.06805601, z: 0.09377405}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000001}
+    - name: huissein:CheekJoint_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.08465719, y: -0.017786417, z: 0.05528984}
+      rotation: {x: 0.88852596, y: -0.000000119209275, z: -0.4588264, w: 0.0000000745058}
+      scale: {x: 1.034708, y: 1.0347083, z: 1.0347089}
+    - name: huissein:EyeJoint_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.045709, y: 0.046922598, z: 0.041296553}
+      rotation: {x: -0.006930529, y: -0.049078755, z: -0.0003405213, w: 0.9987709}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000004}
+    - name: huissein:IrisJoint_L
+      parentName: huissein:EyeJoint_L
+      position: {x: 0.001202899, y: -0.0014519079, z: 0.031439994}
+      rotation: {x: -0.000000026600894, y: 1, z: 0.000000061001614, w: 0.000000037252896}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: huissein:PupilJoint_L
+      parentName: huissein:IrisJoint_L
+      position: {x: -0.00013071012, y: -0.00015785845, z: -0.003410763}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 0.9999998, z: 1.0000004}
+    - name: huissein:lowerTeethJoint_M
+      parentName: huissein:FaceJoint_M
+      position: {x: 1.4210854e-16, y: -0.031708878, z: 0.057764053}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: huissein:EyeJoint_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.045709, y: 0.046922598, z: 0.041296553}
+      rotation: {x: 0.99877083, y: 0.0003405213, z: -0.049078755, w: 0.0069304695}
+      scale: {x: 1.0000002, y: 1.000001, z: 1.0000008}
+    - name: huissein:IrisJoint_R
+      parentName: huissein:EyeJoint_R
+      position: {x: -0.001202899, y: 0.0014519079, z: -0.031439994}
+      rotation: {x: -0, y: 0.00000005891888, z: -1, w: -0.0000000029103826}
+      scale: {x: 1.0000008, y: 1, z: 1.0000008}
+    - name: huissein:PupilJoint_R
+      parentName: huissein:IrisJoint_R
+      position: {x: 0.00013071012, y: -0.00015785845, z: -0.003410763}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1.0000002}
+    - name: huissein:JawJoint_M
+      parentName: huissein:FaceJoint_M
+      position: {x: 1.4210854e-16, y: 0.011401586, z: -0.005515948}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: huissein:Tongue0Joint_M
+      parentName: huissein:FaceJoint_M
+      position: {x: -4.2632563e-16, y: -0.038632624, z: 0.024556356}
+      rotation: {x: -0.21681063, y: 0.67304766, z: -0.21681069, w: 0.6730477}
+      scale: {x: 1.000001, y: 1.0000006, z: 1.0000014}
+    - name: huissein:Tongue1Joint_M
+      parentName: huissein:Tongue0Joint_M
+      position: {x: -0.016621618, y: 0, z: 2.842171e-16}
+      rotation: {x: -0, y: 0.000000059604645, z: 0.17308241, w: 0.9849074}
+      scale: {x: 1.0000004, y: 0.99999994, z: 1.0000005}
+    - name: huissein:Tongue2Joint_M
+      parentName: huissein:Tongue1Joint_M
+      position: {x: -0.010664044, y: 4.2632563e-16, z: 1.4210854e-16}
+      rotation: {x: -0, y: -0.000000059604645, z: 0.14562994, w: 0.9893392}
+      scale: {x: 0.9999997, y: 0.9999999, z: 0.9999998}
+    - name: huissein:Tongue3Joint_M
+      parentName: huissein:Tongue2Joint_M
+      position: {x: -0.013163641, y: 0, z: 0}
+      rotation: {x: -0.000000007916242, y: 0.000000059604645, z: -0.045648694, w: 0.9989576}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+    - name: huissein:upperTeethJoint_M
+      parentName: huissein:FaceJoint_M
+      position: {x: -0, y: -0.01461442, z: 0.060736053}
+      rotation: {x: -0.000000014901158, y: 0.000000029802315, z: -0.000000014901158,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: huissein:EyeBrowInnerJoint_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.021373, y: 0.07158906, z: 0.09314205}
+      rotation: {x: 0.993382, y: -0.000000059604638, z: -0.11485769, w: 0.00000016391276}
+      scale: {x: 1.0000005, y: 1.0000055, z: 1.0000048}
+    - name: huissein:EyeBrowOuterJoint_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.081953, y: 0.05970605, z: 0.06651805}
+      rotation: {x: 0.90359235, y: -0.000000089406946, z: -0.42839342, w: 0.000000096857526}
+      scale: {x: 1.0000007, y: 1.0000036, z: 1.0000019}
+    - name: huissein:EyeBrowMid1Joint_R
+      parentName: huissein:FaceJoint_M
+      position: {x: 0.052579, y: 0.07310907, z: 0.08742405}
+      rotation: {x: 0.9627169, y: -0.00000005960463, z: -0.2705109, w: 0.00000005960463}
+      scale: {x: 1.0000008, y: 1.0000067, z: 1.0000052}
+    - name: huissein:EyeBrowInnerJoint_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.021373, y: 0.07027292, z: 0.09314205}
+      rotation: {x: -0, y: -0.11485787, z: -0.000000119209275, w: 0.993382}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: huissein:EyeBrowOuterJoint_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.081953, y: 0.05838991, z: 0.06651805}
+      rotation: {x: -0.00000008940694, y: -0.42839333, z: -0.000000007450578, w: 0.90359235}
+      scale: {x: 1.0000008, y: 1.0000005, z: 1.0000006}
+    - name: huissein:EyeBrowMid1Joint_L
+      parentName: huissein:FaceJoint_M
+      position: {x: -0.052579, y: 0.07179292, z: 0.08742405}
+      rotation: {x: -0.00000017881389, y: -0.27051094, z: -0, w: 0.9627169}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
+    - name: huissein:Scapula_R
+      parentName: huissein:Chest_M
+      position: {x: -0.081175804, y: -0.012818633, z: -0.027767193}
+      rotation: {x: 0.09024884, y: 0.6699454, z: 0.09815196, w: -0.73033863}
+      scale: {x: 0.9999998, y: 0.99999714, z: 0.99999624}
+    - name: huissein:Shoulder_R
+      parentName: huissein:Scapula_R
+      position: {x: -0.06984652, y: 1.563194e-15, z: 7.105427e-17}
+      rotation: {x: 0.00024363156, y: -0.058764763, z: -0.0048059393, w: 0.9982603}
+      scale: {x: 1.0000038, y: 1.0000023, z: 1.0000018}
+    - name: huissein:ShoulderPart1_R
+      parentName: huissein:Shoulder_R
+      position: {x: -0.035590213, y: 1.4210854e-16, z: -3.5527135e-16}
+      rotation: {x: -0.0000000867876, y: 0.000000011175868, z: 0.000000007643392,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000014, z: 1.0000012}
+    - name: huissein:ShoulderPart2_R
+      parentName: huissein:ShoulderPart1_R
+      position: {x: -0.035590213, y: -1.4210854e-16, z: 0}
+      rotation: {x: -1.4551915e-11, y: -0.000000007450581, z: -0.000000004656613,
+        w: 1}
+      scale: {x: 0.999999, y: 0.9999999, z: 1.0000007}
+    - name: huissein:ShoulderPart3_R
+      parentName: huissein:ShoulderPart2_R
+      position: {x: -0.035590213, y: 1.4210854e-16, z: -3.5527135e-16}
+      rotation: {x: -2.6921043e-10, y: 0.00000006053597, z: 9.313226e-10, w: 1}
+      scale: {x: 1.0000004, y: 1.000001, z: 1.0000001}
+    - name: huissein:ShoulderPart4_R
+      parentName: huissein:ShoulderPart3_R
+      position: {x: -0.035590213, y: -1.4210854e-16, z: 1.4210854e-16}
+      rotation: {x: 0.00000009634093, y: -0.000000053085383, z: -0.000000013504165,
+        w: 1}
+      scale: {x: 1.000002, y: 1.0000004, z: 0.99999964}
+    - name: huissein:Elbow_R_Slide00Offset
+      parentName: huissein:ShoulderPart4_R
+      position: {x: -0.035590213, y: 2.0428103e-16, z: -1.4210854e-15}
+      rotation: {x: 0, y: -0, z: -0.031843487, w: 0.9994929}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Elbow_R_Slide00
+      parentName: huissein:Elbow_R_Slide00Offset
+      position: {x: -0, y: -1.7763568e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Elbow_R_Slide50
+      parentName: huissein:ShoulderPart4_R
+      position: {x: -0.035797562, y: 7.105427e-17, z: 5.684342e-16}
+      rotation: {x: -0.000000039464794, y: 0.000000026077032, z: -0.031843465, w: 0.9994929}
+      scale: {x: 1.0000011, y: 0.99999815, z: 0.9999987}
+    - name: huissein:Elbow_R_middleSlider2
+      parentName: huissein:Elbow_R_Slide50
+      position: {x: 0.0002069327, y: 0.038316377, z: 1.4210854e-16}
+      rotation: {x: -0, y: -0, z: 1.0291247e-15, w: 1}
+      scale: {x: 1.0000019, y: 1.0000005, z: 0.99999994}
+    - name: huissein:Elbow_R_middleSlider0
+      parentName: huissein:Elbow_R_Slide50
+      position: {x: 0.0002069327, y: -0.040872775, z: 2.842171e-16}
+      rotation: {x: -0, y: -0, z: 1.0291247e-15, w: 1}
+      scale: {x: 1.0000019, y: 1.0000005, z: 0.99999994}
+    - name: huissein:Elbow_R
+      parentName: huissein:ShoulderPart4_R
+      position: {x: -0.035590213, y: 0, z: 5.684342e-16}
+      rotation: {x: -0.00000014531862, y: -0.0000000412677, z: -0.03184347, w: 0.99949294}
+      scale: {x: 1.0000019, y: 1.000001, z: 1.0000007}
+    - name: huissein:ElbowPart1_R
+      parentName: huissein:Elbow_R
+      position: {x: -0.021977052, y: -1.0658141e-16, z: 7.958079e-15}
+      rotation: {x: -0.000002013362, y: -0.00886363, z: -0.529431, w: 0.8483067}
+      scale: {x: 0.9999994, y: 0.999999, z: 0.9999997}
+    - name: huissein:ElbowPart2_R
+      parentName: huissein:ElbowPart1_R
+      position: {x: -0.021977052, y: -3.5527136e-17, z: 7.531753e-15}
+      rotation: {x: -0, y: 3.5527128e-15, z: -5.9969645e-15, w: 1}
+      scale: {x: 1.0000008, y: 1.0000012, z: 1.0000002}
+    - name: huissein:ElbowPart3_R
+      parentName: huissein:ElbowPart2_R
+      position: {x: -0.021977052, y: 3.5527136e-17, z: 7.8870245e-15}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.000001, y: 1.0000008, z: 1.0000008}
+    - name: huissein:ElbowPart4_R
+      parentName: huissein:ElbowPart3_R
+      position: {x: -0.021977052, y: -7.105427e-17, z: 7.744916e-15}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.000001, z: 0.99999964}
+    - name: huissein:Wrist_R_Slide00Offset
+      parentName: huissein:ElbowPart4_R
+      position: {x: -0.021977052, y: 2.4868996e-16, z: 8.668622e-15}
+      rotation: {x: -0.00022372261, y: 0.004273422, z: -0.033703063, w: 0.9994227}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Wrist_R_Slide00
+      parentName: huissein:Wrist_R_Slide00Offset
+      position: {x: -0, y: -8.881784e-18, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Wrist_R
+      parentName: huissein:ElbowPart4_R
+      position: {x: -0.021977052, y: 3.5527136e-17, z: 7.744916e-15}
+      rotation: {x: -0.00022367755, y: 0.0042734668, z: -0.03370311, w: 0.9994228}
+      scale: {x: 1.0000051, y: 1.0000018, z: 1.0000023}
+    - name: huissein:MiddleFinger1_R
+      parentName: huissein:Wrist_R
+      position: {x: -0.05580436, y: 3.5527136e-17, z: 1.7053025e-15}
+      rotation: {x: -0.055939205, y: -0.1374854, z: 0.05115469, w: 0.9875991}
+      scale: {x: 1.000004, y: 1.0000021, z: 1.0000012}
+    - name: huissein:MiddleFinger2_R_Slide00Offset
+      parentName: huissein:MiddleFinger1_R
+      position: {x: -0.016984371, y: 4.0856205e-16, z: -3.5527137e-15}
+      rotation: {x: 0.00031985476, y: -0.03658451, z: 0.00000118943, w: 0.9993305}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:MiddleFinger2_R_Slide00
+      parentName: huissein:MiddleFinger2_R_Slide00Offset
+      position: {x: -3.5527136e-17, y: 0, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:MiddleFinger2_R
+      parentName: huissein:MiddleFinger1_R
+      position: {x: -0.016984371, y: -1.7763567e-16, z: -8.5265126e-16}
+      rotation: {x: 0.00031987194, y: -0.036584612, z: 0.00000122562, w: 0.99933046}
+      scale: {x: 1.0000012, y: 1, z: 0.9999993}
+    - name: huissein:MiddleFinger3_R_Slide00Offset
+      parentName: huissein:MiddleFinger2_R
+      position: {x: -0.014664434, y: 3.0198067e-16, z: 1.563194e-15}
+      rotation: {x: 0.00046593137, y: 0.023799788, z: -0.0000020164446, w: 0.99971664}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:MiddleFinger3_R_Slide00
+      parentName: huissein:MiddleFinger3_R_Slide00Offset
+      position: {x: 7.105427e-17, y: 0, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:MiddleFinger3_R
+      parentName: huissein:MiddleFinger2_R
+      position: {x: -0.014664434, y: 0, z: 1.7763568e-15}
+      rotation: {x: 0.00046588108, y: 0.023799874, z: -0.0000020191073, w: 0.9997167}
+      scale: {x: 0.9999974, y: 0.9999993, z: 0.9999991}
+    - name: huissein:MiddleFinger4_R
+      parentName: huissein:MiddleFinger3_R
+      position: {x: -0.013320763, y: 0, z: 5.968559e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:MiddleFinger3_R_Slide50
+      parentName: huissein:MiddleFinger2_R
+      position: {x: -0.014871786, y: 0, z: 1.7585932e-15}
+      rotation: {x: 0.000465935, y: 0.023799848, z: -0.0000020717086, w: 0.9997167}
+      scale: {x: 1.0000018, y: 1.0000013, z: 1.0000023}
+    - name: huissein:MiddleFinger3_R_middleSlider3
+      parentName: huissein:MiddleFinger3_R_Slide50
+      position: {x: 0.00020711831, y: 0.000000005434703, z: 0.0076455115}
+      rotation: {x: 2.9103817e-11, y: -0, z: -9.0949427e-13, w: 1}
+      scale: {x: 1.0000012, y: 1.000001, z: 1.000001}
+    - name: huissein:MiddleFinger3_R_middleSlider0
+      parentName: huissein:MiddleFinger3_R_Slide50
+      position: {x: 0.00020711831, y: -0.0077037895, z: 0.000009867127}
+      rotation: {x: 2.9103817e-11, y: -0, z: -9.0949427e-13, w: 1}
+      scale: {x: 1.0000012, y: 1.000001, z: 1.000001}
+    - name: huissein:MiddleFinger3_R_middleSlider1
+      parentName: huissein:MiddleFinger3_R_Slide50
+      position: {x: 0.00020711831, y: 0.000000005434703, z: -0.007625777}
+      rotation: {x: 2.9103817e-11, y: -0, z: -9.0949427e-13, w: 1}
+      scale: {x: 1.0000012, y: 1.000001, z: 1.000001}
+    - name: huissein:MiddleFinger3_R_middleSlider2
+      parentName: huissein:MiddleFinger3_R_Slide50
+      position: {x: 0.00020711831, y: 0.007703803, z: 0.000009867127}
+      rotation: {x: 2.9103817e-11, y: -0, z: -9.0949427e-13, w: 1}
+      scale: {x: 1.0000012, y: 1.000001, z: 1.000001}
+    - name: huissein:MiddleFinger2_R_Slide50
+      parentName: huissein:MiddleFinger1_R
+      position: {x: -0.017191725, y: -2.4868996e-16, z: -9.947598e-16}
+      rotation: {x: 0.00031990543, y: -0.036584612, z: 0.0000011576334, w: 0.9993305}
+      scale: {x: 1.0000019, y: 1.0000006, z: 1.0000021}
+    - name: huissein:MiddleFinger2_R_middleSlider0
+      parentName: huissein:MiddleFinger2_R_Slide50
+      position: {x: 0.00020679815, y: -0.008641472, z: -0.000015161674}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000031, y: 1.000001, z: 1.0000004}
+    - name: huissein:MiddleFinger2_R_middleSlider3
+      parentName: huissein:MiddleFinger2_R_Slide50
+      position: {x: 0.00020679815, y: -0.000000005345717, z: 0.008564841}
+      rotation: {x: -0, y: -0, z: 9.0949416e-13, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000006}
+    - name: huissein:MiddleFinger2_R_middleSlider2
+      parentName: huissein:MiddleFinger2_R_Slide50
+      position: {x: 0.00020679815, y: 0.008641458, z: -0.000015161674}
+      rotation: {x: -0, y: -0, z: 9.0949416e-13, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000006}
+    - name: huissein:MiddleFinger2_R_middleSlider1
+      parentName: huissein:MiddleFinger2_R_Slide50
+      position: {x: 0.00020679815, y: -0.000000005345717, z: -0.008595164}
+      rotation: {x: -0, y: -0, z: 9.0949416e-13, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000006}
+    - name: huissein:ThumbFinger1_R
+      parentName: huissein:Wrist_R
+      position: {x: -0.015756397, y: 0.0083425585, z: -0.007981551}
+      rotation: {x: -0.4291568, y: 0.045129582, z: -0.36420652, w: 0.825313}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000012}
+    - name: huissein:ThumbFinger2_R_Slide00Offset
+      parentName: huissein:ThumbFinger1_R
+      position: {x: -0.023247499, y: 9.8107335e-11, z: -8.171241e-16}
+      rotation: {x: 0, y: -0.18831426, z: -0, w: 0.98210883}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:ThumbFinger2_R_Slide00
+      parentName: huissein:ThumbFinger2_R_Slide00Offset
+      position: {x: -8.437695e-17, y: 1.4210854e-16, z: -3.5527136e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:ThumbFinger2_R
+      parentName: huissein:ThumbFinger1_R
+      position: {x: -0.023247499, y: 9.8104636e-11, z: 6.0396133e-16}
+      rotation: {x: 0.00000011175871, y: -0.18831432, z: 0.000000037252903, w: 0.9821089}
+      scale: {x: 1.0000051, y: 1.0000044, z: 0.9999992}
+    - name: huissein:ThumbFinger3_R_Slide00Offset
+      parentName: huissein:ThumbFinger2_R
+      position: {x: -0.013170657, y: 1.563194e-15, z: -8.881784e-16}
+      rotation: {x: 2.1704787e-15, y: -0.09320684, z: 0.0000006180052, w: 0.9956468}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:ThumbFinger3_R_Slide00
+      parentName: huissein:ThumbFinger3_R_Slide00Offset
+      position: {x: -1.7763567e-16, y: 1.4210854e-16, z: -3.5527136e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:ThumbFinger3_R
+      parentName: huissein:ThumbFinger2_R
+      position: {x: -0.013170657, y: -1.4210854e-15, z: -1.7763567e-16}
+      rotation: {x: 0.000000062889, y: -0.09320675, z: 0.00000062079, w: 0.99564683}
+      scale: {x: 1.0000017, y: 1.0000015, z: 1.0000004}
+    - name: huissein:ThumbFinger4_R
+      parentName: huissein:ThumbFinger3_R
+      position: {x: -0.019090196, y: 9.947598e-16, z: -2.842171e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:ThumbFinger3_R_Slide50
+      parentName: huissein:ThumbFinger2_R
+      position: {x: -0.013378009, y: -1.563194e-15, z: -1.7763567e-16}
+      rotation: {x: 0.00000001417213, y: -0.09320673, z: 0.0000006832353, w: 0.9956468}
+      scale: {x: 0.9999979, y: 0.99999917, z: 1.000001}
+    - name: huissein:ThumbFinger3_R_middleSlider1
+      parentName: huissein:ThumbFinger3_R_Slide50
+      position: {x: 0.00020375045, y: -2.5517521e-10, z: -0.008288595}
+      rotation: {x: -0, y: -0, z: 0.000000009313226, w: 1}
+      scale: {x: 1.0000013, y: 0.9999989, z: 0.9999988}
+    - name: huissein:ThumbFinger3_R_middleSlider0
+      parentName: huissein:ThumbFinger3_R_Slide50
+      position: {x: 0.00020375045, y: -0.008304851, z: -0.000038485206}
+      rotation: {x: -0, y: -0, z: 0.000000009313226, w: 1}
+      scale: {x: 1.0000013, y: 0.9999989, z: 0.9999988}
+    - name: huissein:ThumbFinger3_R_middleSlider3
+      parentName: huissein:ThumbFinger3_R_Slide50
+      position: {x: 0.00020375045, y: -2.5517521e-10, z: 0.008211625}
+      rotation: {x: -0, y: -0, z: 1.12132475e-14, w: 1}
+      scale: {x: 0.9999995, y: 0.9999993, z: 0.9999996}
+    - name: huissein:ThumbFinger3_R_middleSlider2
+      parentName: huissein:ThumbFinger3_R_Slide50
+      position: {x: 0.00020375045, y: 0.00830485, z: -0.000038485206}
+      rotation: {x: -0, y: -0, z: 1.12132475e-14, w: 1}
+      scale: {x: 0.9999995, y: 0.9999993, z: 0.9999996}
+    - name: huissein:ThumbFinger2_R_Slide50
+      parentName: huissein:ThumbFinger1_R
+      position: {x: -0.023454852, y: 9.8104774e-11, z: 6.750156e-16}
+      rotation: {x: 0.00000011920923, y: -0.18831423, z: 0.000000059604616, w: 0.9821089}
+      scale: {x: 1.0000017, y: 1.0000023, z: 1.0000014}
+    - name: huissein:ThumbFinger2_R_middleSlider2
+      parentName: huissein:ThumbFinger2_R_Slide50
+      position: {x: 0.0001926468, y: 0.010803339, z: -0.00007669792}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000012, z: 0.9999985}
+    - name: huissein:ThumbFinger2_R_middleSlider0
+      parentName: huissein:ThumbFinger2_R_Slide50
+      position: {x: 0.0001926468, y: -0.010803339, z: -0.00007669792}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000012, z: 0.9999985}
+    - name: huissein:ThumbFinger2_R_middleSlider1
+      parentName: huissein:ThumbFinger2_R_Slide50
+      position: {x: 0.0001926468, y: 0, z: -0.010836086}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000012, z: 0.9999985}
+    - name: huissein:ThumbFinger2_R_middleSlider3
+      parentName: huissein:ThumbFinger2_R_Slide50
+      position: {x: 0.0001926468, y: -1.4210854e-16, z: 0.010682691}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000012, z: 0.9999985}
+    - name: huissein:IndexFinger1_R
+      parentName: huissein:Wrist_R
+      position: {x: -0.055101603, y: 0.0138360355, z: -0.0018726157}
+      rotation: {x: -0.1052984, y: -0.135749, z: -0.019781211, w: 0.9849331}
+      scale: {x: 1.0000026, y: 0.99999934, z: 1.0000006}
+    - name: huissein:IndexFinger2_R_Slide00Offset
+      parentName: huissein:IndexFinger1_R
+      position: {x: -0.014688982, y: 4.6185276e-16, z: 8.5265126e-16}
+      rotation: {x: 0.000009448142, y: -0.062346216, z: -0.00015124836, w: 0.9980546}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:IndexFinger2_R_Slide00
+      parentName: huissein:IndexFinger2_R_Slide00Offset
+      position: {x: -1.7763568e-17, y: 0, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:IndexFinger2_R
+      parentName: huissein:IndexFinger1_R
+      position: {x: -0.014688982, y: 2.1316282e-16, z: -2.842171e-16}
+      rotation: {x: 0.000009489711, y: -0.062346213, z: -0.00015123188, w: 0.99805456}
+      scale: {x: 1.000001, y: 1.0000024, z: 1.0000024}
+    - name: huissein:IndexFinger3_R_Slide00Offset
+      parentName: huissein:IndexFinger2_R
+      position: {x: -0.015144958, y: 5.684342e-16, z: -1.563194e-15}
+      rotation: {x: -0.014286336, y: 0.03703017, z: 0.00010522807, w: 0.999212}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:IndexFinger3_R_Slide00
+      parentName: huissein:IndexFinger3_R_Slide00Offset
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:IndexFinger3_R
+      parentName: huissein:IndexFinger2_R
+      position: {x: -0.015144958, y: -1.4210854e-16, z: -9.858781e-16}
+      rotation: {x: -0.014286312, y: 0.03703016, z: 0.000105224615, w: 0.9992121}
+      scale: {x: 1.0000026, y: 1.0000014, z: 1.0000001}
+    - name: huissein:IndexFinger4_R
+      parentName: huissein:IndexFinger3_R
+      position: {x: -0.011802046, y: -4.2632563e-16, z: 3.8369305e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:IndexFinger3_R_Slide50
+      parentName: huissein:IndexFinger2_R
+      position: {x: -0.015352311, y: -7.105427e-17, z: -1.065814e-15}
+      rotation: {x: -0.014286291, y: 0.0370301, z: 0.00010521577, w: 0.9992121}
+      scale: {x: 0.99999875, y: 1.0000007, z: 0.9999999}
+    - name: huissein:IndexFinger3_R_middleSlider3
+      parentName: huissein:IndexFinger3_R_Slide50
+      position: {x: 0.00020678455, y: -0.00000026299463, z: 0.00785391}
+      rotation: {x: -0, y: -0, z: 0.0000000055879354, w: 1}
+      scale: {x: 0.9999996, y: 0.9999987, z: 0.9999979}
+    - name: huissein:IndexFinger3_R_middleSlider1
+      parentName: huissein:IndexFinger3_R_Slide50
+      position: {x: 0.00020678455, y: -0.00000026299463, z: -0.007823184}
+      rotation: {x: -0, y: -0, z: 5.8207633e-11, w: 1}
+      scale: {x: 0.99999833, y: 0.9999991, z: 1.0000004}
+    - name: huissein:IndexFinger3_R_middleSlider2
+      parentName: huissein:IndexFinger3_R_Slide50
+      position: {x: 0.00020678455, y: 0.007907744, z: 0.000015343925}
+      rotation: {x: -0, y: -0, z: 5.8207633e-11, w: 1}
+      scale: {x: 0.99999833, y: 0.9999991, z: 1.0000004}
+    - name: huissein:IndexFinger3_R_middleSlider0
+      parentName: huissein:IndexFinger3_R_Slide50
+      position: {x: 0.00020678455, y: -0.007908448, z: 0.000015343925}
+      rotation: {x: -0, y: -0, z: 5.8207633e-11, w: 1}
+      scale: {x: 0.99999833, y: 0.9999991, z: 1.0000004}
+    - name: huissein:IndexFinger2_R_Slide50
+      parentName: huissein:IndexFinger1_R
+      position: {x: -0.014896334, y: 2.842171e-16, z: -2.842171e-16}
+      rotation: {x: 0.000009469684, y: -0.062346198, z: -0.00015128212, w: 0.9980546}
+      scale: {x: 1.0000026, y: 1.0000021, z: 1.0000019}
+    - name: huissein:IndexFinger2_R_middleSlider0
+      parentName: huissein:IndexFinger2_R_Slide50
+      position: {x: 0.00020574122, y: -0.008284485, z: -0.000025805077}
+      rotation: {x: -0, y: -0, z: -0.0000000037252903, w: 1}
+      scale: {x: 1.0000023, y: 1.0000011, z: 0.99999815}
+    - name: huissein:IndexFinger2_R_middleSlider3
+      parentName: huissein:IndexFinger2_R_Slide50
+      position: {x: 0.00020574122, y: 0.000000062357344, z: 0.008200391}
+      rotation: {x: 9.094944e-13, y: -0, z: -1.3073982e-12, w: 1}
+      scale: {x: 0.99999964, y: 1.0000007, z: 1}
+    - name: huissein:IndexFinger2_R_middleSlider2
+      parentName: huissein:IndexFinger2_R_Slide50
+      position: {x: 0.00020574122, y: 0.008284646, z: -0.000025805077}
+      rotation: {x: 9.094944e-13, y: -0, z: -1.3073982e-12, w: 1}
+      scale: {x: 0.99999964, y: 1.0000007, z: 1}
+    - name: huissein:IndexFinger2_R_middleSlider1
+      parentName: huissein:IndexFinger2_R_Slide50
+      position: {x: 0.00020574122, y: 0.000000062357344, z: -0.008252}
+      rotation: {x: 9.094944e-13, y: -0, z: -1.3073982e-12, w: 1}
+      scale: {x: 0.99999964, y: 1.0000007, z: 1}
+    - name: huissein:Cup_R
+      parentName: huissein:Wrist_R
+      position: {x: -0.012358261, y: -0.0075016245, z: -0.00018342947}
+      rotation: {x: -0.000014549365, y: 0.008558197, z: -0.0017003929, w: 0.999962}
+      scale: {x: 0.9999986, y: 0.9999986, z: 0.99999934}
+    - name: huissein:PinkyFinger1_R
+      parentName: huissein:Cup_R
+      position: {x: -0.032250788, y: -0.018044248, z: -0.00039581402}
+      rotation: {x: 0.078955926, y: -0.10430812, z: 0.21270607, w: 0.9683191}
+      scale: {x: 1.0000058, y: 1.0000024, z: 1.0000019}
+    - name: huissein:PinkyFinger2_R_Slide00Offset
+      parentName: huissein:PinkyFinger1_R
+      position: {x: -0.013517646, y: 2.1316282e-16, z: -2.4158453e-15}
+      rotation: {x: 0.0022996243, y: -0.10350637, z: 0.0005092046, w: 0.994626}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:PinkyFinger2_R_Slide00
+      parentName: huissein:PinkyFinger2_R_Slide00Offset
+      position: {x: -8.8817837e-17, y: -3.5527136e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:PinkyFinger2_R
+      parentName: huissein:PinkyFinger1_R
+      position: {x: -0.013517646, y: 3.5527136e-17, z: -1.4210854e-15}
+      rotation: {x: 0.0022996103, y: -0.10350638, z: 0.0005092024, w: 0.994626}
+      scale: {x: 0.99999964, y: 1.0000007, z: 1.000002}
+    - name: huissein:PinkyFinger3_R_Slide00Offset
+      parentName: huissein:PinkyFinger2_R
+      position: {x: -0.011462997, y: 3.1974422e-16, z: -5.684342e-16}
+      rotation: {x: 0.018709624, y: 0.039657593, z: 0.00097019563, w: 0.9990377}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:PinkyFinger3_R_Slide00
+      parentName: huissein:PinkyFinger3_R_Slide00Offset
+      position: {x: -0, y: -3.5527136e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:PinkyFinger3_R
+      parentName: huissein:PinkyFinger2_R
+      position: {x: -0.011462997, y: -1.7763568e-17, z: -6.9277914e-16}
+      rotation: {x: 0.01870956, y: 0.039657548, z: 0.0009702408, w: 0.9990377}
+      scale: {x: 0.9999976, y: 0.9999996, z: 0.99999905}
+    - name: huissein:PinkyFinger4_R
+      parentName: huissein:PinkyFinger3_R
+      position: {x: -0.0113213295, y: 7.105427e-17, z: 5.8264504e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:PinkyFinger3_R_Slide50
+      parentName: huissein:PinkyFinger2_R
+      position: {x: -0.011670351, y: -1.7763568e-17, z: -6.750156e-16}
+      rotation: {x: 0.01870958, y: 0.039657667, z: 0.0009702002, w: 0.99903774}
+      scale: {x: 0.99999964, y: 1.0000006, z: 1.0000013}
+    - name: huissein:PinkyFinger3_R_middleSlider3
+      parentName: huissein:PinkyFinger3_R_Slide50
+      position: {x: 0.0002067006, y: -0.00000009425586, z: 0.0076521137}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000024, y: 1.0000007, z: 1.0000014}
+    - name: huissein:PinkyFinger3_R_middleSlider1
+      parentName: huissein:PinkyFinger3_R_Slide50
+      position: {x: 0.0002067006, y: -0.00000009425586, z: -0.0076192245}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000024, y: 1.0000007, z: 1.0000014}
+    - name: huissein:PinkyFinger3_R_middleSlider0
+      parentName: huissein:PinkyFinger3_R_Slide50
+      position: {x: 0.0002067006, y: -0.007705629, z: 0.00001643796}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000024, y: 1.0000007, z: 1.0000014}
+    - name: huissein:PinkyFinger3_R_middleSlider2
+      parentName: huissein:PinkyFinger3_R_Slide50
+      position: {x: 0.0002067006, y: 0.007705377, z: 0.00001643796}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000024, y: 1.0000007, z: 1.0000014}
+    - name: huissein:PinkyFinger2_R_Slide50
+      parentName: huissein:PinkyFinger1_R
+      position: {x: -0.0137249995, y: 1.0658141e-16, z: -1.2789769e-15}
+      rotation: {x: 0.0022995314, y: -0.10350637, z: 0.0005091762, w: 0.994626}
+      scale: {x: 0.99999964, y: 1.0000006, z: 1.0000019}
+    - name: huissein:PinkyFinger2_R_middleSlider1
+      parentName: huissein:PinkyFinger2_R_Slide50
+      position: {x: 0.00020291012, y: -0.00000030874637, z: -0.0076784287}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000024, y: 1.0000001, z: 0.99999857}
+    - name: huissein:PinkyFinger2_R_middleSlider3
+      parentName: huissein:PinkyFinger2_R_Slide50
+      position: {x: 0.00020291012, y: -0.00000030874637, z: 0.0075930357}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000024, y: 1.0000001, z: 0.99999857}
+    - name: huissein:PinkyFinger2_R_middleSlider0
+      parentName: huissein:PinkyFinger2_R_Slide50
+      position: {x: 0.00020291012, y: -0.007689489, z: -0.00004269359}
+      rotation: {x: -2.3283056e-10, y: -0, z: -1.0186337e-10, w: 1}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000012}
+    - name: huissein:PinkyFinger2_R_middleSlider2
+      parentName: huissein:PinkyFinger2_R_Slide50
+      position: {x: 0.00020291012, y: 0.007688712, z: -0.00004269359}
+      rotation: {x: -2.3283056e-10, y: -0, z: -1.0186337e-10, w: 1}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000012}
+    - name: huissein:RingFinger1_R
+      parentName: huissein:Cup_R
+      position: {x: -0.039563783, y: -0.0073538283, z: 0.0005602139}
+      rotation: {x: 0.00648561, y: -0.10250522, z: 0.10950451, w: 0.9886655}
+      scale: {x: 1.0000061, y: 1.0000023, z: 1.0000031}
+    - name: huissein:RingFinger2_R_Slide00Offset
+      parentName: huissein:RingFinger1_R
+      position: {x: -0.016021928, y: 1.6431301e-16, z: -4.405365e-15}
+      rotation: {x: -0.0024703585, y: -0.131773, z: 0.0002003228, w: 0.99127686}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:RingFinger2_R_Slide00
+      parentName: huissein:RingFinger2_R_Slide00Offset
+      position: {x: -8.881784e-18, y: 6.661338e-18, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:RingFinger2_R
+      parentName: huissein:RingFinger1_R
+      position: {x: -0.016021928, y: -7.9936054e-17, z: -7.105427e-16}
+      rotation: {x: -0.0024704167, y: -0.13177298, z: 0.00020030883, w: 0.99127686}
+      scale: {x: 1.0000029, y: 1.0000036, z: 1.0000026}
+    - name: huissein:RingFinger3_R_Slide00Offset
+      parentName: huissein:RingFinger2_R
+      position: {x: -0.012311015, y: 2.6201262e-16, z: -2.2737367e-15}
+      rotation: {x: 0.004942361, y: 0.03409804, z: 0.00006922878, w: 0.9994063}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:RingFinger3_R_Slide00
+      parentName: huissein:RingFinger3_R_Slide00Offset
+      position: {x: -7.105427e-17, y: 1.5265567e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:RingFinger3_R_Slide50
+      parentName: huissein:RingFinger2_R
+      position: {x: -0.012518368, y: -5.3290704e-17, z: -1.4210854e-16}
+      rotation: {x: 0.004942419, y: 0.03409803, z: 0.0000692606, w: 0.99940634}
+      scale: {x: 1.0000005, y: 0.9999997, z: 1.0000015}
+    - name: huissein:RingFinger3_R_middleSlider1
+      parentName: huissein:RingFinger3_R_Slide50
+      position: {x: 0.00020687105, y: 0.000000041195747, z: -0.008037605}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.99999976}
+    - name: huissein:RingFinger3_R_middleSlider2
+      parentName: huissein:RingFinger3_R_Slide50
+      position: {x: 0.00020687105, y: 0.008121137, z: 0.000014132422}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.99999976}
+    - name: huissein:RingFinger3_R_middleSlider0
+      parentName: huissein:RingFinger3_R_Slide50
+      position: {x: 0.00020687105, y: -0.008121027, z: 0.000014132422}
+      rotation: {x: -0.0000000055879315, y: -0.00000007823104, z: 0.000000004089085,
+        w: 1}
+      scale: {x: 0.999995, y: 0.9999964, z: 0.9999962}
+    - name: huissein:RingFinger3_R_middleSlider3
+      parentName: huissein:RingFinger3_R_Slide50
+      position: {x: 0.00020687105, y: 0.000000041195747, z: 0.008065875}
+      rotation: {x: -0.0000000055879315, y: -0.00000007823104, z: 0.000000004089085,
+        w: 1}
+      scale: {x: 0.999995, y: 0.9999964, z: 0.9999962}
+    - name: huissein:RingFinger3_R
+      parentName: huissein:RingFinger2_R
+      position: {x: -0.012311015, y: -1.7763568e-17, z: -1.2434498e-16}
+      rotation: {x: 0.0049424334, y: 0.03409802, z: 0.00006925958, w: 0.99940634}
+      scale: {x: 1.0000042, y: 1.0000014, z: 1.0000035}
+    - name: huissein:RingFinger4_R
+      parentName: huissein:RingFinger3_R
+      position: {x: -0.01232479, y: -4.3076652e-16, z: 7.105427e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:RingFinger2_R_Slide50
+      parentName: huissein:RingFinger1_R
+      position: {x: -0.016229281, y: -1.5099033e-16, z: -7.105427e-16}
+      rotation: {x: -0.002470407, y: -0.13177294, z: 0.00020027535, w: 0.99127686}
+      scale: {x: 1.0000006, y: 1.0000012, z: 0.9999999}
+    - name: huissein:RingFinger2_R_middleSlider0
+      parentName: huissein:RingFinger2_R_Slide50
+      position: {x: 0.0002001522, y: -0.008302281, z: -0.000054170614}
+      rotation: {x: -0, y: -0, z: -0.000000014901161, w: 1}
+      scale: {x: 0.9999994, y: 0.999999, z: 0.99999803}
+    - name: huissein:RingFinger2_R_middleSlider3
+      parentName: huissein:RingFinger2_R_Slide50
+      position: {x: 0.0002001522, y: 0.000000052647465, z: 0.0081979735}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000013, y: 1.0000005, z: 1.0000007}
+    - name: huissein:RingFinger2_R_middleSlider1
+      parentName: huissein:RingFinger2_R_Slide50
+      position: {x: 0.0002001522, y: 0.000000052647465, z: -0.008306316}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000013, y: 1.0000005, z: 1.0000007}
+    - name: huissein:RingFinger2_R_middleSlider2
+      parentName: huissein:RingFinger2_R_Slide50
+      position: {x: 0.0002001522, y: 0.008302412, z: -0.000054170614}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000013, y: 1.0000005, z: 1.0000007}
+    - name: huissein:Wrist_R_Slide50
+      parentName: huissein:ElbowPart4_R
+      position: {x: -0.022184405, y: 3.5527136e-17, z: 7.602807e-15}
+      rotation: {x: -0.00022365618, y: 0.004273406, z: -0.033703145, w: 0.9994227}
+      scale: {x: 1.0000033, y: 1.0000006, z: 1.0000014}
+    - name: huissein:Wrist_R_middleSlider3
+      parentName: huissein:Wrist_R_Slide50
+      position: {x: 0.00020687457, y: 0.0000139684125, z: 0.01441168}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999535, z: 0.99999905}
+    - name: huissein:Wrist_R_middleSlider2
+      parentName: huissein:Wrist_R_Slide50
+      position: {x: 0.00020687457, y: 0.03330085, z: 0.0000017743193}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999535, z: 0.99999905}
+    - name: huissein:Wrist_R_middleSlider0
+      parentName: huissein:Wrist_R_Slide50
+      position: {x: 0.00020687457, y: -0.033272915, z: 0.0000017743193}
+      rotation: {x: -0, y: -4.6566112e-10, z: 0.0000000020996815, w: 1}
+      scale: {x: 1.0000027, y: 1.0000001, z: 1.0000015}
+    - name: huissein:Wrist_R_middleSlider1
+      parentName: huissein:Wrist_R_Slide50
+      position: {x: 0.00020687457, y: 0.0000139684125, z: -0.014408131}
+      rotation: {x: -0, y: -4.6566112e-10, z: 0.0000000020996815, w: 1}
+      scale: {x: 1.0000027, y: 1.0000001, z: 1.0000015}
+    - name: huissein:Hip_L
+      parentName: huissein:Root_M
+      position: {x: 0.02931992, y: -0.005531753, z: 0.052333992}
+      rotation: {x: -0.99886477, y: -0.014136226, z: -0.038633466, w: 0.024015414}
+      scale: {x: 1.0000039, y: 1.0000036, z: 1.0000038}
+    - name: huissein:HipPart1_L
+      parentName: huissein:Hip_L
+      position: {x: 0.043890048, y: 7.105427e-17, z: -1.4210854e-16}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000018, y: 1.0000021, z: 1.0000018}
+    - name: huissein:HipPart2_L
+      parentName: huissein:HipPart1_L
+      position: {x: 0.043890048, y: -1.4210854e-16, z: -4.2632563e-16}
+      rotation: {x: 0.000000029802319, y: -0.000000029802319, z: 0.000000029802319,
+        w: 1}
+      scale: {x: 1.0000025, y: 1.0000025, z: 1.0000024}
+    - name: huissein:HipPart3_L
+      parentName: huissein:HipPart2_L
+      position: {x: 0.04389004, y: 1.4210854e-16, z: 1.4210854e-16}
+      rotation: {x: -0.0000000037252885, y: -0.000000018189898, z: -0.000000026077027,
+        w: 1}
+      scale: {x: 0.99999875, y: 0.9999994, z: 0.9999992}
+    - name: huissein:HipPart4_L
+      parentName: huissein:HipPart3_L
+      position: {x: 0.043890048, y: -7.105427e-17, z: 0}
+      rotation: {x: -0.4706429, y: -0.011201093, z: -0.036268324, w: 0.881507}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.000001}
+    - name: huissein:Knee_L_Slide00Offset
+      parentName: huissein:HipPart4_L
+      position: {x: 0.04389004, y: 0.000000011327831, z: -5.3290704e-17}
+      rotation: {x: 0, y: 0, z: 0.07464803, w: 0.99720997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Knee_L_Slide00
+      parentName: huissein:Knee_L_Slide00Offset
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Knee_L
+      parentName: huissein:HipPart4_L
+      position: {x: 0.043890048, y: 7.105427e-17, z: -1.4210854e-16}
+      rotation: {x: 0.000000052159265, y: 0.00000003992398, z: -0.074647896, w: -0.99721}
+      scale: {x: 1.0000024, y: 1.0000002, z: 1.0000005}
+    - name: huissein:KneePart1_L
+      parentName: huissein:Knee_L
+      position: {x: 0.03593839, y: 1.4210854e-16, z: -2.842171e-16}
+      rotation: {x: -0.000000029802319, y: -0.000000029802319, z: 0.00000004470348,
+        w: 1}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000012}
+    - name: huissein:KneePart2_L
+      parentName: huissein:KneePart1_L
+      position: {x: 0.03593839, y: -2.1316282e-16, z: 0}
+      rotation: {x: 0.00000007124827, y: -0.000000015385352, z: 0.000000052154057,
+        w: 1}
+      scale: {x: 0.9999973, y: 0.9999983, z: 0.9999985}
+    - name: huissein:KneePart3_L
+      parentName: huissein:KneePart2_L
+      position: {x: 0.035938386, y: -7.105427e-17, z: 0}
+      rotation: {x: -0.000000014901159, y: 0.000000029802319, z: -0.000000119209275,
+        w: 1}
+      scale: {x: 1.0000021, y: 1.000001, z: 1.0000019}
+    - name: huissein:KneePart4_L
+      parentName: huissein:KneePart3_L
+      position: {x: 0.03593839, y: -7.105427e-17, z: -1.4210854e-16}
+      rotation: {x: 0.000000040169073, y: 0.0000000083192075, z: -0.00000008940696,
+        w: 1}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000002}
+    - name: huissein:Ankle_L_Slide00Offset
+      parentName: huissein:KneePart4_L
+      position: {x: 0.035938382, y: 0.000000001083199, z: 1.5987211e-16}
+      rotation: {x: 0.007893193, y: -0.03900471, z: -0.06233243, w: 0.99726176}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Ankle_L_Slide00
+      parentName: huissein:Ankle_L_Slide00Offset
+      position: {x: 8.881784e-18, y: 0, z: 1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Ankle_L
+      parentName: huissein:KneePart4_L
+      position: {x: 0.03593839, y: -7.105427e-17, z: 4.2632563e-16}
+      rotation: {x: 0.0078932345, y: -0.03900467, z: -0.062332287, w: 0.99726176}
+      scale: {x: 1.0000029, y: 1.0000042, z: 1.0000037}
+    - name: huissein:Toes_L
+      parentName: huissein:Ankle_L
+      position: {x: 0.042283043, y: -0.08546916, z: -9.947598e-16}
+      rotation: {x: 0.013513374, y: -0.0012863558, z: 0.67201656, w: -0.74041176}
+      scale: {x: 1.0000038, y: 1.0000095, z: 1.0000031}
+    - name: huissein:ToesEnd_L
+      parentName: huissein:Toes_L
+      position: {x: 0.054872263, y: 1.8207657e-16, z: 1.5987211e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Ankle_L_Slide50
+      parentName: huissein:KneePart4_L
+      position: {x: 0.036145743, y: -7.105427e-17, z: 2.842171e-16}
+      rotation: {x: 0.007893264, y: -0.039004683, z: -0.062332258, w: 0.99726176}
+      scale: {x: 1.0000006, y: 1.0000012, z: 1.0000007}
+    - name: huissein:Ankle_L_middleSlider3
+      parentName: huissein:Ankle_L_Slide50
+      position: {x: -0.0002051109, y: -0.0005761235, z: 0.032496706}
+      rotation: {x: -0, y: -0, z: 0.000000014901161, w: 1}
+      scale: {x: 0.99999696, y: 0.99999857, z: 0.9999982}
+    - name: huissein:Ankle_L_middleSlider2
+      parentName: huissein:Ankle_L_Slide50
+      position: {x: -0.00020511517, y: 0.040641837, z: -0.00053413527}
+      rotation: {x: -0, y: -0, z: 0.000000014901161, w: 1}
+      scale: {x: 0.99999696, y: 0.99999857, z: 0.9999982}
+    - name: huissein:Ankle_L_middleSlider1
+      parentName: huissein:Ankle_L_Slide50
+      position: {x: -0.00020511098, y: 0.0005248175, z: -0.03246315}
+      rotation: {x: -0, y: -0, z: 0.000000014901161, w: 1}
+      scale: {x: 0.99999696, y: 0.99999857, z: 0.9999982}
+    - name: huissein:Ankle_L_middleSlider0
+      parentName: huissein:Ankle_L_Slide50
+      position: {x: -0.00020510671, y: -0.04077849, z: 0.0005668058}
+      rotation: {x: -0.000000032596287, y: 0.00000001862645, z: -0.000000009924405,
+        w: 1}
+      scale: {x: 1, y: 1.000002, z: 1.0000017}
+    - name: huissein:Knee_L_Slide50
+      parentName: huissein:HipPart4_L
+      position: {x: 0.044097397, y: 7.105427e-17, z: -1.4210854e-16}
+      rotation: {x: -0.0000000055827396, y: -0.000000021223169, z: -0.074647926, w: -0.99721}
+      scale: {x: 0.9999983, y: 0.99999833, z: 0.9999989}
+    - name: huissein:Knee_L_middleSlider2
+      parentName: huissein:Knee_L_Slide50
+      position: {x: -0.00020504223, y: 0.057089817, z: 1.4210854e-16}
+      rotation: {x: -0, y: -0, z: -1.1848342e-16, w: 1}
+      scale: {x: 1.0000018, y: 1.0000017, z: 1.0000011}
+    - name: huissein:Knee_L_middleSlider0
+      parentName: huissein:Knee_L_Slide50
+      position: {x: -0.00020504273, y: -0.05703767, z: 1.9539925e-16}
+      rotation: {x: -0, y: -0, z: -1.1848342e-16, w: 1}
+      scale: {x: 1.0000014, y: 1.0000015, z: 1.0000013}
+    - name: huissein:FaceGroup
+      parentName: huissein:Group
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:FaceMotionSystem
+      parentName: huissein:FaceGroup
+      position: {x: -0.97218, y: 0.8491194, z: -0.23563358}
+      rotation: {x: -0.254625, y: 0.3325237, z: 0.09885685, w: 0.9026746}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:ControlsSetup
+      parentName: huissein:FaceMotionSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:OnFacecontrols
+      parentName: huissein:ControlsSetup
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.6305681, y: 1.6305681, z: 1.6305681}
+    - name: huissein:SideReverse_M
+      parentName: huissein:OnFacecontrols
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipRegionOffset_M
+      parentName: huissein:SideReverse_M
+      position: {x: 2.246721e-16, y: -0.01580761, z: 0.07207712}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:SDKLipRegion_M
+      parentName: huissein:LipRegionOffset_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipRegion_M
+      parentName: huissein:SDKLipRegion_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipOffset_R
+      parentName: huissein:LipRegion_M
+      position: {x: 0.01706767, y: 0.0019907185, z: -0.0069058733}
+      rotation: {x: 5.0315898e-17, y: 0.98635477, z: -5.0315898e-17, w: -0.16463378}
+      scale: {x: 1, y: 1, z: -1}
+    - name: huissein:LipFollow_R
+      parentName: huissein:LipOffset_R
+      position: {x: 0.000016760583, y: -0.0027008539, z: 0.000048809285}
+      rotation: {x: 0.01764102, y: -3.0156257e-12, z: -0.006057737, w: 0.999826}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:SDKLip_R
+      parentName: huissein:LipFollow_R
+      position: {x: 0.003344319, y: 0.0018756408, z: -0.00001660247}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Lip_R
+      parentName: huissein:SDKLip_R
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipNonNarrowParent_R
+      parentName: huissein:LipFollow_R
+      position: {x: 0.019300235, y: -0.0033976173, z: 0.0036527733}
+      rotation: {x: 5.0315898e-17, y: 0.98635477, z: -5.0315898e-17, w: -0.16463378}
+      scale: {x: 0.61328316, y: 0.61328316, z: -0.61328316}
+    - name: huissein:LipNonNarrowAim_R
+      parentName: huissein:LipNonNarrowParent_R
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.050788563, y: 0.71979755, z: 0.62122774, w: -0.3055948}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipNonNarrow_R
+      parentName: huissein:LipNonNarrowAim_R
+      position: {x: -0.03250462, y: -3.5527136e-17, z: 1.4210854e-16}
+      rotation: {x: -0.18292189, y: -0.6211124, z: 0.760287, w: -0.052179523}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipNonNarrow2_R
+      parentName: huissein:LipNonNarrowAim_R
+      position: {x: -0.028046856, y: -5.3290704e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipOffset_L
+      parentName: huissein:LipRegion_M
+      position: {x: -0.01706767, y: 0.0019907185, z: -0.0069058733}
+      rotation: {x: 0, y: -0.16463378, z: -0, w: 0.98635477}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipFollow_L
+      parentName: huissein:LipOffset_L
+      position: {x: 0.000016760583, y: -0.0027008539, z: 0.000048809285}
+      rotation: {x: 0.01764102, y: -3.0156257e-12, z: -0.006057737, w: 0.999826}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:SDKLip_L
+      parentName: huissein:LipFollow_L
+      position: {x: 0.0013462193, y: 0.0029280423, z: -0.000040808634}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:Lip_L
+      parentName: huissein:SDKLip_L
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipNonNarrowParent_L
+      parentName: huissein:LipFollow_L
+      position: {x: 0.019300235, y: -0.0033976173, z: 0.0036527733}
+      rotation: {x: 0, y: 0.16463378, z: -0, w: 0.98635477}
+      scale: {x: 0.61328316, y: 0.61328316, z: 0.61328316}
+    - name: huissein:LipNonNarrowAim_L
+      parentName: huissein:LipNonNarrowParent_L
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.6226073, y: -0.30301595, z: 0.035456087, w: 0.7206139}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipNonNarrow_L
+      parentName: huissein:LipNonNarrowAim_L
+      position: {x: -0.03250462, y: -3.5527136e-17, z: -1.4210854e-16}
+      rotation: {x: -0.6199489, y: 0.18024385, z: 0.06752991, w: 0.7606676}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipNonNarrow2_L
+      parentName: huissein:LipNonNarrowAim_L
+      position: {x: -0.031618025, y: 0, z: 2.842171e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:squashIKX1
+      parentName: huissein:FaceMotionSystem
+      position: {x: 0.0064641177, y: -0.06651841, z: 0.034875516}
+      rotation: {x: -0.5, y: 0.5, z: 0.5, w: -0.49999997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:squashIKX2
+      parentName: huissein:squashIKX1
+      position: {x: -0.029411372, y: 5.782855e-17, z: 0.000000001285612}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:squashIKX3
+      parentName: huissein:squashIKX2
+      position: {x: -0.029411372, y: 5.782855e-17, z: 0.000000001285612}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:squashIKX4
+      parentName: huissein:squashIKX3
+      position: {x: -0.029411372, y: 5.782855e-17, z: 0.000000001285612}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:squashIKX5
+      parentName: huissein:squashIKX4
+      position: {x: -0.029411372, y: 5.782855e-17, z: 0.000000001285612}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:squashIKX6
+      parentName: huissein:squashIKX5
+      position: {x: -0.029411372, y: 5.782855e-17, z: 0.000000001285612}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:squashIKX7
+      parentName: huissein:squashIKX6
+      position: {x: -0.029411372, y: 5.782855e-17, z: 0.000000001285612}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:squashIKX8
+      parentName: huissein:squashIKX7
+      position: {x: -0.029411372, y: 5.782855e-17, z: 0.000000001285612}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:squashIKX9
+      parentName: huissein:squashIKX8
+      position: {x: -0.029411372, y: 5.782855e-17, z: 0.000000001285612}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:SquashControls
+      parentName: huissein:FaceMotionSystem
+      position: {x: 0.006464035, y: -0.06651841, z: 0.034875516}
+      rotation: {x: 1.3877788e-16, y: -1.6653345e-16, z: -1.3877788e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:squashBase_M
+      parentName: huissein:SquashControls
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:squashFfdBase
+      parentName: huissein:squashBase_M
+      position: {x: -0, y: 0.11764549, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 29.411373, y: 29.411373, z: 29.411373}
+    - name: huissein:squashIKX0
+      parentName: huissein:squashBase_M
+      position: {x: -0, y: 0, z: 2.5243548e-31}
+      rotation: {x: -0.5, y: 0.5, z: 0.5, w: -0.49999997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:FaceDeformationSystem
+      parentName: huissein:FaceGroup
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipSetup
+      parentName: huissein:FaceDeformationSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipRibbon
+      parentName: huissein:LipSetup
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperLipCenterPlane
+      parentName: huissein:LipRibbon
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerLipCenterPlane
+      parentName: huissein:LipRibbon
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipFollicles
+      parentName: huissein:LipSetup
+      position: {x: -0.8952537, y: 0.8894041, z: -0.14529687}
+      rotation: {x: -0.254625, y: 0.3325237, z: 0.09885685, w: 0.9026746}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle0_M
+      parentName: huissein:LipFollicles
+      position: {x: -0.000007833216, y: 0.01198967, z: -0.0017398511}
+      rotation: {x: 0.0027230037, y: 0.70602137, z: 0.70818526, w: -0.0002623327}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle1_R
+      parentName: huissein:LipFollicles
+      position: {x: 0.0027730193, y: 0.012004788, z: -0.0021717055}
+      rotation: {x: 0.041632522, y: 0.70450217, z: 0.70669764, w: -0.05021878}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle2_R
+      parentName: huissein:LipFollicles
+      position: {x: 0.006113035, y: 0.012065365, z: -0.0032022556}
+      rotation: {x: 0.085297234, y: 0.69967914, z: 0.70237684, w: -0.099198155}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle3_R
+      parentName: huissein:LipFollicles
+      position: {x: 0.010433577, y: 0.012142283, z: -0.0048329774}
+      rotation: {x: 0.13973412, y: 0.69022924, z: 0.69495577, w: -0.14523959}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle4_R
+      parentName: huissein:LipFollicles
+      position: {x: 0.015101234, y: 0.012078744, z: -0.007097052}
+      rotation: {x: 0.20583326, y: 0.6770806, z: 0.68493646, w: -0.17336836}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle5_R
+      parentName: huissein:LipFollicles
+      position: {x: 0.019264381, y: 0.011596178, z: -0.009825827}
+      rotation: {x: 0.29875895, y: 0.660978, z: 0.66749734, w: -0.16822183}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle6_R
+      parentName: huissein:LipFollicles
+      position: {x: 0.022562647, y: 0.010188524, z: -0.013253647}
+      rotation: {x: 0.44138825, y: 0.6366689, z: 0.6208627, w: -0.119827755}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle7_R
+      parentName: huissein:LipFollicles
+      position: {x: 0.024555165, y: 0.008083403, z: -0.016196433}
+      rotation: {x: 0.53670555, y: 0.62684125, z: 0.5605037, w: -0.06966171}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle8_R
+      parentName: huissein:LipFollicles
+      position: {x: 0.025857093, y: 0.005976198, z: -0.018347738}
+      rotation: {x: 0.566073, y: 0.6381055, z: 0.519538, w: -0.049628742}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle9_R
+      parentName: huissein:LipFollicles
+      position: {x: 0.0263435, y: 0.0049509443, z: -0.019358367}
+      rotation: {x: 0.47475246, y: 0.65210015, z: 0.5700681, w: -0.15619805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle1_L
+      parentName: huissein:LipFollicles
+      position: {x: -0.002789453, y: 0.012024347, z: -0.002147901}
+      rotation: {x: -0.036060404, y: 0.70470715, z: 0.7068368, w: 0.049692284}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle2_L
+      parentName: huissein:LipFollicles
+      position: {x: -0.006132569, y: 0.012110178, z: -0.0031477164}
+      rotation: {x: -0.079234816, y: 0.7001393, z: 0.7027037, w: 0.098662935}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle3_L
+      parentName: huissein:LipFollicles
+      position: {x: -0.010461258, y: 0.012225832, z: -0.0047312984}
+      rotation: {x: -0.1323608, y: 0.6911227, z: 0.69562197, w: 0.14470693}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle4_L
+      parentName: huissein:LipFollicles
+      position: {x: -0.015144844, y: 0.012219918, z: -0.006925245}
+      rotation: {x: -0.19564998, y: 0.6788429, z: 0.6862767, w: 0.17296745}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle5_L
+      parentName: huissein:LipFollicles
+      position: {x: -0.019333642, y: 0.011821825, z: -0.009551217}
+      rotation: {x: -0.28333905, y: 0.66489893, z: 0.67027944, w: 0.16838603}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle6_L
+      parentName: huissein:LipFollicles
+      position: {x: -0.022672674, y: 0.010547156, z: -0.012817199}
+      rotation: {x: -0.42379037, y: 0.64412016, z: 0.6252642, w: 0.120646626}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle7_L
+      parentName: huissein:LipFollicles
+      position: {x: -0.024705255, y: 0.0085723465, z: -0.0156013975}
+      rotation: {x: -0.52434486, y: 0.63423496, z: 0.56398004, w: 0.06881147}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle8_L
+      parentName: huissein:LipFollicles
+      position: {x: -0.02603486, y: 0.006554631, z: -0.017643785}
+      rotation: {x: -0.5577246, y: 0.64384335, z: 0.52167076, w: 0.047630783}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperfollicle9_L
+      parentName: huissein:LipFollicles
+      position: {x: -0.026531497, y: 0.005562229, z: -0.018614428}
+      rotation: {x: -0.47475246, y: 0.65210015, z: 0.5700681, w: 0.15619805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerfollicle0_M
+      parentName: huissein:LipFollicles
+      position: {x: -0.000007833208, y: -0.015983352, z: -0.006674744}
+      rotation: {x: 0.002950293, y: 0.6813268, z: 0.7319734, w: -0.00018242485}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerfollicle1_R
+      parentName: huissein:LipFollicles
+      position: {x: 0.004415653, y: -0.015614222, z: -0.007422786}
+      rotation: {x: 0.015855934, y: 0.6779133, z: 0.7248921, w: -0.12129979}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerfollicle2_R
+      parentName: huissein:LipFollicles
+      position: {x: 0.01037117, y: -0.014017125, z: -0.009195861}
+      rotation: {x: 0.010833539, y: 0.6638298, z: 0.7055895, w: -0.24770172}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerfollicle3_R
+      parentName: huissein:LipFollicles
+      position: {x: 0.016022692, y: -0.0110711055, z: -0.011955862}
+      rotation: {x: -0.026046172, y: 0.6365907, z: 0.686024, w: -0.3513474}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerfollicle4_R
+      parentName: huissein:LipFollicles
+      position: {x: 0.020337595, y: -0.0071629654, z: -0.014463082}
+      rotation: {x: -0.1019324, y: 0.58852386, z: 0.66676855, w: -0.44572333}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerfollicle5_R
+      parentName: huissein:LipFollicles
+      position: {x: 0.023204317, y: -0.0025403935, z: -0.016700272}
+      rotation: {x: 0.16078109, y: -0.53405374, z: -0.65133756, w: 0.51448554}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerfollicle6_R
+      parentName: huissein:LipFollicles
+      position: {x: 0.025087036, y: 0.0018211195, z: -0.018372236}
+      rotation: {x: 0.17721517, y: -0.49988455, z: -0.6519468, w: 0.54191846}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerfollicle1_L
+      parentName: huissein:LipFollicles
+      position: {x: -0.0044336314, y: -0.015579991, z: -0.0073811254}
+      rotation: {x: -0.0096256565, y: 0.6778448, z: 0.7251459, w: 0.12081893}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerfollicle2_L
+      parentName: huissein:LipFollicles
+      position: {x: -0.010400703, y: -0.013926636, z: -0.009085732}
+      rotation: {x: -0.0029928451, y: 0.66338897, z: 0.7064338, w: 0.24669307}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerfollicle3_L
+      parentName: huissein:LipFollicles
+      position: {x: -0.016077066, y: -0.010895618, z: -0.011742269}
+      rotation: {x: 0.037699, y: 0.6348859, z: 0.6882077, w: 0.34909716}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerfollicle4_L
+      parentName: huissein:LipFollicles
+      position: {x: -0.020430975, y: -0.006862503, z: -0.014097358}
+      rotation: {x: 0.11815953, y: 0.58375347, z: 0.67138094, w: 0.44104186}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerfollicle5_L
+      parentName: huissein:LipFollicles
+      position: {x: -0.023342201, y: -0.0020963866, z: -0.01615983}
+      rotation: {x: 0.1754281, y: 0.5278436, z: 0.65694237, w: 0.5089527}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerfollicle6_L
+      parentName: huissein:LipFollicles
+      position: {x: -0.02525783, y: 0.0023736567, z: -0.01769974}
+      rotation: {x: 0.1882388, y: 0.49448854, z: 0.6565979, w: 0.53751874}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipRibbonJoints
+      parentName: huissein:LipSetup
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipRibbonJoint_R
+      parentName: huissein:LipRibbonJoints
+      position: {x: -0.8861048, y: 0.8859283, z: -0.17503683}
+      rotation: {x: 0.83984834, y: 0.05223265, z: -0.47911483, w: 0.24975108}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperLipBRibbonJoint_R
+      parentName: huissein:LipRibbonJoints
+      position: {x: -0.8864013, y: 0.88849777, z: -0.17550205}
+      rotation: {x: 0.8401528, y: 0.0533433, z: -0.47692046, w: 0.2526751}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperLipARibbonJoint_R
+      parentName: huissein:LipRibbonJoints
+      position: {x: -0.889381, y: 0.8960511, z: -0.16550316}
+      rotation: {x: 0.8660529, y: 0.071794234, z: -0.4216366, w: 0.25888315}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperLipRibbonJoint_M
+      parentName: huissein:LipRibbonJoints
+      position: {x: -0.8986134, y: 0.9005202, z: -0.14906153}
+      rotation: {x: -0.254625, y: 0.3325237, z: 0.09885685, w: 0.9026746}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperLipARibbonJoint_L
+      parentName: huissein:LipRibbonJoints
+      position: {x: -0.9161977, y: 0.8959556, z: -0.14242089}
+      rotation: {x: -0.23943567, y: 0.24099204, z: 0.121841945, w: 0.93260276}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:upperLipBRibbonJoint_L
+      parentName: huissein:LipRibbonJoints
+      position: {x: -0.9266473, y: 0.8878305, z: -0.14093466}
+      rotation: {x: -0.22193293, y: 0.1802133, z: 0.13204534, w: 0.9491222}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:LipRibbonJoint_L
+      parentName: huissein:LipRibbonJoints
+      position: {x: -0.92593884, y: 0.8863577, z: -0.14049187}
+      rotation: {x: -0.21924856, y: 0.18038124, z: 0.130514, w: 0.94992566}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerLipBRibbonJoint_R
+      parentName: huissein:LipRibbonJoints
+      position: {x: -0.88443226, y: 0.8819205, z: -0.17235528}
+      rotation: {x: 0.8427313, y: 0.052784353, z: -0.47567713, w: 0.24647328}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerLipARibbonJoint_R
+      parentName: huissein:LipRibbonJoints
+      position: {x: -0.88386333, y: 0.87379426, z: -0.15943013}
+      rotation: {x: 0.87033796, y: 0.063892774, z: -0.42911386, w: 0.23300418}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerLipRibbonJoint_M
+      parentName: huissein:LipRibbonJoints
+      position: {x: -0.8916495, y: 0.8688104, z: -0.1413799}
+      rotation: {x: -0.22078009, y: 0.3359795, z: 0.08638568, w: 0.9115435}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerLipARibbonJoint_L
+      parentName: huissein:LipRibbonJoints
+      position: {x: -0.9107329, y: 0.8736982, z: -0.13630253}
+      rotation: {x: -0.21457599, y: 0.23833896, z: 0.11104222, w: 0.9406494}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:lowerLipBRibbonJoint_L
+      parentName: huissein:LipRibbonJoints
+      position: {x: -0.9245805, y: 0.88320667, z: -0.13858281}
+      rotation: {x: -0.21656196, y: 0.18054734, z: 0.12898132, w: 0.9507194}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:SquashSetup
+      parentName: huissein:FaceDeformationSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:squashFfdLattice
+      parentName: huissein:SquashSetup
+      position: {x: -0, y: 0.9011165, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 29.411373, y: 29.411373, z: 29.411373}
+    - name: huissein:model:Huissein:body
+      parentName: new hussien(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:model:Huissein_body
+      parentName: huissein:model:Huissein:body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:model:Huissein_hair
+      parentName: huissein:model:Huissein:body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:model:Huisseinl_eye
+      parentName: huissein:model:Huissein:body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:model:Huissein_lower_teeth
+      parentName: huissein:model:Huissein:body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:model:Huissein_r_eye
+      parentName: huissein:model:Huissein:body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:model:Huissein_tunge
+      parentName: huissein:model:Huissein:body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:model:Huissein_upper_teeth
+      parentName: huissein:model:Huissein:body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:model:Huissein:Object001
+      parentName: huissein:model:Huissein:body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:model:Huissein_eyebrow
+      parentName: huissein:model:Huissein:body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:model:Huissein_shoes
+      parentName: huissein:model:Huissein:body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:model:Huissein_shirt01
+      parentName: huissein:model:Huissein:body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:model:Huissein_shirt02
+      parentName: huissein:model:Huissein:body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:model:Huissein_button
+      parentName: huissein:model:Huissein:body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: huissein:model:Huissein:pants1
+      parentName: huissein:model:Huissein:body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

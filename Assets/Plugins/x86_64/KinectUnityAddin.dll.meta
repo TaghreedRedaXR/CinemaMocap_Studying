@@ -1,73 +1,50 @@
 fileFormatVersion: 2
-guid: 82e143d16729051459ae6a54b37e9eab
+guid: 80d1ff5e23b28b2428d9c2934b304f45
+timeCreated: 1471614526
+licenseType: Store
 PluginImporter:
-  externalObjects: {}
-  serializedVersion: 2
+  serializedVersion: 1
   iconMap: {}
   executionOrder: {}
-  defineConstraints: []
   isPreloaded: 0
-  isOverridable: 0
-  isExplicitlyReferenced: 0
-  validateReferences: 1
   platformData:
-  - first:
-      Any: 
-    second:
+    Any:
       enabled: 1
       settings: {}
-  - first:
-      Editor: Editor
-    second:
+    Editor:
       enabled: 0
       settings:
         CPU: x86_64
         DefaultValueInitialized: true
-  - first:
-      Facebook: Win
-    second:
+    Linux:
       enabled: 0
       settings:
         CPU: None
-  - first:
-      Facebook: Win64
-    second:
+    Linux64:
+      enabled: 1
+      settings:
+        CPU: x86_64
+    LinuxUniversal:
+      enabled: 1
+      settings:
+        CPU: x86_64
+    OSXIntel:
+      enabled: 0
+      settings:
+        CPU: None
+    OSXIntel64:
       enabled: 1
       settings:
         CPU: AnyCPU
-  - first:
-      Standalone: Linux
-    second:
+    OSXUniversal:
+      enabled: 0
+      settings:
+        CPU: x86_64
+    Win:
       enabled: 0
       settings:
         CPU: None
-  - first:
-      Standalone: Linux64
-    second:
-      enabled: 1
-      settings:
-        CPU: x86_64
-  - first:
-      Standalone: LinuxUniversal
-    second:
-      enabled: 1
-      settings:
-        CPU: x86_64
-  - first:
-      Standalone: OSXUniversal
-    second:
-      enabled: 0
-      settings:
-        CPU: x86_64
-  - first:
-      Standalone: Win
-    second:
-      enabled: 0
-      settings:
-        CPU: None
-  - first:
-      Standalone: Win64
-    second:
+    Win64:
       enabled: 1
       settings:
         CPU: AnyCPU
